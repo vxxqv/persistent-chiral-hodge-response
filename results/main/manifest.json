@@ -1,0 +1,29 @@
+{
+  "status": "completed",
+  "assertion_tested": "Frozen molecular paired symmetry and response experiment",
+  "git_revision": "34ce814a0d9b16b3abd0f2fc92b4dca5c053df49",
+  "input_sha256_before": "d51e3700496d91afb989df20112e7076dc65cc6ed92cdb422e996ad4c36c30f8",
+  "input_sha256_after": "d51e3700496d91afb989df20112e7076dc65cc6ed92cdb422e996ad4c36c30f8",
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "software": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "rdkit": "2026.9.1",
+    "matplotlib": "3.11.2",
+    "sympy": "1.14.0",
+    "gudhi": "3.13.0"
+  },
+  "elapsed_seconds": 5.581002473831177,
+  "completed_utc": "2026-10-28T13:53:26.027546+00:00",
+  "outputs": {
+    "all_results.csv": "ed369c6a1750511181e49cfc915d5438e9c9961d7e70ad233770b0df6c7eb953",
+    "atom_maps.json": "8f9f2553262d13f7bc960871253b84a52d6195d32f1927d9068265452acf1972",
+    "features.json": "b4c7aa908cd090189cdd29f4744c4ce935ab863aba65d89548de842be60f412b",
+    "molecule_summary.csv": "e0673dbe60a5097a5aff01a6c31b0e98f236f8d3fa961833b1f080dc4eaed033",
+    "summary.json": "3c7482eccca8ef09667c57cb31142231026ff44df84bcacbf1a0a3d91cd99e15",
+    "transform_checks.csv": "1664e40fce0cc6f6b3a7d81506a9e33a3a2fa04e560317f82b3f2ecdf2e21a9f"
+  },
+  "seed": 314159,
+  "generator": "PCG64"
+}

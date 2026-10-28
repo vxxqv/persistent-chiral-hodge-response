@@ -1,0 +1,75 @@
+{
+  "status": "post-primary diagnostic; not a frozen confirmatory outcome",
+  "pair_relations": {
+    "other_stereoisomers": 2228,
+    "enantiomers": 465
+  },
+  "enantiomer_parents": 337,
+  "projection_identity_max_error": 6.661338147750939e-16,
+  "mean_energies": [
+    {
+      "radius": "r2.6",
+      "representation": "distance_histogram",
+      "total_squared": 0.06684110574522027,
+      "odd_squared": 0.0,
+      "even_squared": 0.06684110574522027,
+      "balanced_squared": 3.9156252911510895e-17
+    },
+    {
+      "radius": "r2.6",
+      "representation": "persistent",
+      "total_squared": 0.6730905779844311,
+      "odd_squared": 0.5202599367278554,
+      "even_squared": 0.15283064125657553,
+      "balanced_squared": 0.5202599367278554
+    },
+    {
+      "radius": "r2.6",
+      "representation": "same_scale",
+      "total_squared": 0.6723100631768438,
+      "odd_squared": 0.5176482394219973,
+      "even_squared": 0.1546618237548465,
+      "balanced_squared": 0.5176482394219973
+    },
+    {
+      "radius": "r2.6",
+      "representation": "source",
+      "total_squared": 0.7462724538184334,
+      "odd_squared": 0.5883594254511992,
+      "even_squared": 0.15791302836723425,
+      "balanced_squared": 0.5883594254511992
+    },
+    {
+      "radius": "r3.0",
+      "representation": "distance_histogram",
+      "total_squared": 0.06684110574522027,
+      "odd_squared": 0.0,
+      "even_squared": 0.06684110574522027,
+      "balanced_squared": 3.9156252911510895e-17
+    },
+    {
+      "radius": "r3.0",
+      "representation": "persistent",
+      "total_squared": 0.828738876150977,
+      "odd_squared": 0.6354114545457871,
+      "even_squared": 0.19332742160518987,
+      "balanced_squared": 0.6354114545457871
+    },
+    {
+      "radius": "r3.0",
+      "representation": "same_scale",
+      "total_squared": 0.8413004867629064,
+      "odd_squared": 0.6484511248776276,
+      "even_squared": 0.1928493618852788,
+      "balanced_squared": 0.6484511248776276
+    },
+    {
+      "radius": "r3.0",
+      "representation": "source",
+      "total_squared": 0.8867183448480449,
+      "odd_squared": 0.6960933530431248,
+      "even_squared": 0.19062499180492012,
+      "balanced_squared": 0.6960933530431247
+    }
+  ]
+}

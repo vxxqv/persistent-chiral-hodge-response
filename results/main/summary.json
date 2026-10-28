@@ -1,0 +1,61 @@
+{
+  "n_molecules": 24,
+  "n_conformers": 192,
+  "n_paired_configurations": 1728,
+  "n_nonzero_signed": 1176,
+  "max_errors": {
+    "solve_residual": 2.0161039525850994e-15,
+    "residual_bound": 1.8527951196094843e-14,
+    "schur_difference_norm": 3.638628078352073e-14,
+    "source_parity_error": 0.0,
+    "probe_even_error": 0.0,
+    "response_parity_error": 0.0,
+    "signed_parity_error": 0.0,
+    "energy_even_error": 0.0,
+    "spectrum_even_error": 0.0
+  },
+  "min_response_source_cosine": 0.7895383170145138,
+  "median_response_source_cosine": 0.9403973917733,
+  "raw_dispersion": {
+    "median": 0.6098238463762138,
+    "bootstrap_median_95": [
+      0.5638178037927686,
+      0.841164567333898
+    ],
+    "n_molecules": 24
+  },
+  "pchr_dispersion": {
+    "median": 0.7021285759064663,
+    "bootstrap_median_95": [
+      0.5473351201921224,
+      0.9697118534936633
+    ],
+    "n_molecules": 24
+  },
+  "dispersion_difference": {
+    "median": 0.059223353209050145,
+    "bootstrap_median_95": [
+      -2.52183920722368e-06,
+      0.21835445552071708
+    ],
+    "n_molecules": 24
+  },
+  "enrichment_difference": {
+    "median": 0.005212531038600199,
+    "bootstrap_median_95": [
+      -0.10937397099280899,
+      0.048381984728077754
+    ],
+    "n_molecules": 24
+  },
+  "n_molecules_dispersion_improved": 8,
+  "n_molecules_enrichment_improved": 15,
+  "octahedron": {
+    "small_triangles": 8,
+    "later_tetrahedra": 8,
+    "outside_rank": 7,
+    "filling_space_dimension": 1,
+    "persistent_beta2": 0,
+    "smallest_eigenvalue_exact": "1"
+  }
+}

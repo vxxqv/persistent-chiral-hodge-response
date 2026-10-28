@@ -1,0 +1,332 @@
+[
+  {
+    "parent_key": "43b473fe234d24bc",
+    "graph": "CC(Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl",
+    "stereo_a": "C[C@@H](Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl",
+    "stereo_b": "C[C@H](Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl",
+    "assay_chembl_id": "CHEMBL1825352",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "pki_a": 8.7,
+    "pki_b": 6.79,
+    "delta_pki": 1.9099999999999993,
+    "absolute_delta_pki": 1.9099999999999993,
+    "cliff_ge1": true,
+    "relation": "enantiomers",
+    "molecule_ids_a": [
+      "CHEMBL601719"
+    ],
+    "molecule_ids_b": [
+      "CHEMBL1825141"
+    ],
+    "activity_ids_a": [
+      6350129
+    ],
+    "activity_ids_b": [
+      6350132
+    ],
+    "document_ids_a": [
+      "CHEMBL1821723"
+    ],
+    "document_ids_b": [
+      "CHEMBL1821723"
+    ]
+  },
+  {
+    "parent_key": "98f255299c10c247",
+    "graph": "CC1CCC(C(O)C(F)(F)F)N1c1ccc2[nH]c(=O)cc(C(F)(F)F)c2c1",
+    "stereo_a": "C[C@@H]1CC[C@H]([C@@H](O)C(F)(F)F)N1c1ccc2[nH]c(=O)cc(C(F)(F)F)c2c1",
+    "stereo_b": "C[C@@H]1CC[C@H]([C@H](O)C(F)(F)F)N1c1ccc2[nH]c(=O)cc(C(F)(F)F)c2c1",
+    "assay_chembl_id": "CHEMBL896869",
+    "target_chembl_id": "CHEMBL1871",
+    "target_name": "Androgen receptor",
+    "pki_a": 8.82,
+    "pki_b": 8.12,
+    "delta_pki": 0.7000000000000011,
+    "absolute_delta_pki": 0.7000000000000011,
+    "cliff_ge1": false,
+    "relation": "other_stereoisomers",
+    "molecule_ids_a": [
+      "CHEMBL467888"
+    ],
+    "molecule_ids_b": [
+      "CHEMBL2113293"
+    ],
+    "activity_ids_a": [
+      1926968
+    ],
+    "activity_ids_b": [
+      1926967
+    ],
+    "document_ids_a": [
+      "CHEMBL1148826"
+    ],
+    "document_ids_b": [
+      "CHEMBL1148826"
+    ]
+  },
+  {
+    "parent_key": "8dc77a0f1e57b8ae",
+    "graph": "CC1CCCN1CCCOc1ccc(-c2ccc(=O)[nH]n2)cc1",
+    "stereo_a": "C[C@@H]1CCCN1CCCOc1ccc(-c2ccc(=O)[nH]n2)cc1",
+    "stereo_b": "C[C@H]1CCCN1CCCOc1ccc(-c2ccc(=O)[nH]n2)cc1",
+    "assay_chembl_id": "CHEMBL1817408",
+    "target_chembl_id": "CHEMBL264",
+    "target_name": "Histamine H3 receptor",
+    "pki_a": 8.7,
+    "pki_b": 7.8,
+    "delta_pki": 0.8999999999999995,
+    "absolute_delta_pki": 0.8999999999999995,
+    "cliff_ge1": false,
+    "relation": "enantiomers",
+    "molecule_ids_a": [
+      "CHEMBL1829335"
+    ],
+    "molecule_ids_b": [
+      "CHEMBL1813053"
+    ],
+    "activity_ids_a": [
+      6318189
+    ],
+    "activity_ids_b": [
+      6318190
+    ],
+    "document_ids_a": [
+      "CHEMBL1811886"
+    ],
+    "document_ids_b": [
+      "CHEMBL1811886"
+    ]
+  },
+  {
+    "parent_key": "2f31cbe9ca63d0db",
+    "graph": "CN(C)C(=O)NC1CCC(CCN2CCN(c3cccc(Cl)c3Cl)CC2)CC1",
+    "stereo_a": "CN(C)C(=O)N[C@H]1CC[C@@H](CCN2CCN(c3cccc(Cl)c3Cl)CC2)CC1",
+    "stereo_b": "CN(C)C(=O)N[C@H]1CC[C@H](CCN2CCN(c3cccc(Cl)c3Cl)CC2)CC1",
+    "assay_chembl_id": "CHEMBL3089794",
+    "target_chembl_id": "CHEMBL217",
+    "target_name": "D(2) dopamine receptor",
+    "pki_a": 6.99,
+    "pki_b": 7.75,
+    "delta_pki": -0.7599999999999998,
+    "absolute_delta_pki": 0.7599999999999998,
+    "cliff_ge1": false,
+    "relation": "other_stereoisomers",
+    "molecule_ids_a": [
+      "CHEMBL3085826"
+    ],
+    "molecule_ids_b": [
+      "CHEMBL2028019"
+    ],
+    "activity_ids_a": [
+      13829490
+    ],
+    "activity_ids_b": [
+      13829497
+    ],
+    "document_ids_a": [
+      "CHEMBL3085627"
+    ],
+    "document_ids_b": [
+      "CHEMBL3085627"
+    ]
+  },
+  {
+    "parent_key": "aae88536fe89dbe9",
+    "graph": "CS(=O)(=O)c1cc(F)cc2c3c(n(Cc4ccc(Cl)cc4)c12)C(CC(=O)O)CC3",
+    "stereo_a": "CS(=O)(=O)c1cc(F)cc2c3c(n(Cc4ccc(Cl)cc4)c12)[C@@H](CC(=O)O)CC3",
+    "stereo_b": "CS(=O)(=O)c1cc(F)cc2c3c(n(Cc4ccc(Cl)cc4)c12)[C@H](CC(=O)O)CC3",
+    "assay_chembl_id": "CHEMBL856874",
+    "target_chembl_id": "CHEMBL4427",
+    "target_name": "Prostaglandin D2 receptor",
+    "pki_a": 9.24,
+    "pki_b": 8.02,
+    "delta_pki": 1.2200000000000006,
+    "absolute_delta_pki": 1.2200000000000006,
+    "cliff_ge1": true,
+    "relation": "enantiomers",
+    "molecule_ids_a": [
+      "CHEMBL426559"
+    ],
+    "molecule_ids_b": [
+      "CHEMBL387477"
+    ],
+    "activity_ids_a": [
+      1817973
+    ],
+    "activity_ids_b": [
+      1818057
+    ],
+    "document_ids_a": [
+      "CHEMBL1141416"
+    ],
+    "document_ids_b": [
+      "CHEMBL1141416"
+    ]
+  },
+  {
+    "parent_key": "aae88536fe89dbe9",
+    "graph": "CS(=O)(=O)c1cc(F)cc2c3c(n(Cc4ccc(Cl)cc4)c12)C(CC(=O)O)CC3",
+    "stereo_a": "CS(=O)(=O)c1cc(F)cc2c3c(n(Cc4ccc(Cl)cc4)c12)[C@@H](CC(=O)O)CC3",
+    "stereo_b": "CS(=O)(=O)c1cc(F)cc2c3c(n(Cc4ccc(Cl)cc4)c12)[C@H](CC(=O)O)CC3",
+    "assay_chembl_id": "CHEMBL856875",
+    "target_chembl_id": "CHEMBL2069",
+    "target_name": "Thromboxane A2 receptor",
+    "pki_a": 8.53,
+    "pki_b": 5.98,
+    "delta_pki": 2.549999999999999,
+    "absolute_delta_pki": 2.549999999999999,
+    "cliff_ge1": true,
+    "relation": "enantiomers",
+    "molecule_ids_a": [
+      "CHEMBL426559"
+    ],
+    "molecule_ids_b": [
+      "CHEMBL387477"
+    ],
+    "activity_ids_a": [
+      1817977
+    ],
+    "activity_ids_b": [
+      1818058
+    ],
+    "document_ids_a": [
+      "CHEMBL1141416"
+    ],
+    "document_ids_b": [
+      "CHEMBL1141416"
+    ]
+  },
+  {
+    "parent_key": "c11c52bd6cad5bff",
+    "graph": "Cc1cc(C)cc(C2CCCN2Cc2ccc(Oc3ccc(C(N)=O)cc3F)cc2)c1",
+    "stereo_a": "Cc1cc(C)cc([C@@H]2CCCN2Cc2ccc(Oc3ccc(C(N)=O)cc3F)cc2)c1",
+    "stereo_b": "Cc1cc(C)cc([C@H]2CCCN2Cc2ccc(Oc3ccc(C(N)=O)cc3F)cc2)c1",
+    "assay_chembl_id": "CHEMBL1924792",
+    "target_chembl_id": "CHEMBL237",
+    "target_name": "Kappa-type opioid receptor",
+    "pki_a": 9.02,
+    "pki_b": 7.85,
+    "delta_pki": 1.17,
+    "absolute_delta_pki": 1.17,
+    "cliff_ge1": true,
+    "relation": "enantiomers",
+    "molecule_ids_a": [
+      "CHEMBL1921847"
+    ],
+    "molecule_ids_b": [
+      "CHEMBL1921848"
+    ],
+    "activity_ids_a": [
+      7946068
+    ],
+    "activity_ids_b": [
+      7946069
+    ],
+    "document_ids_a": [
+      "CHEMBL1921714"
+    ],
+    "document_ids_b": [
+      "CHEMBL1921714"
+    ]
+  },
+  {
+    "parent_key": "c11c52bd6cad5bff",
+    "graph": "Cc1cc(C)cc(C2CCCN2Cc2ccc(Oc3ccc(C(N)=O)cc3F)cc2)c1",
+    "stereo_a": "Cc1cc(C)cc([C@@H]2CCCN2Cc2ccc(Oc3ccc(C(N)=O)cc3F)cc2)c1",
+    "stereo_b": "Cc1cc(C)cc([C@H]2CCCN2Cc2ccc(Oc3ccc(C(N)=O)cc3F)cc2)c1",
+    "assay_chembl_id": "CHEMBL1924793",
+    "target_chembl_id": "CHEMBL233",
+    "target_name": "Mu-type opioid receptor",
+    "pki_a": 7.64,
+    "pki_b": 7.0,
+    "delta_pki": 0.6399999999999997,
+    "absolute_delta_pki": 0.6399999999999997,
+    "cliff_ge1": false,
+    "relation": "enantiomers",
+    "molecule_ids_a": [
+      "CHEMBL1921847"
+    ],
+    "molecule_ids_b": [
+      "CHEMBL1921848"
+    ],
+    "activity_ids_a": [
+      7946086
+    ],
+    "activity_ids_b": [
+      7946087
+    ],
+    "document_ids_a": [
+      "CHEMBL1921714"
+    ],
+    "document_ids_b": [
+      "CHEMBL1921714"
+    ]
+  },
+  {
+    "parent_key": "c11c52bd6cad5bff",
+    "graph": "Cc1cc(C)cc(C2CCCN2Cc2ccc(Oc3ccc(C(N)=O)cc3F)cc2)c1",
+    "stereo_a": "Cc1cc(C)cc([C@@H]2CCCN2Cc2ccc(Oc3ccc(C(N)=O)cc3F)cc2)c1",
+    "stereo_b": "Cc1cc(C)cc([C@H]2CCCN2Cc2ccc(Oc3ccc(C(N)=O)cc3F)cc2)c1",
+    "assay_chembl_id": "CHEMBL1924794",
+    "target_chembl_id": "CHEMBL236",
+    "target_name": "Delta-type opioid receptor",
+    "pki_a": 6.78,
+    "pki_b": 6.78,
+    "delta_pki": 0.0,
+    "absolute_delta_pki": 0.0,
+    "cliff_ge1": false,
+    "relation": "enantiomers",
+    "molecule_ids_a": [
+      "CHEMBL1921847"
+    ],
+    "molecule_ids_b": [
+      "CHEMBL1921848"
+    ],
+    "activity_ids_a": [
+      7946104
+    ],
+    "activity_ids_b": [
+      7946105
+    ],
+    "document_ids_a": [
+      "CHEMBL1921714"
+    ],
+    "document_ids_b": [
+      "CHEMBL1921714"
+    ]
+  },
+  {
+    "parent_key": "25f47a441a565333",
+    "graph": "NC(=O)C[S+]([O-])C(c1ccccc1)c1ccccc1",
+    "stereo_a": "NC(=O)C[S@+]([O-])C(c1ccccc1)c1ccccc1",
+    "stereo_b": "NC(=O)C[S@@+]([O-])C(c1ccccc1)c1ccccc1",
+    "assay_chembl_id": "CHEMBL3863999",
+    "target_chembl_id": "CHEMBL238",
+    "target_name": "Sodium-dependent dopamine transporter",
+    "pki_a": 5.71,
+    "pki_b": 6.19,
+    "delta_pki": -0.4800000000000004,
+    "absolute_delta_pki": 0.4800000000000004,
+    "cliff_ge1": false,
+    "relation": "enantiomers",
+    "molecule_ids_a": [
+      "CHEMBL1672355"
+    ],
+    "molecule_ids_b": [
+      "CHEMBL1201192"
+    ],
+    "activity_ids_a": [
+      16772112
+    ],
+    "activity_ids_b": [
+      16772111
+    ],
+    "document_ids_a": [
+      "CHEMBL3862037"
+    ],
+    "document_ids_b": [
+      "CHEMBL3862037"
+    ]
+  }
+]

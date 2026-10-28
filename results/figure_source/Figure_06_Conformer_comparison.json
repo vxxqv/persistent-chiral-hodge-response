@@ -1,0 +1,695 @@
+{
+  "molecules": [
+    {
+      "name": "L-alanine",
+      "family": "amino acid",
+      "cid": 5950,
+      "n_atoms": 6,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.08486795286254972,
+      "pchr_conformer_dispersion": 0.08620264172838679,
+      "same_conformer_dispersion": 0.08620264172838676,
+      "median_stereocenter_enrichment": 1.7535455250189351,
+      "median_source_enrichment": 1.747000491697528
+    },
+    {
+      "name": "L-serine",
+      "family": "amino acid",
+      "cid": 5951,
+      "n_atoms": 7,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.5970186653089122,
+      "pchr_conformer_dispersion": 0.2714252212845282,
+      "same_conformer_dispersion": 0.2584203472976835,
+      "median_stereocenter_enrichment": 2.2178992699712508,
+      "median_source_enrichment": 2.023110398006829
+    },
+    {
+      "name": "L-valine",
+      "family": "amino acid",
+      "cid": 6287,
+      "n_atoms": 8,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.2876846319172684,
+      "pchr_conformer_dispersion": 0.6153353758726385,
+      "same_conformer_dispersion": 0.6210797307995217,
+      "median_stereocenter_enrichment": 2.1541781319339406,
+      "median_source_enrichment": 1.977991341998298
+    },
+    {
+      "name": "L-leucine",
+      "family": "amino acid",
+      "cid": 6106,
+      "n_atoms": 9,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.5676816916353155,
+      "pchr_conformer_dispersion": 0.5473351201921224,
+      "same_conformer_dispersion": 0.5452027797621084,
+      "median_stereocenter_enrichment": 1.5377936078406147,
+      "median_source_enrichment": 1.5369647246384996
+    },
+    {
+      "name": "L-isoleucine",
+      "family": "amino acid",
+      "cid": 6306,
+      "n_atoms": 9,
+      "n_stereocenters": 2,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.8519641907101684,
+      "pchr_conformer_dispersion": 0.8918291931369856,
+      "same_conformer_dispersion": 0.9558103980068836,
+      "median_stereocenter_enrichment": 1.811988843321281,
+      "median_source_enrichment": 1.7019441897597836
+    },
+    {
+      "name": "L-threonine",
+      "family": "amino acid",
+      "cid": 6288,
+      "n_atoms": 8,
+      "n_stereocenters": 2,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.23484753565174826,
+      "pchr_conformer_dispersion": 0.21568316287544548,
+      "same_conformer_dispersion": 0.24683377239650747,
+      "median_stereocenter_enrichment": 1.6578192519657264,
+      "median_source_enrichment": 1.7671932229585354
+    },
+    {
+      "name": "L-cysteine",
+      "family": "amino acid",
+      "cid": 5862,
+      "n_atoms": 7,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.5638178037927686,
+      "pchr_conformer_dispersion": 0.6423995077840516,
+      "same_conformer_dispersion": 0.6423995077840517,
+      "median_stereocenter_enrichment": 2.094355797091902,
+      "median_source_enrichment": 2.0944794090471084
+    },
+    {
+      "name": "L-methionine",
+      "family": "amino acid",
+      "cid": 6137,
+      "n_atoms": 9,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 1.0178620388246564,
+      "pchr_conformer_dispersion": 1.2362164943453735,
+      "same_conformer_dispersion": 1.2362164943453735,
+      "median_stereocenter_enrichment": 2.4274898748071374,
+      "median_source_enrichment": 2.3791078900790597
+    },
+    {
+      "name": "L-aspartic acid",
+      "family": "amino acid",
+      "cid": 5960,
+      "n_atoms": 9,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.841164567333898,
+      "pchr_conformer_dispersion": 0.6816852531258141,
+      "same_conformer_dispersion": 0.6810405387777547,
+      "median_stereocenter_enrichment": 2.233947278122706,
+      "median_source_enrichment": 1.5600455763261634
+    },
+    {
+      "name": "L-glutamic acid",
+      "family": "amino acid",
+      "cid": 33032,
+      "n_atoms": 10,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.8079266480723696,
+      "pchr_conformer_dispersion": 0.6781081883299354,
+      "same_conformer_dispersion": 0.6608817553248462,
+      "median_stereocenter_enrichment": 2.488855969454012,
+      "median_source_enrichment": 2.4830387784890386
+    },
+    {
+      "name": "L-asparagine",
+      "family": "amino acid",
+      "cid": 6267,
+      "n_atoms": 9,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.6654636110353549,
+      "pchr_conformer_dispersion": 0.8679689101752154,
+      "same_conformer_dispersion": 0.9042770807567609,
+      "median_stereocenter_enrichment": 2.441699653231385,
+      "median_source_enrichment": 1.9300881031032497
+    },
+    {
+      "name": "L-glutamine",
+      "family": "amino acid",
+      "cid": 5961,
+      "n_atoms": 10,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.9402803690172136,
+      "pchr_conformer_dispersion": 1.2476679435988949,
+      "same_conformer_dispersion": 1.2476680688584307,
+      "median_stereocenter_enrichment": 2.68068673517403,
+      "median_source_enrichment": 2.6599587871635726
+    },
+    {
+      "name": "L-lysine",
+      "family": "amino acid",
+      "cid": 5962,
+      "n_atoms": 10,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 1.0249206721013242,
+      "pchr_conformer_dispersion": 0.9697118534936633,
+      "same_conformer_dispersion": 0.9697118534936633,
+      "median_stereocenter_enrichment": 1.5403374815295474,
+      "median_source_enrichment": 1.967265808037597
+    },
+    {
+      "name": "L-arginine",
+      "family": "amino acid",
+      "cid": 6322,
+      "n_atoms": 12,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.9448138113568078,
+      "pchr_conformer_dispersion": 1.200510146009376,
+      "same_conformer_dispersion": 1.24238724959486,
+      "median_stereocenter_enrichment": 1.816694458002507,
+      "median_source_enrichment": 2.4223054391137344
+    },
+    {
+      "name": "L-histidine",
+      "family": "amino acid",
+      "cid": 6274,
+      "n_atoms": 11,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.9124212028492565,
+      "pchr_conformer_dispersion": 1.074838827871862,
+      "same_conformer_dispersion": 1.0378403318195197,
+      "median_stereocenter_enrichment": 2.249321584650338,
+      "median_source_enrichment": 2.244713713538111
+    },
+    {
+      "name": "L-phenylalanine",
+      "family": "amino acid",
+      "cid": 6140,
+      "n_atoms": 12,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.8182982105037226,
+      "pchr_conformer_dispersion": 1.3770356589304584,
+      "same_conformer_dispersion": 1.3635300904761294,
+      "median_stereocenter_enrichment": 2.5196876236651216,
+      "median_source_enrichment": 1.8784238465707355
+    },
+    {
+      "name": "L-tyrosine",
+      "family": "amino acid",
+      "cid": 6057,
+      "n_atoms": 13,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.5685148803272971,
+      "pchr_conformer_dispersion": 0.8168641728531979,
+      "same_conformer_dispersion": 0.8651063643660043,
+      "median_stereocenter_enrichment": 1.4527703020242817,
+      "median_source_enrichment": 1.5719012935513872
+    },
+    {
+      "name": "L-tryptophan",
+      "family": "amino acid",
+      "cid": 6305,
+      "n_atoms": 15,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 1.003204507813406,
+      "pchr_conformer_dispersion": 0.9735380212462058,
+      "same_conformer_dispersion": 0.9741439576874713,
+      "median_stereocenter_enrichment": 2.583211155881243,
+      "median_source_enrichment": 3.0805400152185185
+    },
+    {
+      "name": "L-proline",
+      "family": "amino acid",
+      "cid": 145742,
+      "n_atoms": 8,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.2690099785658177,
+      "pchr_conformer_dispersion": 0.30586668072708045,
+      "same_conformer_dispersion": 0.2906294557199023,
+      "median_stereocenter_enrichment": 2.0324065065428867,
+      "median_source_enrichment": 1.7993073081275253
+    },
+    {
+      "name": "(S)-lactic acid",
+      "family": "hydroxy acid",
+      "cid": 107689,
+      "n_atoms": 6,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.15771517477669947,
+      "pchr_conformer_dispersion": 0.16721505070351472,
+      "same_conformer_dispersion": 0.16721505070351472,
+      "median_stereocenter_enrichment": 1.7679191194305357,
+      "median_source_enrichment": 1.7636696915617764
+    },
+    {
+      "name": "(S)-mandelic acid",
+      "family": "hydroxy acid",
+      "cid": 439616,
+      "n_atoms": 11,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 2.1862237649215e-05,
+      "pchr_conformer_dispersion": 1.934039844199132e-05,
+      "same_conformer_dispersion": 1.9278829582575538e-05,
+      "median_stereocenter_enrichment": 3.3572106890885234,
+      "median_source_enrichment": 3.5326592086066433
+    },
+    {
+      "name": "(S)-ibuprofen",
+      "family": "drug",
+      "cid": 6919043,
+      "n_atoms": 15,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.13859403255694655,
+      "pchr_conformer_dispersion": 0.3802221410753634,
+      "same_conformer_dispersion": 0.360734276518747,
+      "median_stereocenter_enrichment": 2.331560689483191,
+      "median_source_enrichment": 3.0973008192613607
+    },
+    {
+      "name": "(S)-naproxen",
+      "family": "drug",
+      "cid": 156391,
+      "n_atoms": 17,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.6226290274435154,
+      "pchr_conformer_dispersion": 0.7225718986871185,
+      "same_conformer_dispersion": 0.7136794552227794,
+      "median_stereocenter_enrichment": 5.196759972030799,
+      "median_source_enrichment": 5.493912469679492
+    },
+    {
+      "name": "levodopa",
+      "family": "catechol amino acid",
+      "cid": 6047,
+      "n_atoms": 14,
+      "n_stereocenters": 1,
+      "n_conformers": 8,
+      "raw_conformer_dispersion": 0.5690365892578034,
+      "pchr_conformer_dispersion": 1.3960406937199057,
+      "same_conformer_dispersion": 1.4229711107502656,
+      "median_stereocenter_enrichment": 2.169918426731807,
+      "median_source_enrichment": 2.1532629447766087
+    }
+  ],
+  "ensemble": [
+    [
+      [
+        3.494505874649101,
+        0.10195328245349213,
+        1.245573734862685
+      ],
+      [
+        3.1911032938264756,
+        -0.6607180122053071,
+        -0.3675988794459249
+      ],
+      [
+        1.6672852532357252,
+        0.22842773647126927,
+        -0.8390852923446451
+      ],
+      [
+        0.45119297324784596,
+        -0.2834838731826389,
+        -0.06872258993818058
+      ],
+      [
+        -0.8518291111514168,
+        0.36314368549163306,
+        -0.5546149733628575
+      ],
+      [
+        -2.05487667159906,
+        -0.2784486646407089,
+        0.14647133886327945
+      ],
+      [
+        -2.8063304228971853,
+        0.26965334911935296,
+        0.9391563971396631
+      ],
+      [
+        -2.2529113362786286,
+        -1.562488484447873,
+        -0.20812602253310436
+      ],
+      [
+        -0.8381398530328589,
+        1.8219609809407802,
+        -0.29305371324091517
+      ]
+    ],
+    [
+      [
+        2.563112239738363,
+        -1.4858734357027286,
+        0.7020624162714899
+      ],
+      [
+        1.8695969087134754,
+        0.14101223118674472,
+        1.0885883515937236
+      ],
+      [
+        1.6006008035965849,
+        0.7721491185418585,
+        -0.5980434277324668
+      ],
+      [
+        0.48851587948784114,
+        0.08525052611113106,
+        -1.3958693083312732
+      ],
+      [
+        -0.9609055277378326,
+        0.36047189452641965,
+        -0.9620583829638714
+      ],
+      [
+        -1.3330670042530608,
+        -0.296306208456635,
+        0.3732782027941425
+      ],
+      [
+        -1.7326418961892511,
+        0.2634280022814308,
+        1.3830318388750298
+      ],
+      [
+        -1.2026210533089483,
+        -1.6400084534320307,
+        0.35240975036821137
+      ],
+      [
+        -1.292590350047174,
+        1.7998763249438106,
+        -0.9433994408749853
+      ]
+    ],
+    [
+      [
+        3.7773148964277805,
+        0.519049793129632,
+        -0.044987006687250655
+      ],
+      [
+        2.8496536788986124,
+        -0.8905076524418458,
+        0.6087884245683551
+      ],
+      [
+        1.1751865444876366,
+        -0.15871107991524924,
+        0.646443321667639
+      ],
+      [
+        0.5556902507986188,
+        -0.09584372730018045,
+        -0.7520646519005958
+      ],
+      [
+        -0.8647520857022197,
+        0.4840885157372406,
+        -0.7712914697426875
+      ],
+      [
+        -1.8671105421528649,
+        -0.4006384663902382,
+        -0.016038411187294502
+      ],
+      [
+        -1.7875250319273532,
+        -1.602302925578434,
+        0.17824118518250937
+      ],
+      [
+        -2.9649054853573786,
+        0.2798630782034986,
+        0.3913712637920366
+      ],
+      [
+        -0.873552225472832,
+        1.8650024645555765,
+        -0.24046265569271133
+      ]
+    ],
+    [
+      [
+        3.4246282509626114,
+        -0.304575037298174,
+        1.1216270290924293
+      ],
+      [
+        1.7110618323083013,
+        -0.6928736597338521,
+        0.690373195202605
+      ],
+      [
+        1.5874833449942067,
+        0.2851922912169139,
+        -0.8396913254742329
+      ],
+      [
+        0.23523740663831816,
+        0.1629304086019538,
+        -1.5501908193988014
+      ],
+      [
+        -1.0131082121939947,
+        0.6332665727643918,
+        -0.7886689792508217
+      ],
+      [
+        -1.5522396590048564,
+        -0.43891296554936005,
+        0.16982220506140525
+      ],
+      [
+        -1.7878657825056485,
+        -1.6043196329368103,
+        -0.10849534841621408
+      ],
+      [
+        -1.8060267633901448,
+        0.023745749178202238,
+        1.415451860314203
+      ],
+      [
+        -0.7991704178087942,
+        1.9355462737567353,
+        -0.11022781713057361
+      ]
+    ],
+    [
+      [
+        3.186031808812886,
+        -0.6276839164628942,
+        1.3318860259391485
+      ],
+      [
+        2.7875726993351626,
+        -0.45788519030509695,
+        -0.4255836876206337
+      ],
+      [
+        1.7610235141379516,
+        1.053064238181007,
+        -0.36599952363164917
+      ],
+      [
+        0.3916523444638637,
+        0.8534233929575107,
+        0.2855650509819768
+      ],
+      [
+        -0.5691801924954059,
+        -0.037530905393234594,
+        -0.5136702385679074
+      ],
+      [
+        -1.8092395976042763,
+        -0.372541723892589,
+        0.33125697736276266
+      ],
+      [
+        -1.8398941734975416,
+        -0.590615865139898,
+        1.5317719455596452
+      ],
+      [
+        -2.9476322426814745,
+        -0.45284192873816254,
+        -0.3962651202908704
+      ],
+      [
+        -0.9603341604711668,
+        0.6326118987933578,
+        -1.7789614297324725
+      ]
+    ],
+    [
+      [
+        3.4405966342030707,
+        -1.4411252747013392,
+        0.13198019904760377
+      ],
+      [
+        3.230807348466688,
+        0.3275817312465343,
+        0.45372565635547424
+      ],
+      [
+        1.6991373542783093,
+        0.6315742287105183,
+        -0.49448852918086783
+      ],
+      [
+        0.465048374591564,
+        0.11183625668230529,
+        0.24136867590531463
+      ],
+      [
+        -0.822545728847201,
+        0.3053143465354024,
+        -0.5709049582060913
+      ],
+      [
+        -2.016691008449639,
+        -0.31223795280869476,
+        0.16779489829811953
+      ],
+      [
+        -3.0043578419186567,
+        0.2823840404582232,
+        0.5728167935768476
+      ],
+      [
+        -1.9142673773865364,
+        -1.6469448732610996,
+        0.32150242341183455
+      ],
+      [
+        -1.0777277549375976,
+        1.7416174971381497,
+        -0.8237951592082352
+      ]
+    ],
+    [
+      [
+        3.4947890518311304,
+        0.2847104313593896,
+        -0.4015632789876447
+      ],
+      [
+        2.4035780058345644,
+        -1.0668583561329164,
+        0.10789696460911069
+      ],
+      [
+        1.2973262529675718,
+        -0.16046306800311494,
+        1.242783011427187
+      ],
+      [
+        0.42772376297190495,
+        0.917265637761625,
+        0.585448407722934
+      ],
+      [
+        -0.5032494518184701,
+        0.4211298621234743,
+        -0.529231438791535
+      ],
+      [
+        -1.6549452989007238,
+        -0.4436855200640467,
+        0.010990938920129534
+      ],
+      [
+        -1.7145273315525629,
+        -1.0243734553831967,
+        1.0812928826289276
+      ],
+      [
+        -2.686997310570852,
+        -0.5326928124724458,
+        -0.862206805914084
+      ],
+      [
+        -1.0636976807625629,
+        1.6049672808112307,
+        -1.235410681615026
+      ]
+    ],
+    [
+      [
+        3.1604502353143573,
+        -0.7343974343045514,
+        1.2088395216894434
+      ],
+      [
+        2.7864787690086223,
+        -0.3107216346825804,
+        -0.5112127453219365
+      ],
+      [
+        1.737170910123547,
+        1.1588399486657308,
+        -0.2407773331810725
+      ],
+      [
+        0.3702266337280725,
+        0.860658555936756,
+        0.37577368251611637
+      ],
+      [
+        -0.5258373643490741,
+        -0.094876275136964,
+        -0.4243442624150162
+      ],
+      [
+        -1.846115963649976,
+        -0.33302253910147966,
+        0.3253370605416191
+      ],
+      [
+        -2.0446515181792524,
+        -0.21994942706020063,
+        1.5244882127008732
+      ],
+      [
+        -2.836755048658678,
+        -0.7769546055103969,
+        -0.4855261264576466
+      ],
+      [
+        -0.8009666533376204,
+        0.45042341119368634,
+        -1.7725780100723807
+      ]
+    ]
+  ],
+  "alignment": "proper Kabsch rotations, first conformer reference"
+}

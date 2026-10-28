@@ -1,0 +1,174 @@
+{
+  "curated_same_assay_pairs": 143,
+  "analysed_pair_observations": 143,
+  "parents": 103,
+  "targets": 65,
+  "generated_stereoisomers": 206,
+  "retained_stereoisomers": 206,
+  "retained_conformers": 1648,
+  "failed_pair_observations": [],
+  "generation_failures": [],
+  "activity_associations": [
+    {
+      "representation": "source_r2.6_mmd",
+      "spearman": -0.03308572184242262,
+      "bootstrap95": [
+        -0.24027894138775802,
+        0.17201744800503427
+      ],
+      "n_parents": 103,
+      "valid_bootstrap_replicates": 5000
+    },
+    {
+      "representation": "source_r2.6_balanced_mmd",
+      "spearman": -0.05517594996439073,
+      "bootstrap95": [
+        -0.26248512857428397,
+        0.15430687557365838
+      ],
+      "n_parents": 101,
+      "valid_bootstrap_replicates": 5000
+    },
+    {
+      "representation": "same_scale_r2.6_mmd",
+      "spearman": 0.06583091998726387,
+      "bootstrap95": [
+        -0.13430413046417905,
+        0.2630743257032775
+      ],
+      "n_parents": 103,
+      "valid_bootstrap_replicates": 5000
+    },
+    {
+      "representation": "same_scale_r2.6_balanced_mmd",
+      "spearman": 0.07951930880108718,
+      "bootstrap95": [
+        -0.12953275435479508,
+        0.2847386982637877
+      ],
+      "n_parents": 101,
+      "valid_bootstrap_replicates": 5000
+    },
+    {
+      "representation": "persistent_r2.6_mmd",
+      "spearman": 0.049886721695671425,
+      "bootstrap95": [
+        -0.15366378662248192,
+        0.24627940410164345
+      ],
+      "n_parents": 103,
+      "valid_bootstrap_replicates": 5000
+    },
+    {
+      "representation": "persistent_r2.6_balanced_mmd",
+      "spearman": 0.03612183970958477,
+      "bootstrap95": [
+        -0.16809523138595897,
+        0.23552554469118134
+      ],
+      "n_parents": 101,
+      "valid_bootstrap_replicates": 5000
+    },
+    {
+      "representation": "distance_histogram_r2.6_mmd",
+      "spearman": 0.042988370660797116,
+      "bootstrap95": [
+        -0.14988962070273595,
+        0.24306345095623744
+      ],
+      "n_parents": 103,
+      "valid_bootstrap_replicates": 5000
+    },
+    {
+      "representation": "source_r3.0_mmd",
+      "spearman": -0.06279916061524904,
+      "bootstrap95": [
+        -0.2712857045963613,
+        0.13767353407419475
+      ],
+      "n_parents": 103,
+      "valid_bootstrap_replicates": 5000
+    },
+    {
+      "representation": "source_r3.0_balanced_mmd",
+      "spearman": -0.08173287098293563,
+      "bootstrap95": [
+        -0.2892456804037833,
+        0.1345345203713833
+      ],
+      "n_parents": 101,
+      "valid_bootstrap_replicates": 5000
+    },
+    {
+      "representation": "same_scale_r3.0_mmd",
+      "spearman": -0.03760589931193022,
+      "bootstrap95": [
+        -0.24097771818520108,
+        0.15402881464026605
+      ],
+      "n_parents": 103,
+      "valid_bootstrap_replicates": 5000
+    },
+    {
+      "representation": "same_scale_r3.0_balanced_mmd",
+      "spearman": -0.02000943709118266,
+      "bootstrap95": [
+        -0.22173255282625157,
+        0.16749348692074928
+      ],
+      "n_parents": 101,
+      "valid_bootstrap_replicates": 5000
+    },
+    {
+      "representation": "persistent_r3.0_mmd",
+      "spearman": -0.020695053104622912,
+      "bootstrap95": [
+        -0.22483334200022,
+        0.1741889976554919
+      ],
+      "n_parents": 103,
+      "valid_bootstrap_replicates": 5000
+    },
+    {
+      "representation": "persistent_r3.0_balanced_mmd",
+      "spearman": -0.01442893032747,
+      "bootstrap95": [
+        -0.21646376345351115,
+        0.18451046404748417
+      ],
+      "n_parents": 101,
+      "valid_bootstrap_replicates": 5000
+    },
+    {
+      "representation": "distance_histogram_r3.0_mmd",
+      "spearman": 0.042988370660797116,
+      "bootstrap95": [
+        -0.14988962070273595,
+        0.24306345095623744
+      ],
+      "n_parents": 103,
+      "valid_bootstrap_replicates": 5000
+    },
+    {
+      "representation": "ecfp4_achiral",
+      "spearman": null,
+      "bootstrap95": null,
+      "n_parents": 103,
+      "reason": "constant predictor or response"
+    },
+    {
+      "representation": "ecfp4_chiral",
+      "spearman": -0.04838275535363594,
+      "bootstrap95": [
+        -0.23561096238622983,
+        0.1389000671994444
+      ],
+      "n_parents": 103,
+      "valid_bootstrap_replicates": 5000
+    }
+  ],
+  "pairs_with_multiple_targets": 29,
+  "pairs_with_recorded_rank_reversals": 2,
+  "elapsed_seconds": 28.805367469787598,
+  "inference_boundary": "Exploratory association across parents; no target-conditioned prediction model, causal inference or equilibrium weighting."
+}

@@ -1,0 +1,18 @@
+{
+  "raw_unique_activities": 1475,
+  "source_molecules": 1338,
+  "valid_stereochemical_molecules": 724,
+  "accepted_records": 394,
+  "compound_assay_aggregates": 383,
+  "same_assay_pair_observations": 10,
+  "paired_parents": 7,
+  "paired_targets": 10,
+  "filter_counts": {
+    "assay_confidence_not_9": 361,
+    "target_not_human_single_protein": 142,
+    "potential_duplicate": 131,
+    "invalid_or_underdefined_identity": 433,
+    "validity_flag": 14
+  },
+  "same_assay_pair_documentation": "Each row retains original compound, assay, target, document and activity identifiers. No cross-assay potency pooling enters a pair."
+}
