@@ -1,0 +1,33 @@
+{
+  "source_revision": "b877dd661469358e8fe0aa40f09ef87a75dec929",
+  "source_url": "https://huggingface.co/datasets/EscheWang/3dcs",
+  "original_parquet_sha256": "bc805c523bbb96ed018c8dc859d190caf2730b5137dbe8f40bbce35aee7e44ee",
+  "embedding_revision": "8d6548c090592ba747750e501096398608b464da",
+  "embedding_sources": [
+    {
+      "model": "gemnet",
+      "original_file": "3dcs_gemnet.npz",
+      "sha256": "8271b6b005fbd7fc77dbaab8aa94a6744afeeadcc25c2f04f1ce2adbe8093d39",
+      "rows": 52391
+    },
+    {
+      "model": "mace",
+      "original_file": "3dcs_mace.npz",
+      "sha256": "d677df043092c46d29f3d3b52a1145e975a4f0ca362029a15890fce65d6552a4",
+      "rows": 52391
+    },
+    {
+      "model": "fmg",
+      "original_file": "3dcs_fmg.npz",
+      "sha256": "9425f0561de194d66ebc31169c3b3fcee094b3412e643e6e635d9e74281b3b43",
+      "rows": 52391
+    }
+  ],
+  "selected_rows": 5514,
+  "coordinate_records": "results/external_full/parents/*.json",
+  "coordinate_note": "Selected source coordinates and atom features are archived in parent records; original full parquet is not required for replay.",
+  "threeDCS_license": "CC-BY-SA-4.0",
+  "ChEMBL_license": "CC-BY-SA-3.0",
+  "Chiral_Cliffs_discovery": "Schneider et al. 2018 DOI 10.1002/cmdc.201700798; structural discovery only, fresh ChEMBL endpoints.",
+  "acquisition_note": "Consolidated JSON records retain original IDs. Per-response checksums preserve the acquisition record. No author notebooks or manuscript PDFs included."
+}

@@ -1,0 +1,2829 @@
+{
+  "zip_sha256": "fbc3f757334c44f5333bd0252628df278e9886ade473f9833d02fc7a9f99fa28",
+  "csv_sha256": "f2b3ab4acc39939ff090468ff0d7490ccc7b593749aa6df59ab0b41b54d57697",
+  "counts": {
+    "source_rows": 3828,
+    "ki_rows": 1177,
+    "eligible_pair_rows": 717,
+    "parse_error": 9
+  },
+  "eligible_graphs": 717,
+  "selected": [
+    {
+      "achiral_smiles": "COc1ccccc1OCCNCC(O)COc1cccc2[nH]ccc12",
+      "selection_hash": "004b22353f6f7d9951f4a469cd97b9c3aea189fb9753b04d79480fa7462a4467",
+      "rows": [
+        2056
+      ],
+      "molecules": {
+        "CHEMBL477672": "COc1ccccc1OCCNC[C@@H](O)COc1cccc2[nH]ccc12",
+        "CHEMBL477466": "COc1ccccc1OCCNC[C@H](O)COc1cccc2[nH]ccc12"
+      }
+    },
+    {
+      "achiral_smiles": "COc1c(C(=O)NC2CCN(Cc3ccccc3)C2)cc(Br)c2ccccc12",
+      "selection_hash": "008bc6f7d7297218da49e1d0d8496c92604be48159b9d5922d78324588574d7f",
+      "rows": [
+        1656
+      ],
+      "molecules": {
+        "CHEMBL298875": "COc1c(C(=O)N[C@@H]2CCN(Cc3ccccc3)C2)cc(Br)c2ccccc12",
+        "CHEMBL50465": "COc1c(C(=O)N[C@H]2CCN(Cc3ccccc3)C2)cc(Br)c2ccccc12"
+      }
+    },
+    {
+      "achiral_smiles": "CCCCC1(CCCC)NC(c2nc(-c3ccccc3)c[nH]2)Cc2c1[nH]c1ccccc21",
+      "selection_hash": "00af95141d4132a5fece26cd62954bfe4f7d29351f52b62f49acae63b05f4d64",
+      "rows": [
+        462
+      ],
+      "molecules": {
+        "CHEMBL1237140": "CCCCC1(CCCC)N[C@H](c2nc(-c3ccccc3)c[nH]2)Cc2c1[nH]c1ccccc21",
+        "CHEMBL2069499": "CCCCC1(CCCC)N[C@@H](c2nc(-c3ccccc3)c[nH]2)Cc2c1[nH]c1ccccc21"
+      }
+    },
+    {
+      "achiral_smiles": "CC(NC(=O)c1ccccc1-c1ccc(-c2cnc(N)nc2)c(F)c1)C(F)(F)F",
+      "selection_hash": "016a9ffd22eb08a29239400b3c413bff868dfec403b5db471c725153bc06937f",
+      "rows": [
+        2410
+      ],
+      "molecules": {
+        "CHEMBL3697202": "C[C@@H](NC(=O)c1ccccc1-c1ccc(-c2cnc(N)nc2)c(F)c1)C(F)(F)F",
+        "CHEMBL3697188": "C[C@H](NC(=O)c1ccccc1-c1ccc(-c2cnc(N)nc2)c(F)c1)C(F)(F)F"
+      }
+    },
+    {
+      "achiral_smiles": "CN1CCCC1Cc1c[nH]c2ccc(NS(=O)(=O)c3ccc(C(F)(F)F)cc3)cc12",
+      "selection_hash": "018b7a0470c7c60a64a2720566dd424373ccdeb69edb1aa8276bf43c926a08b7",
+      "rows": [
+        1322
+      ],
+      "molecules": {
+        "CHEMBL606559": "CN1CCC[C@@H]1Cc1c[nH]c2ccc(NS(=O)(=O)c3ccc(C(F)(F)F)cc3)cc12",
+        "CHEMBL606815": "CN1CCC[C@H]1Cc1c[nH]c2ccc(NS(=O)(=O)c3ccc(C(F)(F)F)cc3)cc12"
+      }
+    },
+    {
+      "achiral_smiles": "NC(Cc1ccccc1)C(=O)NCCCN1CCC2(CC1)OCc1ccccc12",
+      "selection_hash": "020d6713bfc1cb1d0749cc2acb26c3cc9f38ae4daa2130a93606d702a87cabfb",
+      "rows": [
+        3351
+      ],
+      "molecules": {
+        "CHEMBL1783818": "N[C@@H](Cc1ccccc1)C(=O)NCCCN1CCC2(CC1)OCc1ccccc12",
+        "CHEMBL1783817": "N[C@H](Cc1ccccc1)C(=O)NCCCN1CCC2(CC1)OCc1ccccc12"
+      }
+    },
+    {
+      "achiral_smiles": "CC(NC(=O)CNC(=O)Nc1ccc(C(=N)N)cc1)c1cccc(Br)c1",
+      "selection_hash": "020e57b6a56d189e9759bb60881e5843b8131809d0ee9ec684d5b56e2a326e16",
+      "rows": [
+        2347
+      ],
+      "molecules": {
+        "CHEMBL35978": "C[C@@H](NC(=O)CNC(=O)Nc1ccc(C(=N)N)cc1)c1cccc(Br)c1",
+        "CHEMBL35586": "C[C@H](NC(=O)CNC(=O)Nc1ccc(C(=N)N)cc1)c1cccc(Br)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(CN1CCCC1)N(C)CCc1ccc(Cl)c(Cl)c1",
+      "selection_hash": "029934c442c0ea05708650b3bf397c669711f5af482c422e41a157c079e054c2",
+      "rows": [
+        2229
+      ],
+      "molecules": {
+        "CHEMBL347514": "C[C@@H](CN1CCCC1)N(C)CCc1ccc(Cl)c(Cl)c1",
+        "CHEMBL422834": "C[C@H](CN1CCCC1)N(C)CCc1ccc(Cl)c(Cl)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CN(C)C1CCc2ccc3[nH]ccc3c2C1",
+      "selection_hash": "03dbc86285614a88720bc92f48555c2271f9479c321c111834d910cd18d22e4f",
+      "rows": [
+        1190
+      ],
+      "molecules": {
+        "CHEMBL303339": "CN(C)[C@@H]1CCc2ccc3[nH]ccc3c2C1",
+        "CHEMBL292274": "CN(C)[C@H]1CCc2ccc3[nH]ccc3c2C1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(=O)NC(C)CSc1ccccc1",
+      "selection_hash": "042d565053d9d5362cd93be7e3cc71405011c6b93b4b6aca1f5adbc070d94a85",
+      "rows": [
+        2278
+      ],
+      "molecules": {
+        "CHEMBL1223347": "CC(=O)N[C@@H](C)CSc1ccccc1",
+        "CHEMBL1223346": "CC(=O)N[C@H](C)CSc1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "CCOc1ccc(C#N)cc1NC(=O)Nc1ccc(C2CNCCO2)cc1F",
+      "selection_hash": "04309cb833379d361ca52dd6206ad27b6fce0c946bf67f32d7ef7db2ae6111b1",
+      "rows": [
+        920
+      ],
+      "molecules": {
+        "CHEMBL3673016": "CCOc1ccc(C#N)cc1NC(=O)Nc1ccc([C@@H]2CNCCO2)cc1F",
+        "CHEMBL3673015": "CCOc1ccc(C#N)cc1NC(=O)Nc1ccc([C@H]2CNCCO2)cc1F"
+      }
+    },
+    {
+      "achiral_smiles": "CCCCCC=CCC=CCC=CCC=CCCCC(=O)NC(C)CO",
+      "selection_hash": "0433c10efdf4cc0c60e2c41873c51fd06cee5c77f8c85b58d8e333ba139694e9",
+      "rows": [
+        563
+      ],
+      "molecules": {
+        "CHEMBL348466": "CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)N[C@@H](C)CO",
+        "CHEMBL120526": "CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)N[C@H](C)CO"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(Cc1csc2ccccc12)NCC1CCCN1Cc1ccc(Cl)c(Cl)c1",
+      "selection_hash": "04bcdd43ff2527247e522687770e44ed2ba344b11c57f349d678541278d43799",
+      "rows": [
+        2988
+      ],
+      "molecules": {
+        "CHEMBL375291": "O=C(Cc1csc2ccccc12)NC[C@H]1CCCN1Cc1ccc(Cl)c(Cl)c1",
+        "CHEMBL2096864": "O=C(Cc1csc2ccccc12)NC[C@@H]1CCCN1Cc1ccc(Cl)c(Cl)c1"
+      }
+    },
+    {
+      "achiral_smiles": "O=c1cc(C(F)(F)F)c2cc3c(cc2[nH]1)OCC(CF)N3CC(F)(F)F",
+      "selection_hash": "04f65a9246ba64f4d9d27e19d6fceefe058be0148602b7d239f58e03ad441ff2",
+      "rows": [
+        3116
+      ],
+      "molecules": {
+        "CHEMBL254798": "O=c1cc(C(F)(F)F)c2cc3c(cc2[nH]1)OC[C@@H](CF)N3CC(F)(F)F",
+        "CHEMBL429311": "O=c1cc(C(F)(F)F)c2cc3c(cc2[nH]1)OC[C@H](CF)N3CC(F)(F)F"
+      }
+    },
+    {
+      "achiral_smiles": "CNC(=NS(=O)(=O)N1CCCCC1)N1CC(c2ccccc2)C(c2ccc(Cl)cc2)=N1",
+      "selection_hash": "0520a06b5eacf1924b80a92289df32baa7440577464f1e4d2130c73033ff70a7",
+      "rows": [
+        1484
+      ],
+      "molecules": {
+        "CHEMBL1081285": "CN/C(=N\\S(=O)(=O)N1CCCCC1)N1C[C@H](c2ccccc2)C(c2ccc(Cl)cc2)=N1",
+        "CHEMBL1788275": "CN/C(=N\\S(=O)(=O)N1CCCCC1)N1C[C@@H](c2ccccc2)C(c2ccc(Cl)cc2)=N1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(c1ncc(-c2ccccn2)o1)C1Cc2ccc(OCc3ccccc3)cc2C1",
+      "selection_hash": "054c801b3f929df5cac00d98fbedf4ec70b4f3a2d1ae76001361eb3ba58d12e1",
+      "rows": [
+        3491
+      ],
+      "molecules": {
+        "CHEMBL1765979": "O=C(c1ncc(-c2ccccn2)o1)[C@@H]1Cc2ccc(OCc3ccccc3)cc2C1",
+        "CHEMBL1765870": "O=C(c1ncc(-c2ccccn2)o1)[C@H]1Cc2ccc(OCc3ccccc3)cc2C1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(Cc1ccccc1)NCCCCCc1ccccc1",
+      "selection_hash": "05ca022cdbcc45fd09b03c4fa19e9567427493ddfec080e6b6ba28217879ade7",
+      "rows": [
+        2285
+      ],
+      "molecules": {
+        "CHEMBL20700": "C[C@@H](Cc1ccccc1)NCCCCCc1ccccc1",
+        "CHEMBL280160": "C[C@H](Cc1ccccc1)NCCCCCc1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "CCC(O)COc1ccc2c(c1)CCC1(CCN(C3CCC3)CC1)O2",
+      "selection_hash": "0647c266ff842bada1b97de688eb957cc66d637af7ccaa829c9b4b6ed5f8f5b2",
+      "rows": [
+        1025
+      ],
+      "molecules": {
+        "CHEMBL1935409": "CC[C@@H](O)COc1ccc2c(c1)CCC1(CCN(C3CCC3)CC1)O2",
+        "CHEMBL1935410": "CC[C@H](O)COc1ccc2c(c1)CCC1(CCN(C3CCC3)CC1)O2"
+      }
+    },
+    {
+      "achiral_smiles": "CNC1CCN(c2ccnc(NC(C)C)n2)C1",
+      "selection_hash": "0672150ebdaf7a49ad96cc107434370756891871a4715f5d9461946c7a6df0b0",
+      "rows": [
+        1472
+      ],
+      "molecules": {
+        "CHEMBL3354815": "CN[C@@H]1CCN(c2ccnc(NC(C)C)n2)C1",
+        "CHEMBL3393537": "CN[C@H]1CCN(c2ccnc(NC(C)C)n2)C1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCN(CCC)C1CCn2c(C)ccc2C1",
+      "selection_hash": "072db929bc3d4b51b9c5b10e560d5f7a4a0a90b1dcff363641fab0d1d1509345",
+      "rows": [
+        621
+      ],
+      "molecules": {
+        "CHEMBL440143": "CCCN(CCC)[C@@H]1CCn2c(C)ccc2C1",
+        "CHEMBL96958": "CCCN(CCC)[C@H]1CCn2c(C)ccc2C1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(O)C(Cc1ccccc1)C[N+](=O)[O-]",
+      "selection_hash": "07d7009572632f95a1645b78cc6b3acfde359d7fc2b6d8bcbc2821950b2f0a5d",
+      "rows": [
+        3581
+      ],
+      "molecules": {
+        "CHEMBL261332": "O=C(O)[C@@H](Cc1ccccc1)C[N+](=O)[O-]",
+        "CHEMBL407567": "O=C(O)[C@H](Cc1ccccc1)C[N+](=O)[O-]"
+      }
+    },
+    {
+      "achiral_smiles": "COc1cccc2c1CCCC2CN(C)CCc1ccc2ccoc2c1",
+      "selection_hash": "083c17c4eef3a4ac6d0f5414ae77b6a3d8d5c92fb382ba439f7b7a4a57b3f06c",
+      "rows": [
+        2027
+      ],
+      "molecules": {
+        "CHEMBL75342": "COc1cccc2c1CCC[C@@H]2CN(C)CCc1ccc2ccoc2c1",
+        "CHEMBL268258": "COc1cccc2c1CCC[C@H]2CN(C)CCc1ccc2ccoc2c1"
+      }
+    },
+    {
+      "achiral_smiles": "NC(=O)c1ccc(Oc2ccc(CN3CCCC3c3cccc(F)c3)cc2)c(F)c1",
+      "selection_hash": "086d740163c86ba0b01f68c702af882e9433e8b87524599c4f9b2d1db2eed6b4",
+      "rows": [
+        3253
+      ],
+      "molecules": {
+        "CHEMBL1921846": "NC(=O)c1ccc(Oc2ccc(CN3CCC[C@@H]3c3cccc(F)c3)cc2)c(F)c1",
+        "CHEMBL1921845": "NC(=O)c1ccc(Oc2ccc(CN3CCC[C@H]3c3cccc(F)c3)cc2)c(F)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CCC(CO)Nc1nc(C)nc2c1c(C)nn2-c1ccc(OC)cc1C",
+      "selection_hash": "08b37942cd67b913fc0f84d05f0196779a3f1e2ceb7e90dd9f2fc0ac4a1b5f0b",
+      "rows": [
+        987
+      ],
+      "molecules": {
+        "CHEMBL568397": "CC[C@@H](CO)Nc1nc(C)nc2c1c(C)nn2-c1ccc(OC)cc1C",
+        "CHEMBL566939": "CC[C@H](CO)Nc1nc(C)nc2c1c(C)nn2-c1ccc(OC)cc1C"
+      }
+    },
+    {
+      "achiral_smiles": "CN1CCC(Oc2cccnc2)C1",
+      "selection_hash": "094180b9d2c40a80abca560f1b09f11937433f4ba52362edfe5a3c437901e8dd",
+      "rows": [
+        1355
+      ],
+      "molecules": {
+        "CHEMBL329830": "CN1CC[C@H](Oc2cccnc2)C1",
+        "CHEMBL329004": "CN1CC[C@@H](Oc2cccnc2)C1"
+      }
+    },
+    {
+      "achiral_smiles": "COc1cccc(CCN2CCCC2C)c1",
+      "selection_hash": "09928456de13578c8e84c1c060108184ab417a6b0d2e3d6da9f605c05d035b81",
+      "rows": [
+        1966
+      ],
+      "molecules": {
+        "CHEMBL272306": "COc1cccc(CCN2CCC[C@@H]2C)c1",
+        "CHEMBL439429": "COc1cccc(CCN2CCC[C@H]2C)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCN(CCN1CCN(c2ccccc2)CC1)C1CCc2c(O)cccc2C1",
+      "selection_hash": "09fa92531fdd3be114e57b6399c8dcc3a3e3acdce5152ea7993bc6d69c8f172b",
+      "rows": [
+        647
+      ],
+      "molecules": {
+        "CHEMBL457025": "CCCN(CCN1CCN(c2ccccc2)CC1)[C@@H]1CCc2c(O)cccc2C1",
+        "CHEMBL457024": "CCCN(CCN1CCN(c2ccccc2)CC1)[C@H]1CCc2c(O)cccc2C1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(O)CN1C(=O)C2(CC(=O)N(Cc3ccccc3F)C2=O)c2cc(Cl)ccc21",
+      "selection_hash": "0a0441349b5de91236cb23cca03fcbc768d2b1c3bb94f6eeaa9de0ede99f84ba",
+      "rows": [
+        3562
+      ],
+      "molecules": {
+        "CHEMBL260674": "O=C(O)CN1C(=O)[C@@]2(CC(=O)N(Cc3ccccc3F)C2=O)c2cc(Cl)ccc21",
+        "CHEMBL261730": "O=C(O)CN1C(=O)[C@]2(CC(=O)N(Cc3ccccc3F)C2=O)c2cc(Cl)ccc21"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C)CN(Cc1ccc2c(c1)OCCCO2)C(=O)C(C)NCc1ccccc1",
+      "selection_hash": "0a0aa130608a3f35043f9f0d18a7adcfbcb0d225f4f65c183ea96c9e6bd83af4",
+      "rows": [
+        179
+      ],
+      "molecules": {
+        "CHEMBL3649349": "CC(C)CN(Cc1ccc2c(c1)OCCCO2)C(=O)[C@@H](C)NCc1ccccc1",
+        "CHEMBL3649343": "CC(C)CN(Cc1ccc2c(c1)OCCCO2)C(=O)[C@H](C)NCc1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "Nc1nc(N2CCCC(N)C2)c2oc3ccc(Cl)cc3c2n1",
+      "selection_hash": "0a36c96117fe6a16fba91df745fba6c2e967b386a147224c8c6935b6ef863eb0",
+      "rows": [
+        3361
+      ],
+      "molecules": {
+        "CHEMBL1914549": "Nc1nc(N2CCC[C@@H](N)C2)c2oc3ccc(Cl)cc3c2n1",
+        "CHEMBL1914548": "Nc1nc(N2CCC[C@H](N)C2)c2oc3ccc(Cl)cc3c2n1"
+      }
+    },
+    {
+      "achiral_smiles": "CCC(=O)N(c1ccccc1)C1CCN(C(=O)C(N)c2ccccc2)CC1",
+      "selection_hash": "0a648bf834403d4cf04ba20517f90161e59c47d00345e9cea7af337236094109",
+      "rows": [
+        425
+      ],
+      "molecules": {
+        "CHEMBL389813": "CCC(=O)N(c1ccccc1)C1CCN(C(=O)[C@@H](N)c2ccccc2)CC1",
+        "CHEMBL230312": "CCC(=O)N(c1ccccc1)C1CCN(C(=O)[C@H](N)c2ccccc2)CC1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(Nc1ccc(C(F)(F)F)nc1)Nc1ccc(C2CNCCO2)cc1F",
+      "selection_hash": "0ada8b8b92b4d8b116ea33b77789a13f9b66cc73ec94ec194679fe8a2e9f8a63",
+      "rows": [
+        3143
+      ],
+      "molecules": {
+        "CHEMBL3672954": "O=C(Nc1ccc(C(F)(F)F)nc1)Nc1ccc([C@@H]2CNCCO2)cc1F",
+        "CHEMBL3672955": "O=C(Nc1ccc(C(F)(F)F)nc1)Nc1ccc([C@H]2CNCCO2)cc1F"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(Nc1ccc(C2CNCCO2)c(F)c1)c1ccnc(C(F)(F)F)c1",
+      "selection_hash": "0b2742668973941d77e428846539f5e3bcb82eba72682d2d4f7c51f077b6a061",
+      "rows": [
+        3134
+      ],
+      "molecules": {
+        "CHEMBL3673025": "O=C(Nc1ccc([C@@H]2CNCCO2)c(F)c1)c1ccnc(C(F)(F)F)c1",
+        "CHEMBL3673029": "O=C(Nc1ccc([C@H]2CNCCO2)c(F)c1)c1ccnc(C(F)(F)F)c1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(NCC1CCCCN1C(=O)c1ccccc1-c1ccccc1)c1ccc(F)cc1",
+      "selection_hash": "0b9d31e50c70604a795d3234cae089af65c252009a3167e3d15da8a970d46284",
+      "rows": [
+        3161
+      ],
+      "molecules": {
+        "CHEMBL1830963": "O=C(NC[C@@H]1CCCCN1C(=O)c1ccccc1-c1ccccc1)c1ccc(F)cc1",
+        "CHEMBL1830964": "O=C(NC[C@H]1CCCCN1C(=O)c1ccccc1-c1ccccc1)c1ccc(F)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(Cc1ccccc1)NCCCc1ccccc1",
+      "selection_hash": "0c70fb1bb67eea4486f63cc69516a47f008507f6b6485eb04fd274a1cbbe7e64",
+      "rows": [
+        2286
+      ],
+      "molecules": {
+        "CHEMBL20337": "C[C@@H](Cc1ccccc1)NCCCc1ccccc1",
+        "CHEMBL20626": "C[C@H](Cc1ccccc1)NCCCc1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "COc1cc(NC(C)=O)c(Cl)cc1C(=O)NCC1CCN(Cc2ccccc2)C1",
+      "selection_hash": "0c91b25976bc85f3221d20caadd78845b1b67ba560baad5af73e7fe899db617f",
+      "rows": [
+        1685
+      ],
+      "molecules": {
+        "CHEMBL353087": "COc1cc(NC(C)=O)c(Cl)cc1C(=O)NC[C@@H]1CCN(Cc2ccccc2)C1",
+        "CHEMBL167032": "COc1cc(NC(C)=O)c(Cl)cc1C(=O)NC[C@H]1CCN(Cc2ccccc2)C1"
+      }
+    },
+    {
+      "achiral_smiles": "CC1OCC2(CCN(C)CC2)O1",
+      "selection_hash": "0cbb3a2b8f82440d7eee9628dba3448d08b5174010185cd0b8000ceba90e8b61",
+      "rows": [
+        2760
+      ],
+      "molecules": {
+        "CHEMBL168755": "C[C@@H]1OCC2(CCN(C)CC2)O1",
+        "CHEMBL166452": "C[C@H]1OCC2(CCN(C)CC2)O1"
+      }
+    },
+    {
+      "achiral_smiles": "FCC1Cc2ccc(Br)cc2CN1",
+      "selection_hash": "0ccb9c23b4e4b646bdcf713e4120d1cfad72e4b6cba390fd6372396b7322b075",
+      "rows": [
+        3117
+      ],
+      "molecules": {
+        "CHEMBL136475": "FC[C@@H]1Cc2ccc(Br)cc2CN1",
+        "CHEMBL136304": "FC[C@H]1Cc2ccc(Br)cc2CN1"
+      }
+    },
+    {
+      "achiral_smiles": "c1cc(OCC2CN(C3CCCC3)CCO2)ccc1CN1CCOCC1",
+      "selection_hash": "0ce75236dac60ebfd02826d19b85c388385c97d6f09e1de33c0efa68825df133",
+      "rows": [
+        24
+      ],
+      "molecules": {
+        "CHEMBL497192": "c1cc(OC[C@@H]2CN(C3CCCC3)CCO2)ccc1CN1CCOCC1",
+        "CHEMBL524088": "c1cc(OC[C@H]2CN(C3CCCC3)CCO2)ccc1CN1CCOCC1"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1c(F)cc(C(=O)NC2CC2)cc1-c1ccc(C(=O)NC(C)C(C)(C)C)cn1",
+      "selection_hash": "0d09908c6bba827f7be46aee48cf917517be80bec05f269198283e0467caffaf",
+      "rows": [
+        2385
+      ],
+      "molecules": {
+        "CHEMBL1784176": "Cc1c(F)cc(C(=O)NC2CC2)cc1-c1ccc(C(=O)N[C@H](C)C(C)(C)C)cn1",
+        "CHEMBL1784177": "Cc1c(F)cc(C(=O)NC2CC2)cc1-c1ccc(C(=O)N[C@@H](C)C(C)(C)C)cn1"
+      }
+    },
+    {
+      "achiral_smiles": "CC1CCN(CCC2CCCN2S(=O)(=O)c2cccc3ccccc23)CC1",
+      "selection_hash": "0d3b7b7ff812abe0f728bb2d3572a493a3a0ad813b5ab01edc1fc9f191eaeaed",
+      "rows": [
+        422
+      ],
+      "molecules": {
+        "CHEMBL94261": "CC1CCN(CC[C@@H]2CCCN2S(=O)(=O)c2cccc3ccccc23)CC1",
+        "CHEMBL94984": "CC1CCN(CC[C@H]2CCCN2S(=O)(=O)c2cccc3ccccc23)CC1"
+      }
+    },
+    {
+      "achiral_smiles": "CN(C)CC1CNC(=O)O1",
+      "selection_hash": "0d90bdb72c6e23278fb8990b4178630893d4988c79ca1979a20e0f9ca803460a",
+      "rows": [
+        1175
+      ],
+      "molecules": {
+        "CHEMBL2441754": "CN(C)C[C@@H]1CNC(=O)O1",
+        "CHEMBL2441755": "CN(C)C[C@H]1CNC(=O)O1"
+      }
+    },
+    {
+      "achiral_smiles": "CC1CCCN1CCc1cc2ccccc2[nH]1",
+      "selection_hash": "0da8bff8771ae902ee5d2e7b79f97e3810eec5b1c2bbc11c45b6ad81af022851",
+      "rows": [
+        2605
+      ],
+      "molecules": {
+        "CHEMBL271252": "C[C@@H]1CCCN1CCc1cc2ccccc2[nH]1",
+        "CHEMBL272988": "C[C@H]1CCCN1CCc1cc2ccccc2[nH]1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(N)C(=O)N1CCN(CCCOc2ccc(C(=O)C3CC3)cc2)CC1",
+      "selection_hash": "0dd8341bce10dbe86611f61d12ec93b1faff9a1706f53c62dc108be0b19910d8",
+      "rows": [
+        2307
+      ],
+      "molecules": {
+        "CHEMBL302196": "C[C@@H](N)C(=O)N1CCN(CCCOc2ccc(C(=O)C3CC3)cc2)CC1",
+        "CHEMBL62804": "C[C@H](N)C(=O)N1CCN(CCCOc2ccc(C(=O)C3CC3)cc2)CC1"
+      }
+    },
+    {
+      "achiral_smiles": "COc1cc2c(cc1OC)CN(CC(=O)NC1CCCc3c(OC)cccc31)CC2",
+      "selection_hash": "0e2d80e5372beb84eed4bc8395575968de36664fe81f8d507cf38f442817c960",
+      "rows": [
+        2021
+      ],
+      "molecules": {
+        "CHEMBL3354880": "COc1cc2c(cc1OC)CN(CC(=O)N[C@@H]1CCCc3c(OC)cccc31)CC2",
+        "CHEMBL3354881": "COc1cc2c(cc1OC)CN(CC(=O)N[C@H]1CCCc3c(OC)cccc31)CC2"
+      }
+    },
+    {
+      "achiral_smiles": "N#Cc1ccc(C(=O)Nc2ccc(C3CNCCO3)cc2Cl)cn1",
+      "selection_hash": "0e739971e5ed98e9e819ecd1247ae847205ca82b7e2e9bfa9c172d97e7a28dfc",
+      "rows": [
+        2981
+      ],
+      "molecules": {
+        "CHEMBL3673044": "N#Cc1ccc(C(=O)Nc2ccc([C@@H]3CNCCO3)cc2Cl)cn1",
+        "CHEMBL3673043": "N#Cc1ccc(C(=O)Nc2ccc([C@H]3CNCCO3)cc2Cl)cn1"
+      }
+    },
+    {
+      "achiral_smiles": "Nc1cccc(OCCCNCC2COc3ccc(O)cc3O2)c1",
+      "selection_hash": "0ec19af420c16622ea3c72dee2d52fde145b691d623273c4bcd390c0baaaa0ff",
+      "rows": [
+        3387
+      ],
+      "molecules": {
+        "CHEMBL423335": "Nc1cccc(OCCCNC[C@@H]2COc3ccc(O)cc3O2)c1",
+        "CHEMBL136635": "Nc1cccc(OCCCNC[C@H]2COc3ccc(O)cc3O2)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCN(CCN1CCN(c2ccccc2)CC1)C1CCc2nc(N)sc2C1",
+      "selection_hash": "0f1ef4d92151b44102c8cde102fe629bb9fa30d87024ab1ce43a68fb66041ecc",
+      "rows": [
+        649
+      ],
+      "molecules": {
+        "CHEMBL456811": "CCCN(CCN1CCN(c2ccccc2)CC1)[C@@H]1CCc2nc(N)sc2C1",
+        "CHEMBL456597": "CCCN(CCN1CCN(c2ccccc2)CC1)[C@H]1CCc2nc(N)sc2C1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCN(CCC)C1CCc2c(ccn2C=O)C1",
+      "selection_hash": "0f2240edd42c28f0477e0a2e43302ff0355486c98f810fb449115d28b69de576",
+      "rows": [
+        604
+      ],
+      "molecules": {
+        "CHEMBL192746": "CCCN(CCC)[C@@H]1CCc2c(ccn2C=O)C1",
+        "CHEMBL192795": "CCCN(CCC)[C@H]1CCc2c(ccn2C=O)C1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C)(C)CCNc1cc(NC2CCNC2)ncn1",
+      "selection_hash": "103ac98bfd6c516b238012d0dc7377a743347899a7e03b5fb338246abf40a57b",
+      "rows": [
+        113
+      ],
+      "molecules": {
+        "CHEMBL1916494": "CC(C)(C)CCNc1cc(N[C@@H]2CCNC2)ncn1",
+        "CHEMBL1915534": "CC(C)(C)CCNc1cc(N[C@H]2CCNC2)ncn1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(Oc1ccccc1C1CC1)C1=NCCN1",
+      "selection_hash": "10564554daf76f1f07b4c45dfc4937b0c7ce549a75dc016822b822b8d4ce86ea",
+      "rows": [
+        2544
+      ],
+      "molecules": {
+        "CHEMBL1276219": "C[C@@H](Oc1ccccc1C1CC1)C1=NCCN1",
+        "CHEMBL1276220": "C[C@H](Oc1ccccc1C1CC1)C1=NCCN1"
+      }
+    },
+    {
+      "achiral_smiles": "O=P(O)(O)C(O)c1ccccc1",
+      "selection_hash": "106c2aedfb4869a14b161d5c2d355d084bbb9195932630f9d8bd712bdeb36e79",
+      "rows": [
+        3734
+      ],
+      "molecules": {
+        "CHEMBL1160305": "O=P(O)(O)[C@@H](O)c1ccccc1",
+        "CHEMBL1160299": "O=P(O)(O)[C@H](O)c1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(NC(=O)c1ccccc1-c1ccc(-c2cnc(N)cn2)c(F)c1)C(F)(F)F",
+      "selection_hash": "1093e2367f4d239fa44dd4ecf06fa2424ce9403b3a6be33979ee8d0e53e039cd",
+      "rows": [
+        2409
+      ],
+      "molecules": {
+        "CHEMBL3697195": "C[C@@H](NC(=O)c1ccccc1-c1ccc(-c2cnc(N)cn2)c(F)c1)C(F)(F)F",
+        "CHEMBL3697189": "C[C@H](NC(=O)c1ccccc1-c1ccc(-c2cnc(N)cn2)c(F)c1)C(F)(F)F"
+      }
+    },
+    {
+      "achiral_smiles": "Nc1cnc(-c2ccc(-c3ccccc3S(=O)(=O)N3CCC(O)C3)cc2F)cn1",
+      "selection_hash": "10a284174f15eb45034a310cc6d8566bb4fcb9ff42967c4fc98701fdebd98689",
+      "rows": [
+        3394
+      ],
+      "molecules": {
+        "CHEMBL3688544": "Nc1cnc(-c2ccc(-c3ccccc3S(=O)(=O)N3CC[C@@H](O)C3)cc2F)cn1",
+        "CHEMBL3688543": "Nc1cnc(-c2ccc(-c3ccccc3S(=O)(=O)N3CC[C@H](O)C3)cc2F)cn1"
+      }
+    },
+    {
+      "achiral_smiles": "COCC1CCCN1c1cc(NC(C)=O)nc(-c2cccs2)n1",
+      "selection_hash": "10a77b81fcb9c5a0833a35c2dda485e0f770bc37c680e7e5b80286d1fbf40af7",
+      "rows": [
+        1604
+      ],
+      "molecules": {
+        "CHEMBL456068": "COC[C@@H]1CCCN1c1cc(NC(C)=O)nc(-c2cccs2)n1",
+        "CHEMBL510696": "COC[C@H]1CCCN1c1cc(NC(C)=O)nc(-c2cccs2)n1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(O)CNS(=O)(=O)c1ccccc1-c1ccc(-c2cnc(N)cn2)c(F)c1",
+      "selection_hash": "1112c0f9b84eabf7f2abcfd53a3c78f095a96284833b2f6d50c43b360da207ab",
+      "rows": [
+        2499
+      ],
+      "molecules": {
+        "CHEMBL3700898": "C[C@@H](O)CNS(=O)(=O)c1ccccc1-c1ccc(-c2cnc(N)cn2)c(F)c1",
+        "CHEMBL3688484": "C[C@H](O)CNS(=O)(=O)c1ccccc1-c1ccc(-c2cnc(N)cn2)c(F)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CC1Cc2ccc([N+](=O)[O-])cc2CN1",
+      "selection_hash": "11673c3f3eae1663731c55e258aa2f8e025faa348085be713a8b1e438ab100d5",
+      "rows": [
+        2732
+      ],
+      "molecules": {
+        "CHEMBL304872": "C[C@@H]1Cc2ccc([N+](=O)[O-])cc2CN1",
+        "CHEMBL57966": "C[C@H]1Cc2ccc([N+](=O)[O-])cc2CN1"
+      }
+    },
+    {
+      "achiral_smiles": "CS(=O)(=O)c1cc(F)cc2c3c(n(Cc4ccc(Cl)cc4)c12)C(CC(=O)O)CC3",
+      "selection_hash": "129682256188acaadb18ff429bcb445821a04f182fe8d3fdb2f67def97bcb20c",
+      "rows": [
+        2126
+      ],
+      "molecules": {
+        "CHEMBL387477": "CS(=O)(=O)c1cc(F)cc2c3c(n(Cc4ccc(Cl)cc4)c12)[C@H](CC(=O)O)CC3",
+        "CHEMBL426559": "CS(=O)(=O)c1cc(F)cc2c3c(n(Cc4ccc(Cl)cc4)c12)[C@@H](CC(=O)O)CC3"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C)CC1CN(c2cccc(-c3n[nH]c4ncccc34)n2)CCN1",
+      "selection_hash": "1299f87099e4719e0a7a44c72d0a557fcea6ff9c9cae898a8caf2383e58f01a0",
+      "rows": [
+        207
+      ],
+      "molecules": {
+        "CHEMBL2326018": "CC(C)C[C@@H]1CN(c2cccc(-c3n[nH]c4ncccc34)n2)CCN1",
+        "CHEMBL2326019": "CC(C)C[C@H]1CN(c2cccc(-c3n[nH]c4ncccc34)n2)CCN1"
+      }
+    },
+    {
+      "achiral_smiles": "FC1CCN(Cc2ccc(OCCCN3CCCCC3)cc2)C1",
+      "selection_hash": "1330049ba1efe1cb56a03fd0ba3df207dec5b496de5e76d773997e41bddbbe9b",
+      "rows": [
+        3126
+      ],
+      "molecules": {
+        "CHEMBL470599": "F[C@@H]1CCN(Cc2ccc(OCCCN3CCCCC3)cc2)C1",
+        "CHEMBL471437": "F[C@H]1CCN(Cc2ccc(OCCCN3CCCCC3)cc2)C1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(=O)Nc1ccc(SCC(C)(O)C(=O)Nc2ccc(C#N)c(C(F)(F)F)c2)cc1",
+      "selection_hash": "136a4280efc1ce60df47b623f9f740b5033577b9aba76395abc11b3b61bead86",
+      "rows": [
+        89
+      ],
+      "molecules": {
+        "CHEMBL123750": "CC(=O)Nc1ccc(SC[C@@](C)(O)C(=O)Nc2ccc(C#N)c(C(F)(F)F)c2)cc1",
+        "CHEMBL121940": "CC(=O)Nc1ccc(SC[C@](C)(O)C(=O)Nc2ccc(C#N)c(C(F)(F)F)c2)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(=O)Nc1cc(-c2cccc(COC3CCN(C)C3)c2)nc(-n2nc(C)cc2C)n1",
+      "selection_hash": "136c64767eb2b2ad32de6c3153376b066e68e49c9b33a11d98cf0dd12e9ca4e2",
+      "rows": [
+        1354
+      ],
+      "molecules": {
+        "CHEMBL470355": "CC(=O)Nc1cc(-c2cccc(CO[C@H]3CCN(C)C3)c2)nc(-n2nc(C)cc2C)n1",
+        "CHEMBL511118": "CC(=O)Nc1cc(-c2cccc(CO[C@@H]3CCN(C)C3)c2)nc(-n2nc(C)cc2C)n1"
+      }
+    },
+    {
+      "achiral_smiles": "CN(C)CCCOc1ccc(CN2CCC(NC(=O)c3ccc(Br)cc3)C2)cc1",
+      "selection_hash": "13bb0829b080e1c70ecf1d19db0337b945e038a1027030254c266f1ec4ddcf2b",
+      "rows": [
+        1154
+      ],
+      "molecules": {
+        "CHEMBL264726": "CN(C)CCCOc1ccc(CN2CC[C@H](NC(=O)c3ccc(Br)cc3)C2)cc1",
+        "CHEMBL480170": "CN(C)CCCOc1ccc(CN2CC[C@@H](NC(=O)c3ccc(Br)cc3)C2)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "NC(N)=NCCCC(NCc1ccc2ccccc2c1)C(=O)O",
+      "selection_hash": "141de326e5f5311d0df25cfecd78fd58bb0f7f1bb490c80c4891a4ad8c6ae88e",
+      "rows": [
+        3229
+      ],
+      "molecules": {
+        "CHEMBL1159696": "NC(N)=NCCC[C@@H](NCc1ccc2ccccc2c1)C(=O)O",
+        "CHEMBL1159698": "NC(N)=NCCC[C@H](NCc1ccc2ccccc2c1)C(=O)O"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(c1ncco1)C1Cc2ccc(Oc3ccccc3)cc2C1",
+      "selection_hash": "1441dd6030c0876b820f55a248f86d8bf30e6cbc7179b46ab02363e2d7f627b0",
+      "rows": [
+        3493
+      ],
+      "molecules": {
+        "CHEMBL1765874": "O=C(c1ncco1)[C@@H]1Cc2ccc(Oc3ccccc3)cc2C1",
+        "CHEMBL1765865": "O=C(c1ncco1)[C@H]1Cc2ccc(Oc3ccccc3)cc2C1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(NC(=O)c1ccc[nH]1)C1CCCCC1",
+      "selection_hash": "14f90b1f2ec57df6bb028e117cc3b2fc3360f3ca187c660550e8761e2a47486b",
+      "rows": [
+        2405
+      ],
+      "molecules": {
+        "CHEMBL426708": "C[C@@H](NC(=O)c1ccc[nH]1)C1CCCCC1",
+        "CHEMBL220264": "C[C@H](NC(=O)c1ccc[nH]1)C1CCCCC1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(Oc1ccc(Cl)cc1C1CCCCC1)C(=O)O",
+      "selection_hash": "1515ee0d794a8c5d1bef2a805972258a7f457a53b4e9ca5bf036de87049f7a6b",
+      "rows": [
+        2530
+      ],
+      "molecules": {
+        "CHEMBL247738": "C[C@@H](Oc1ccc(Cl)cc1C1CCCCC1)C(=O)O",
+        "CHEMBL394497": "C[C@H](Oc1ccc(Cl)cc1C1CCCCC1)C(=O)O"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(NCCCCN1CCN(c2ccccc2)CC1)C1CCc2ccccc2N1",
+      "selection_hash": "15233813e57fe2a47d50e4255cf09ddafd303544d379bbc13b821db169566e9c",
+      "rows": [
+        3438
+      ],
+      "molecules": {
+        "CHEMBL3358507": "O=C(NCCCCN1CCN(c2ccccc2)CC1)[C@@H]1CCc2ccccc2N1",
+        "CHEMBL3358505": "O=C(NCCCCN1CCN(c2ccccc2)CC1)[C@H]1CCc2ccccc2N1"
+      }
+    },
+    {
+      "achiral_smiles": "NC(C(=O)O)c1ccccc1",
+      "selection_hash": "1581d726b2c379d7f3b4d8e51269447ffec28fe558ad3a2327e15bcbbf33c2ed",
+      "rows": [
+        3322
+      ],
+      "molecules": {
+        "CHEMBL1403": "N[C@@H](C(=O)O)c1ccccc1",
+        "CHEMBL378605": "N[C@H](C(=O)O)c1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(Nc1nc(N)nc(NCCOc2ccccc2)n1)c1ccccc1",
+      "selection_hash": "15b1de1cf4743a4e4d604c0e1af6bfab80563ca00924e54e0195b9f82908fddb",
+      "rows": [
+        2454
+      ],
+      "molecules": {
+        "CHEMBL360374": "C[C@@H](Nc1nc(N)nc(NCCOc2ccccc2)n1)c1ccccc1",
+        "CHEMBL182174": "C[C@H](Nc1nc(N)nc(NCCOc2ccccc2)n1)c1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(NCCNc1ccc(F)cc1)C(CC(=O)N1CCOCC1)CC1CCCCC1",
+      "selection_hash": "15d760a2b178a2a147576a10de4fd310a14bb106ed234dacd44aa653e2ce3ba6",
+      "rows": [
+        3154
+      ],
+      "molecules": {
+        "CHEMBL240616": "O=C(NCCNc1ccc(F)cc1)[C@H](CC(=O)N1CCOCC1)CC1CCCCC1",
+        "CHEMBL240615": "O=C(NCCNc1ccc(F)cc1)[C@@H](CC(=O)N1CCOCC1)CC1CCCCC1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(=O)Nc1ccc(SCC(C)(O)C(=O)Nc2ccc([N+](=O)[O-])c(C(F)(F)F)c2)cc1",
+      "selection_hash": "16e8cbef74f32158660a490e39c955ddd50b2bd62f0eb52a9ad199d400e95344",
+      "rows": [
+        90
+      ],
+      "molecules": {
+        "CHEMBL126155": "CC(=O)Nc1ccc(SC[C@@](C)(O)C(=O)Nc2ccc([N+](=O)[O-])c(C(F)(F)F)c2)cc1",
+        "CHEMBL332571": "CC(=O)Nc1ccc(SC[C@](C)(O)C(=O)Nc2ccc([N+](=O)[O-])c(C(F)(F)F)c2)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(c1ncco1)C1COc2cc(-c3ccccc3)ccc2C1",
+      "selection_hash": "184e6a5990488741b7c74a2604a4ed43964c0866eebe1f321dc1a7020b89487e",
+      "rows": [
+        3490
+      ],
+      "molecules": {
+        "CHEMBL3264465": "O=C(c1ncco1)[C@@H]1COc2cc(-c3ccccc3)ccc2C1",
+        "CHEMBL3264464": "O=C(c1ncco1)[C@H]1COc2cc(-c3ccccc3)ccc2C1"
+      }
+    },
+    {
+      "achiral_smiles": "COc1ccc(N2CC(CN3CCC(O)(c4ccc(OC)cc4)CC3)OC2=O)cc1",
+      "selection_hash": "1867215eddb3cdd287c18816e0fb205bed881264aeeeecf7ead2d3c3c5d839b5",
+      "rows": [
+        1862
+      ],
+      "molecules": {
+        "CHEMBL46496": "COc1ccc(N2C[C@@H](CN3CCC(O)(c4ccc(OC)cc4)CC3)OC2=O)cc1",
+        "CHEMBL47714": "COc1ccc(N2C[C@H](CN3CCC(O)(c4ccc(OC)cc4)CC3)OC2=O)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CCOc1cnc(Nc2ccc(C3CNCCO3)cc2F)nc1",
+      "selection_hash": "194f210e4c83994518b1064679aad7da1a29b90e271bf93f283d68b2f6d309ff",
+      "rows": [
+        936
+      ],
+      "molecules": {
+        "CHEMBL3639405": "CCOc1cnc(Nc2ccc([C@@H]3CNCCO3)cc2F)nc1",
+        "CHEMBL3641690": "CCOc1cnc(Nc2ccc([C@H]3CNCCO3)cc2F)nc1"
+      }
+    },
+    {
+      "achiral_smiles": "CN1CCC(O)(C#Cc2ccc3c(c2)-n2nc(C(N)=O)cc2CCO3)C1=O",
+      "selection_hash": "19cf4499306c2c5ed908b0718e612754f39fb0562c42c3c04f7909415334b7f7",
+      "rows": [
+        1367
+      ],
+      "molecules": {
+        "CHEMBL3700297": "CN1CC[C@@](O)(C#Cc2ccc3c(c2)-n2nc(C(N)=O)cc2CCO3)C1=O",
+        "CHEMBL3639991": "CN1CC[C@](O)(C#Cc2ccc3c(c2)-n2nc(C(N)=O)cc2CCO3)C1=O"
+      }
+    },
+    {
+      "achiral_smiles": "CC(NC(=O)c1cc(-c2[nH]ncc2-c2cccc(Cl)c2)c[nH]1)c1ccccc1",
+      "selection_hash": "19f52c95c867cc289915d455c865cc914fc0ce008fe3e91ea83883861669c374",
+      "rows": [
+        2379
+      ],
+      "molecules": {
+        "CHEMBL373628": "C[C@@H](NC(=O)c1cc(-c2[nH]ncc2-c2cccc(Cl)c2)c[nH]1)c1ccccc1",
+        "CHEMBL221117": "C[C@H](NC(=O)c1cc(-c2[nH]ncc2-c2cccc(Cl)c2)c[nH]1)c1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCCC=C(C)C=CC1CCC(=O)N1CCc1ccc(C(=O)O)cc1",
+      "selection_hash": "1a20b187778c7123651015c414d580b20c782f755dd70c5bf0d1c1a46dc1e13c",
+      "rows": [
+        592
+      ],
+      "molecules": {
+        "CHEMBL2096894": "CCCC/C=C(C)/C=C\\[C@H]1CCC(=O)N1CCc1ccc(C(=O)O)cc1",
+        "CHEMBL398948": "CCCC/C=C(C)/C=C/[C@H]1CCC(=O)N1CCc1ccc(C(=O)O)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl",
+      "selection_hash": "1b452e80cba54841bdfecdd791c671fae52fac20c71435d23fd84352c2c4e402",
+      "rows": [
+        2528
+      ],
+      "molecules": {
+        "CHEMBL601719": "C[C@@H](Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl",
+        "CHEMBL1825141": "C[C@H](Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl"
+      }
+    },
+    {
+      "achiral_smiles": "CNc1cc(OC)c(C(=O)NCC2CCN(Cc3ccccc3)C2)cc1Cl",
+      "selection_hash": "1ba80b04c8173194d482ec3e2a5c93a1a12f8e37f6d89c3ebc68731712cc5a6b",
+      "rows": [
+        1488
+      ],
+      "molecules": {
+        "CHEMBL169222": "CNc1cc(OC)c(C(=O)NC[C@@H]2CCN(Cc3ccccc3)C2)cc1Cl",
+        "CHEMBL166587": "CNc1cc(OC)c(C(=O)NC[C@H]2CCN(Cc3ccccc3)C2)cc1Cl"
+      }
+    },
+    {
+      "achiral_smiles": "CCCN(CCC)C1CCc2c(O)cccc2C1",
+      "selection_hash": "1c184092f02fa7322f1281bf7b4607e82ad95805cec9f5629f7b43e30c5badf6",
+      "rows": [
+        609
+      ],
+      "molecules": {
+        "CHEMBL15146": "CCCN(CCC)[C@@H]1CCc2c(O)cccc2C1",
+        "CHEMBL269004": "CCCN(CCC)[C@H]1CCc2c(O)cccc2C1"
+      }
+    },
+    {
+      "achiral_smiles": "CSc1cc(C(=O)NCC2CCCN2Cc2ccccc2)c2c(c1)N(C)CCO2",
+      "selection_hash": "1c3653c0b8569de974950c174086e49fc0c7e41f8b1592fe827f11083b5e335e",
+      "rows": [
+        2134
+      ],
+      "molecules": {
+        "CHEMBL22835": "CSc1cc(C(=O)NC[C@@H]2CCCN2Cc2ccccc2)c2c(c1)N(C)CCO2",
+        "CHEMBL278151": "CSc1cc(C(=O)NC[C@H]2CCCN2Cc2ccccc2)c2c(c1)N(C)CCO2"
+      }
+    },
+    {
+      "achiral_smiles": "CCC(=O)NC1CCN(c2cccc3c2CCO3)C1",
+      "selection_hash": "1c6da3e2a2fc2fb3c80bc95bccea59b283f5621d020078521499e8a4fc7f8f53",
+      "rows": [
+        429
+      ],
+      "molecules": {
+        "CHEMBL138848": "CCC(=O)N[C@@H]1CCN(c2cccc3c2CCO3)C1",
+        "CHEMBL343825": "CCC(=O)N[C@H]1CCN(c2cccc3c2CCO3)C1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCc1cnc(Nc2ccc(C3CNCCO3)cc2)nc1",
+      "selection_hash": "1c9693acc2d0aedf2dc137db94cee4f28ab8546d01af2732e45837b9b33bbf3c",
+      "rows": [
+        754
+      ],
+      "molecules": {
+        "CHEMBL3701991": "CCCc1cnc(Nc2ccc([C@@H]3CNCCO3)cc2)nc1",
+        "CHEMBL3701920": "CCCc1cnc(Nc2ccc([C@H]3CNCCO3)cc2)nc1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCC1CNCCN1c1ccc2[nH]ncc2c1",
+      "selection_hash": "1ce7f1f0fb257c66096cf46c84b221933dffc11b7f593924493394f1096a61b8",
+      "rows": [
+        731
+      ],
+      "molecules": {
+        "CHEMBL1172524": "CCC[C@@H]1CNCCN1c1ccc2[nH]ncc2c1",
+        "CHEMBL1169912": "CCC[C@H]1CNCCN1c1ccc2[nH]ncc2c1"
+      }
+    },
+    {
+      "achiral_smiles": "Nc1nc2c(ncn2CC(CF)OCCP(=O)(O)O)c(=O)[nH]1",
+      "selection_hash": "1d6cc34181a58d08d85ab2aa0cb9f67cd47478dec280300604880b7ebc571518",
+      "rows": [
+        3287
+      ],
+      "molecules": {
+        "CHEMBL2420072": "Nc1nc2c(ncn2C[C@@H](CF)OCCP(=O)(O)O)c(=O)[nH]1",
+        "CHEMBL2420071": "Nc1nc2c(ncn2C[C@H](CF)OCCP(=O)(O)O)c(=O)[nH]1"
+      }
+    },
+    {
+      "achiral_smiles": "CN1C(=N)NC(c2ccccc2)(c2cccc(-c3cccnc3)c2)C1=O",
+      "selection_hash": "1d9376ed63132a2698f58596f19e77ebeb04d230dc86fe7ad810463d066ec9f3",
+      "rows": [
+        1226
+      ],
+      "molecules": {
+        "CHEMBL2011984": "CN1C(=N)N[C@@](c2ccccc2)(c2cccc(-c3cccnc3)c2)C1=O",
+        "CHEMBL2011983": "CN1C(=N)N[C@](c2ccccc2)(c2cccc(-c3cccnc3)c2)C1=O"
+      }
+    },
+    {
+      "achiral_smiles": "CCC(C)N(C)C(=O)c1nc(-c2ccc(Cl)cc2)c2ccccc2n1",
+      "selection_hash": "1dcc4042608cb18b572ac7e0f34cc856010d38631f08091c8a0372d8f4ffd5f5",
+      "rows": [
+        944
+      ],
+      "molecules": {
+        "CHEMBL2059064": "CC[C@@H](C)N(C)C(=O)c1nc(-c2ccc(Cl)cc2)c2ccccc2n1",
+        "CHEMBL2059063": "CC[C@H](C)N(C)C(=O)c1nc(-c2ccc(Cl)cc2)c2ccccc2n1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(CO)NS(=O)(=O)c1ccccc1-c1ccc(-c2cnc3[nH]ccc3n2)c(F)c1",
+      "selection_hash": "1df06aa5428b3c082940bc522cc44ace3c46a15a390c053f6f3d355777e1dae9",
+      "rows": [
+        2253
+      ],
+      "molecules": {
+        "CHEMBL3693120": "C[C@@H](CO)NS(=O)(=O)c1ccccc1-c1ccc(-c2cnc3[nH]ccc3n2)c(F)c1",
+        "CHEMBL3693122": "C[C@H](CO)NS(=O)(=O)c1ccccc1-c1ccc(-c2cnc3[nH]ccc3n2)c(F)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(NS(=O)(=O)c1ccccc1)C(=O)NC1=NN=C(c2ccc(F)cc2)CS1",
+      "selection_hash": "1e3230bfe0cbccfb601973b1c64c86048a36736a40ea75430c2b544539978adb",
+      "rows": [
+        2437
+      ],
+      "molecules": {
+        "CHEMBL322795": "C[C@@H](NS(=O)(=O)c1ccccc1)C(=O)NC1=NN=C(c2ccc(F)cc2)CS1",
+        "CHEMBL109579": "C[C@H](NS(=O)(=O)c1ccccc1)C(=O)NC1=NN=C(c2ccc(F)cc2)CS1"
+      }
+    },
+    {
+      "achiral_smiles": "COc1c(C(=O)NC2CCN(C3CCCCC3)C2)cc(Br)c2ccccc12",
+      "selection_hash": "1e47cb81750d3c949f2510e2f7e83e603796469ac2c03e393995ddd8fac004c4",
+      "rows": [
+        1654
+      ],
+      "molecules": {
+        "CHEMBL54026": "COc1c(C(=O)N[C@@H]2CCN(C3CCCCC3)C2)cc(Br)c2ccccc12",
+        "CHEMBL54865": "COc1c(C(=O)N[C@H]2CCN(C3CCCCC3)C2)cc(Br)c2ccccc12"
+      }
+    },
+    {
+      "achiral_smiles": "CN1CCc2cc(Cl)c(O)cc2C1c1ccccc1",
+      "selection_hash": "1e7885c7860d60e46c62c6eee0f2977b9574e815a2de05e7165b6194d978d944",
+      "rows": [
+        1373
+      ],
+      "molecules": {
+        "CHEMBL303993": "CN1CCc2cc(Cl)c(O)cc2[C@@H]1c1ccccc1",
+        "CHEMBL293158": "CN1CCc2cc(Cl)c(O)cc2[C@H]1c1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCCN1CCCC1CNC(=O)c1cc(Cl)cc2c1OCC2",
+      "selection_hash": "1e7ec8efef9d260728b06faecedc71434334e2faa6e3121638da934b7620bea9",
+      "rows": [
+        572
+      ],
+      "molecules": {
+        "CHEMBL22306": "CCCCN1CCC[C@@H]1CNC(=O)c1cc(Cl)cc2c1OCC2",
+        "CHEMBL22772": "CCCCN1CCC[C@H]1CNC(=O)c1cc(Cl)cc2c1OCC2"
+      }
+    },
+    {
+      "achiral_smiles": "CCCN(CCC)C1CCn2c(C#N)ccc2C1",
+      "selection_hash": "1e9146567bc916ae6f0b7f2b87573597361b64917faede53afc1e76464334b53",
+      "rows": [
+        622
+      ],
+      "molecules": {
+        "CHEMBL192709": "CCCN(CCC)[C@@H]1CCn2c(C#N)ccc2C1",
+        "CHEMBL372020": "CCCN(CCC)[C@H]1CCn2c(C#N)ccc2C1"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1ccc(Cn2cc(C(=O)NC(C)C3CCCCC3)cc2-c2ccc(Cl)c(C)c2)cc1",
+      "selection_hash": "1ee7637b87f255f47f587d96e5b97e53b36ea2717e1f5f032cb534abc226dc61",
+      "rows": [
+        2378
+      ],
+      "molecules": {
+        "CHEMBL3613105": "Cc1ccc(Cn2cc(C(=O)N[C@H](C)C3CCCCC3)cc2-c2ccc(Cl)c(C)c2)cc1",
+        "CHEMBL3613106": "Cc1ccc(Cn2cc(C(=O)N[C@@H](C)C3CCCCC3)cc2-c2ccc(Cl)c(C)c2)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "COC(=O)c1cnc(C(=O)C2CCc3cc(Oc4ccccc4)ccc3C2)o1",
+      "selection_hash": "1fb3c4caa6465afb6a31ea5c5a71ff5050d9011b56b6394aefda123ff5f07af9",
+      "rows": [
+        1559
+      ],
+      "molecules": {
+        "CHEMBL1765847": "COC(=O)c1cnc(C(=O)[C@@H]2CCc3cc(Oc4ccccc4)ccc3C2)o1",
+        "CHEMBL1765829": "COC(=O)c1cnc(C(=O)[C@H]2CCc3cc(Oc4ccccc4)ccc3C2)o1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C)NC(=O)C(Cc1ccccc1F)CN1CCC2(CC1)OCCc1cc(F)sc12",
+      "selection_hash": "1fc708a2e8472e97f8eb308b7a015d8d4390086e31f88c0f78f0c8f87e930de2",
+      "rows": [
+        230
+      ],
+      "molecules": {
+        "CHEMBL2088031": "CC(C)NC(=O)[C@H](Cc1ccccc1F)CN1CCC2(CC1)OCCc1cc(F)sc12",
+        "CHEMBL2088030": "CC(C)NC(=O)[C@@H](Cc1ccccc1F)CN1CCC2(CC1)OCCc1cc(F)sc12"
+      }
+    },
+    {
+      "achiral_smiles": "CC1Cc2ccccc2CN1",
+      "selection_hash": "1ffd8803816e1c33e1ef7034472bced94913bddbf5e511b554bbdc813d0a7a7a",
+      "rows": [
+        2734
+      ],
+      "molecules": {
+        "CHEMBL293023": "C[C@@H]1Cc2ccccc2CN1",
+        "CHEMBL294079": "C[C@H]1Cc2ccccc2CN1"
+      }
+    },
+    {
+      "achiral_smiles": "CCC(C)C(=O)O",
+      "selection_hash": "21514f999bf8bfa88575d96900beccd808c402efee8446962216044732c275ca",
+      "rows": [
+        943
+      ],
+      "molecules": {
+        "CHEMBL1162483": "CC[C@@H](C)C(=O)O",
+        "CHEMBL1162482": "CC[C@H](C)C(=O)O"
+      }
+    },
+    {
+      "achiral_smiles": "NC(=O)c1ccc2c(c1)CCOC2CCN1CC=C(c2c[nH]c3c(F)cccc23)CC1",
+      "selection_hash": "21a01389b260f070245a545b3496feab416c4b23569887e2f795a411070c771f",
+      "rows": [
+        3255
+      ],
+      "molecules": {
+        "CHEMBL1159649": "NC(=O)c1ccc2c(c1)CCO[C@@H]2CCN1CC=C(c2c[nH]c3c(F)cccc23)CC1",
+        "CHEMBL1169435": "NC(=O)c1ccc2c(c1)CCO[C@H]2CCN1CC=C(c2c[nH]c3c(F)cccc23)CC1"
+      }
+    },
+    {
+      "achiral_smiles": "COC(=O)C(CC(C)C)NC(=O)c1ccc(C(=O)N(C(C)C)C(C)C)cc1OC",
+      "selection_hash": "225958776761c5ac6b2479e038e7d35525320cf35da4b8313a052d7d9ed3b519",
+      "rows": [
+        1529
+      ],
+      "molecules": {
+        "CHEMBL28872": "COC(=O)[C@@H](CC(C)C)NC(=O)c1ccc(C(=O)N(C(C)C)C(C)C)cc1OC",
+        "CHEMBL284686": "COC(=O)[C@H](CC(C)C)NC(=O)c1ccc(C(=O)N(C(C)C)C(C)C)cc1OC"
+      }
+    },
+    {
+      "achiral_smiles": "CCCN(CCC)C1CCc2ccc3[nH]c(C(N)=O)cc3c2C1",
+      "selection_hash": "227e55e9b2565be0d6273db1a2fff9a510ef04c1330721e838b6c5fa84d6f021",
+      "rows": [
+        614
+      ],
+      "molecules": {
+        "CHEMBL1744036": "CCCN(CCC)[C@@H]1CCc2ccc3[nH]c(C(N)=O)cc3c2C1",
+        "CHEMBL1788190": "CCCN(CCC)[C@H]1CCc2ccc3[nH]c(C(N)=O)cc3c2C1"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1cc(Nc2cc(C)c(C#N)c(NC(C)CCCC(C)(C)O)n2)n[nH]1",
+      "selection_hash": "2363aa1dd67437d47c58d521f9c63ebf49bc1b6ca4fff7c389ff0852aa0b2fb2",
+      "rows": [
+        2197
+      ],
+      "molecules": {
+        "CHEMBL1778663": "Cc1cc(Nc2cc(C)c(C#N)c(N[C@@H](C)CCCC(C)(C)O)n2)n[nH]1",
+        "CHEMBL1778664": "Cc1cc(Nc2cc(C)c(C#N)c(N[C@H](C)CCCC(C)(C)O)n2)n[nH]1"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1cc(C)c(CCN2CCCC2C)c(C)c1",
+      "selection_hash": "2405803a093c54eb47e329ace5e6ac1344e42a90d7e9898432831e308e69cf44",
+      "rows": [
+        2604
+      ],
+      "molecules": {
+        "CHEMBL270630": "Cc1cc(C)c(CCN2CCC[C@H]2C)c(C)c1",
+        "CHEMBL272141": "Cc1cc(C)c(CCN2CCC[C@@H]2C)c(C)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CNC1CCN(c2nc(N)nc3c2sc2cc(OC)ccc23)C1",
+      "selection_hash": "24ffcd4a06e39b08155f877ce853bc8df9d7d77139d04aa514548d870dd08b6d",
+      "rows": [
+        1481
+      ],
+      "molecules": {
+        "CHEMBL1914794": "CN[C@@H]1CCN(c2nc(N)nc3c2sc2cc(OC)ccc23)C1",
+        "CHEMBL1915022": "CN[C@H]1CCN(c2nc(N)nc3c2sc2cc(OC)ccc23)C1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(Nc1nc(-c2ccccc2)nc2ccccc12)c1ccccc1",
+      "selection_hash": "2542f52403480493d16cb71b08dbfac2e9b4c8400396bbfd079549572da833fa",
+      "rows": [
+        2461
+      ],
+      "molecules": {
+        "CHEMBL72319": "C[C@@H](Nc1nc(-c2ccccc2)nc2ccccc12)c1ccccc1",
+        "CHEMBL72703": "C[C@H](Nc1nc(-c2ccccc2)nc2ccccc12)c1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "c1ccc(-n2ccc(Nc3ccc(C4CNCCO4)cc3)n2)cc1",
+      "selection_hash": "254ba3e294c8395fde861f180e3dc4a63b9b1ae9934ee37a717ed360f7bfa2a3",
+      "rows": [
+        47
+      ],
+      "molecules": {
+        "CHEMBL3641716": "c1ccc(-n2ccc(Nc3ccc([C@@H]4CNCCO4)cc3)n2)cc1",
+        "CHEMBL3641715": "c1ccc(-n2ccc(Nc3ccc([C@H]4CNCCO4)cc3)n2)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CCc1cnc(Nc2ccc(C3CNCCO3)cc2F)nc1",
+      "selection_hash": "2586e3f63b7b201d69956bfe31aec68cdc31ebd36f0b3d71028f96da5a1a6a18",
+      "rows": [
+        1096
+      ],
+      "molecules": {
+        "CHEMBL3702014": "CCc1cnc(Nc2ccc([C@@H]3CNCCO3)cc2F)nc1",
+        "CHEMBL3702015": "CCc1cnc(Nc2ccc([C@H]3CNCCO3)cc2F)nc1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCCC(CC)C(=O)O",
+      "selection_hash": "25b151d553b9322fb2d68a166b2add0fafaff02ca6f490d5710d4f53a93c2efa",
+      "rows": [
+        583
+      ],
+      "molecules": {
+        "CHEMBL1162487": "CCCC[C@@H](CC)C(=O)O",
+        "CHEMBL1162486": "CCCC[C@H](CC)C(=O)O"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C)C1CN(c2cccc(C(=O)c3cccnc3N)n2)CCN1",
+      "selection_hash": "2602c64c9b2b6d5a363d3381de2526a033c6fe8d85fa2465c524f6816937eb44",
+      "rows": [
+        299
+      ],
+      "molecules": {
+        "CHEMBL2046638": "CC(C)[C@@H]1CN(c2cccc(C(=O)c3cccnc3N)n2)CCN1",
+        "CHEMBL2046637": "CC(C)[C@H]1CN(c2cccc(C(=O)c3cccnc3N)n2)CCN1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCN(CCC)C1CCn2c(ccc2C(=O)C(F)(F)F)C1",
+      "selection_hash": "265cf5442e26c911871fd167cb53ee4543ffb85abb366ee053f1bf303b27e14e",
+      "rows": [
+        624
+      ],
+      "molecules": {
+        "CHEMBL364737": "CCCN(CCC)[C@@H]1CCn2c(ccc2C(=O)C(F)(F)F)C1",
+        "CHEMBL189486": "CCCN(CCC)[C@H]1CCn2c(ccc2C(=O)C(F)(F)F)C1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCCCCCCC=CCCCCCCCCC=C1CC(CO)(COC(C)=O)OC1=O",
+      "selection_hash": "26622712e38f2d99833fff5f516465f142eae6cf4e300aee4065ddbc6b2721bf",
+      "rows": [
+        510
+      ],
+      "molecules": {
+        "CHEMBL342430": "CCCCCCCC/C=C\\CCCCCCCC/C=C1/C[C@@](CO)(COC(C)=O)OC1=O",
+        "CHEMBL138351": "CCCCCCCC/C=C\\CCCCCCCC/C=C1\\C[C@@](CO)(COC(C)=O)OC1=O"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1ncccc1OCC1CCCN1",
+      "selection_hash": "2678fc32cb27acebfbde7d11168183d4733f4a385f141cc8cf150b4f01305a94",
+      "rows": [
+        2955
+      ],
+      "molecules": {
+        "CHEMBL127071": "Cc1ncccc1OC[C@@H]1CCCN1",
+        "CHEMBL126692": "Cc1ncccc1OC[C@H]1CCCN1"
+      }
+    },
+    {
+      "achiral_smiles": "CC1CCCN1CCCOc1ccc(C2=NNC(=O)CC2)cc1",
+      "selection_hash": "268aeb72f9ca020aa24466d586dea6ae73ba9a1ed201dffccbe5fba69e2ec926",
+      "rows": [
+        2598
+      ],
+      "molecules": {
+        "CHEMBL1935100": "C[C@@H]1CCCN1CCCOc1ccc(C2=NNC(=O)CC2)cc1",
+        "CHEMBL1935101": "C[C@H]1CCCN1CCCOc1ccc(C2=NNC(=O)CC2)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(CNC(=O)c1ccc(Br)cc1NS(=O)(=O)c1cccc2nsnc12)c1ccccc1",
+      "selection_hash": "2696fb4965d07aebfeea4b0110a4fdf5450578de6d87fffc1659d2bf08275fe5",
+      "rows": [
+        2233
+      ],
+      "molecules": {
+        "CHEMBL584063": "C[C@@H](CNC(=O)c1ccc(Br)cc1NS(=O)(=O)c1cccc2nsnc12)c1ccccc1",
+        "CHEMBL566604": "C[C@H](CNC(=O)c1ccc(Br)cc1NS(=O)(=O)c1cccc2nsnc12)c1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C1C2CCCN2C(=O)CN1CN1CCN(c2cccc3ccccc23)CC1",
+      "selection_hash": "26b77500cfafec53152e43a1b8da78b605929b73378d0fde5febe714ede405a4",
+      "rows": [
+        3500
+      ],
+      "molecules": {
+        "CHEMBL370758": "O=C1[C@@H]2CCCN2C(=O)CN1CN1CCN(c2cccc3ccccc23)CC1",
+        "CHEMBL427349": "O=C1[C@H]2CCCN2C(=O)CN1CN1CCN(c2cccc3ccccc23)CC1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C1=C(CCN(C)C)Cc2ccccc21)c1ccccn1",
+      "selection_hash": "26fde6d21bb62b84c83df813d4996a25146700b3c310bcafc139cd01b04fdf98",
+      "rows": [
+        2175
+      ],
+      "molecules": {
+        "CHEMBL1493369": "C[C@@H](C1=C(CCN(C)C)Cc2ccccc21)c1ccccn1",
+        "CHEMBL564226": "C[C@H](C1=C(CCN(C)C)Cc2ccccc21)c1ccccn1"
+      }
+    },
+    {
+      "achiral_smiles": "Cn1ncc(NC(=O)c2nc(-c3ncccc3F)sc2N)c1N1CCC(N)CC(F)(F)C1",
+      "selection_hash": "270c5b78856e0d71e1a798da5ef59ccc1a492fef5c2d08f2a108e361da8b14fd",
+      "rows": [
+        3071
+      ],
+      "molecules": {
+        "CHEMBL3648715": "Cn1ncc(NC(=O)c2nc(-c3ncccc3F)sc2N)c1N1CC[C@@H](N)CC(F)(F)C1",
+        "CHEMBL3648706": "Cn1ncc(NC(=O)c2nc(-c3ncccc3F)sc2N)c1N1CC[C@H](N)CC(F)(F)C1"
+      }
+    },
+    {
+      "achiral_smiles": "C[N+](C)(C)CC1CNC(=O)O1",
+      "selection_hash": "27e66074efffc7817ae1be7188f5c08530e27779892b788af88b2f5a58499c07",
+      "rows": [
+        2797
+      ],
+      "molecules": {
+        "CHEMBL2441756": "C[N+](C)(C)C[C@@H]1CNC(=O)O1",
+        "CHEMBL2441757": "C[N+](C)(C)C[C@H]1CNC(=O)O1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(c1ncc(I)o1)C1COc2cc(Oc3ccccc3)ccc2C1",
+      "selection_hash": "282add32d41ce6e277375ce2197aed3dcba190e9866f0633ad9dcb2b7a857a8a",
+      "rows": [
+        3205
+      ],
+      "molecules": {
+        "CHEMBL3264478": "O=C(c1ncc(I)o1)[C@@H]1COc2cc(Oc3ccccc3)ccc2C1",
+        "CHEMBL3264477": "O=C(c1ncc(I)o1)[C@H]1COc2cc(Oc3ccccc3)ccc2C1"
+      }
+    },
+    {
+      "achiral_smiles": "NC(=O)c1ccc(Oc2ccc(CN3CCCC3c3cccnc3)cc2)c(Cl)c1",
+      "selection_hash": "2841a0406275da0122de2752d084a91106c2afec58c434fc5f70b07877db288b",
+      "rows": [
+        3254
+      ],
+      "molecules": {
+        "CHEMBL1921843": "NC(=O)c1ccc(Oc2ccc(CN3CCC[C@@H]3c3cccnc3)cc2)c(Cl)c1",
+        "CHEMBL1921842": "NC(=O)c1ccc(Oc2ccc(CN3CCC[C@H]3c3cccnc3)cc2)c(Cl)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CNC1CCN(c2ccnc(NCC(C)C)c2)C1",
+      "selection_hash": "286fad74f52fbf814ed85aa9f3e15e105e25efe89aa908fa34c0003cef33bacf",
+      "rows": [
+        1477
+      ],
+      "molecules": {
+        "CHEMBL3393526": "CN[C@@H]1CCN(c2ccnc(NCC(C)C)c2)C1",
+        "CHEMBL3393527": "CN[C@H]1CCN(c2ccnc(NCC(C)C)c2)C1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C)n1ncnc1-c1cn2c(n1)-c1cnc(N3CCCC3C(N)=O)cc1OCC2",
+      "selection_hash": "28760c40debab086439b91059f0a5ebc248ff72b781892df441bca1a36579350",
+      "rows": [
+        356
+      ],
+      "molecules": {
+        "CHEMBL3769603": "CC(C)n1ncnc1-c1cn2c(n1)-c1cnc(N3CCC[C@@H]3C(N)=O)cc1OCC2",
+        "CHEMBL3770709": "CC(C)n1ncnc1-c1cn2c(n1)-c1cnc(N3CCC[C@H]3C(N)=O)cc1OCC2"
+      }
+    },
+    {
+      "achiral_smiles": "N#Cc1cccc(CNC(=O)Nc2ccc(C3CNCCO3)cc2F)c1",
+      "selection_hash": "287bc9e0d799e1791ce8400e8634db490fbbac31839800ad7fd1998d7e8574c5",
+      "rows": [
+        3141
+      ],
+      "molecules": {
+        "CHEMBL3672959": "N#Cc1cccc(CNC(=O)Nc2ccc([C@@H]3CNCCO3)cc2F)c1",
+        "CHEMBL3672960": "N#Cc1cccc(CNC(=O)Nc2ccc([C@H]3CNCCO3)cc2F)c1"
+      }
+    },
+    {
+      "achiral_smiles": "N#Cc1cnc(C(=O)C2CCc3cc(OCc4ccccc4)ccc3C2)o1",
+      "selection_hash": "288a9c9aaa3870d13103453ead6e2915e6f13dbfb7a46cb212c5bfaf3acc3fa5",
+      "rows": [
+        3479
+      ],
+      "molecules": {
+        "CHEMBL1765854": "N#Cc1cnc(C(=O)[C@@H]2CCc3cc(OCc4ccccc4)ccc3C2)o1",
+        "CHEMBL1765836": "N#Cc1cnc(C(=O)[C@H]2CCc3cc(OCc4ccccc4)ccc3C2)o1"
+      }
+    },
+    {
+      "achiral_smiles": "CCC(c1ccccc1)c1c(OC)oc2ccccc2c1=O",
+      "selection_hash": "28e8b9dba8decd5c293b111705cd9eddb30103610c50d27ba93df2fe87dd96d2",
+      "rows": [
+        975
+      ],
+      "molecules": {
+        "CHEMBL2114281": "CC[C@H](c1ccccc1)c1c(OC)oc2ccccc2c1=O",
+        "CHEMBL2115265": "CC[C@@H](c1ccccc1)c1c(OC)oc2ccccc2c1=O"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(NC1CCN(Cc2ccccc2)C1)c1ccc(-c2ccsc2)cc1",
+      "selection_hash": "29e4c2600ed140ac5f9885440bead325af47da5c08ca1346b6da74b0006f986d",
+      "rows": [
+        3460
+      ],
+      "molecules": {
+        "CHEMBL366304": "O=C(N[C@@H]1CCN(Cc2ccccc2)C1)c1ccc(-c2ccsc2)cc1",
+        "CHEMBL364782": "O=C(N[C@H]1CCN(Cc2ccccc2)C1)c1ccc(-c2ccsc2)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CCC(COC)Nc1nc(C)nc2c1c(C)nn2-c1ccc(OC)cc1C",
+      "selection_hash": "2a3923ee0992498bbbad2313e688f5be0d5b51219530bc5701520935cfe3bdb9",
+      "rows": [
+        996
+      ],
+      "molecules": {
+        "CHEMBL577239": "CC[C@@H](COC)Nc1nc(C)nc2c1c(C)nn2-c1ccc(OC)cc1C",
+        "CHEMBL566912": "CC[C@H](COC)Nc1nc(C)nc2c1c(C)nn2-c1ccc(OC)cc1C"
+      }
+    },
+    {
+      "achiral_smiles": "CC(O)(CBr)C(=O)Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1",
+      "selection_hash": "2a562559c18f472241fc3065837bf55c1c42ca9b705133db180bd1f2271c2799",
+      "rows": [
+        2770
+      ],
+      "molecules": {
+        "CHEMBL178901": "C[C@@](O)(CBr)C(=O)Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1",
+        "CHEMBL360708": "C[C@](O)(CBr)C(=O)Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCC(=O)NCC(C)Oc1cccc(OC)c1",
+      "selection_hash": "2aab6c324bb0f77215b69c25210a5fcaa234b8431b8d4f27b6941287a6b9b335",
+      "rows": [
+        453
+      ],
+      "molecules": {
+        "CHEMBL1223194": "CCCC(=O)NC[C@@H](C)Oc1cccc(OC)c1",
+        "CHEMBL1223195": "CCCC(=O)NC[C@H](C)Oc1cccc(OC)c1"
+      }
+    },
+    {
+      "achiral_smiles": "OC(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1",
+      "selection_hash": "2acba282d0770ce712e19142ff337e991179461db9146db0d5ffa6230c59e969",
+      "rows": [
+        3710
+      ],
+      "molecules": {
+        "CHEMBL129237": "O[C@@H](CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1",
+        "CHEMBL129159": "O[C@H](CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CC1Cc2sc([N+](=O)[O-])cc2CN1",
+      "selection_hash": "2ae5327c890d8a2ef359c62c41e5dfce6f363eaffe62c7109d49f93e67cced1d",
+      "rows": [
+        2736
+      ],
+      "molecules": {
+        "CHEMBL252605": "C[C@@H]1Cc2sc([N+](=O)[O-])cc2CN1",
+        "CHEMBL400515": "C[C@H]1Cc2sc([N+](=O)[O-])cc2CN1"
+      }
+    },
+    {
+      "achiral_smiles": "COc1cccc(-c2c(C)n(Cc3c(F)cccc3F)c(=O)n(CC(C)N)c2=O)c1F",
+      "selection_hash": "2be8fd91377471d945587bd18d585bb70dd891b8851e80694eb85611195174f9",
+      "rows": [
+        1960
+      ],
+      "molecules": {
+        "CHEMBL119391": "COc1cccc(-c2c(C)n(Cc3c(F)cccc3F)c(=O)n(C[C@@H](C)N)c2=O)c1F",
+        "CHEMBL117637": "COc1cccc(-c2c(C)n(Cc3c(F)cccc3F)c(=O)n(C[C@H](C)N)c2=O)c1F"
+      }
+    },
+    {
+      "achiral_smiles": "C=CCN1CCc2cccc3c2C1Cc1cccc(O)c1-3",
+      "selection_hash": "2c173cf8dc6d129f42e8383bd7c7fcc7dd2f9396c71e2dbfa6b4be795e84ba20",
+      "rows": [
+        3812
+      ],
+      "molecules": {
+        "CHEMBL1744043": "C=CCN1CCc2cccc3c2[C@@H]1Cc1cccc(O)c1-3",
+        "CHEMBL1788212": "C=CCN1CCc2cccc3c2[C@H]1Cc1cccc(O)c1-3"
+      }
+    },
+    {
+      "achiral_smiles": "COCC1CN(n2cccc2)C(=O)O1",
+      "selection_hash": "2ca98f45680ba9e804749c54e4e6d06c664c2de7f3dd3a249c9aeb6a9dba3f3a",
+      "rows": [
+        1609
+      ],
+      "molecules": {
+        "CHEMBL18390": "COC[C@@H]1CN(n2cccc2)C(=O)O1",
+        "CHEMBL18334": "COC[C@H]1CN(n2cccc2)C(=O)O1"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1onc(-c2ccc(Cl)cc2)c1COc1ccc(C(=O)NC(C)CO)cn1",
+      "selection_hash": "2cc2009b50fd1bc221af66bdd2970b87fb25cba633664832d4d75855c0b35ef0",
+      "rows": [
+        2241
+      ],
+      "molecules": {
+        "CHEMBL3681554": "Cc1onc(-c2ccc(Cl)cc2)c1COc1ccc(C(=O)N[C@@H](C)CO)cn1",
+        "CHEMBL3681553": "Cc1onc(-c2ccc(Cl)cc2)c1COc1ccc(C(=O)N[C@H](C)CO)cn1"
+      }
+    },
+    {
+      "achiral_smiles": "CCC(Nc1ncnc2c1ncn2-c1ccccc1)c1ccccc1",
+      "selection_hash": "2d454b39dbbef8d52f75f689d0e7e68107ebc73492a40403541b8e72dfa11b48",
+      "rows": [
+        1024
+      ],
+      "molecules": {
+        "CHEMBL95936": "CC[C@@H](Nc1ncnc2c1ncn2-c1ccccc1)c1ccccc1",
+        "CHEMBL96014": "CC[C@H](Nc1ncnc2c1ncn2-c1ccccc1)c1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(Nc1ccc(C2CNCCO2)cc1)c1cc(-c2ccccc2Cl)n[nH]1",
+      "selection_hash": "2d540dbfa791f88a6b9aa4946612524f1df37220e841eb158d10b5528421e359",
+      "rows": [
+        3039
+      ],
+      "molecules": {
+        "CHEMBL3663691": "O=C(Nc1ccc([C@@H]2CNCCO2)cc1)c1cc(-c2ccccc2Cl)n[nH]1",
+        "CHEMBL3663688": "O=C(Nc1ccc([C@H]2CNCCO2)cc1)c1cc(-c2ccccc2Cl)n[nH]1"
+      }
+    },
+    {
+      "achiral_smiles": "NC(=O)C(Cc1ccccc1Cl)CN1CCC2(CC1)OCCc1cc(F)sc12",
+      "selection_hash": "2dab1f4f9bfdc19ce026cbc65a6603ba3dc8c957b60e3dafdb5accf8bda31c2f",
+      "rows": [
+        3235
+      ],
+      "molecules": {
+        "CHEMBL2204354": "NC(=O)[C@H](Cc1ccccc1Cl)CN1CCC2(CC1)OCCc1cc(F)sc12",
+        "CHEMBL2204353": "NC(=O)[C@@H](Cc1ccccc1Cl)CN1CCC2(CC1)OCCc1cc(F)sc12"
+      }
+    },
+    {
+      "achiral_smiles": "NC(Cn1ccc(=O)n(CCC(=O)O)c1=O)C(=O)O",
+      "selection_hash": "2e03a86a9dfe7bfb1e18d9b5512692b4e1cbbf8b4737c143b6b2ff523f5ccc5d",
+      "rows": [
+        3335
+      ],
+      "molecules": {
+        "CHEMBL200737": "N[C@@H](Cn1ccc(=O)n(CCC(=O)O)c1=O)C(=O)O",
+        "CHEMBL381221": "N[C@H](Cn1ccc(=O)n(CCC(=O)O)c1=O)C(=O)O"
+      }
+    },
+    {
+      "achiral_smiles": "CC1Cc2ccccc2N1C(=O)CN1CCN(Cc2ccc(Cl)cc2)CC1",
+      "selection_hash": "2e34b07e9e659fa70bfca040e497210b3453025b444f0a3933a7665cc631bfac",
+      "rows": [
+        2735
+      ],
+      "molecules": {
+        "CHEMBL108282": "C[C@@H]1Cc2ccccc2N1C(=O)CN1CCN(Cc2ccc(Cl)cc2)CC1",
+        "CHEMBL106119": "C[C@H]1Cc2ccccc2N1C(=O)CN1CCN(Cc2ccc(Cl)cc2)CC1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(O)(CSc1ccc(N=C=S)cc1)C(=O)Nc1ccc(C#N)c(C(F)(F)F)c1",
+      "selection_hash": "2e782c926f90e7bece2d760b7e7a5a797881ebeaa2354a00da2a43c6ac920a73",
+      "rows": [
+        2776
+      ],
+      "molecules": {
+        "CHEMBL178788": "C[C@@](O)(CSc1ccc(N=C=S)cc1)C(=O)Nc1ccc(C#N)c(C(F)(F)F)c1",
+        "CHEMBL1744065": "C[C@](O)(CSc1ccc(N=C=S)cc1)C(=O)Nc1ccc(C#N)c(C(F)(F)F)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CN1C(=O)NC(=O)C12Cc1ccc(NC(=O)Cn3c(=O)oc4ccccc43)cc1C2",
+      "selection_hash": "2f204dcac45bcf2e5e810283b028f92e64ef1f220f545a1576469b1289c99082",
+      "rows": [
+        1251
+      ],
+      "molecules": {
+        "CHEMBL222198": "CN1C(=O)NC(=O)[C@@]12Cc1ccc(NC(=O)Cn3c(=O)oc4ccccc43)cc1C2",
+        "CHEMBL219782": "CN1C(=O)NC(=O)[C@]12Cc1ccc(NC(=O)Cn3c(=O)oc4ccccc43)cc1C2"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C(=O)NCc1ccc(C(C)(C)C)cc1)c1ccc(NS(C)(=O)=O)c(F)c1",
+      "selection_hash": "2f6040251e55d5e9740839d5ca044bf532e28d2e4f469d8f9785d90abef8e738",
+      "rows": [
+        2156
+      ],
+      "molecules": {
+        "CHEMBL2042398": "C[C@@H](C(=O)NCc1ccc(C(C)(C)C)cc1)c1ccc(NS(C)(=O)=O)c(F)c1",
+        "CHEMBL2042399": "C[C@H](C(=O)NCc1ccc(C(C)(C)C)cc1)c1ccc(NS(C)(=O)=O)c(F)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CNC(=O)c1cnc(Nc2ccc(C3CNCCO3)cc2)nc1",
+      "selection_hash": "2fb28b7cf87993c8d4008153a962bbafdc72b78d5545ceb459abb3ae364526a8",
+      "rows": [
+        1422
+      ],
+      "molecules": {
+        "CHEMBL3641711": "CNC(=O)c1cnc(Nc2ccc([C@@H]3CNCCO3)cc2)nc1",
+        "CHEMBL3641710": "CNC(=O)c1cnc(Nc2ccc([C@H]3CNCCO3)cc2)nc1"
+      }
+    },
+    {
+      "achiral_smiles": "O=S(=O)(NC1CCN(CCOc2ccccc2-c2ccccc2)C1)c1ccc(F)cc1",
+      "selection_hash": "2fc880195326cb7aa65b7f477b236443047b784bc04033cbc24416e9f69b00da",
+      "rows": [
+        3166
+      ],
+      "molecules": {
+        "CHEMBL2159489": "O=S(=O)(N[C@@H]1CCN(CCOc2ccccc2-c2ccccc2)C1)c1ccc(F)cc1",
+        "CHEMBL2159492": "O=S(=O)(N[C@H]1CCN(CCOc2ccccc2-c2ccccc2)C1)c1ccc(F)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "Fc1cc(C2CNCCO2)ccc1Nc1ncc(C(F)(F)F)cn1",
+      "selection_hash": "3007108555240bb2ac81c4662d026cbf95cc704e7cab1cc24a3a3ff5f8d5c602",
+      "rows": [
+        3148
+      ],
+      "molecules": {
+        "CHEMBL3641764": "Fc1cc([C@@H]2CNCCO2)ccc1Nc1ncc(C(F)(F)F)cn1",
+        "CHEMBL3641765": "Fc1cc([C@H]2CNCCO2)ccc1Nc1ncc(C(F)(F)F)cn1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCC(Nc1nc2ccccc2cc1C)c1ccc(C(=O)NCCC(=O)O)cc1",
+      "selection_hash": "308305163df1b51b1eaa6e20b9647ef6327e9b8f98a0dd26c4cfbb3f8f5a1149",
+      "rows": [
+        717
+      ],
+      "molecules": {
+        "CHEMBL3681950": "CCC[C@@H](Nc1nc2ccccc2cc1C)c1ccc(C(=O)NCCC(=O)O)cc1",
+        "CHEMBL3681951": "CCC[C@H](Nc1nc2ccccc2cc1C)c1ccc(C(=O)NCCC(=O)O)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "NC(=O)C(Cc1ccccc1F)CN1CCC2(CC1)OCCc1cc(F)sc12",
+      "selection_hash": "30f06589413db3713f268fe7a021a75ba97f614916d818b1d6ec5ceccc34a69a",
+      "rows": [
+        3236
+      ],
+      "molecules": {
+        "CHEMBL2088032": "NC(=O)[C@H](Cc1ccccc1F)CN1CCC2(CC1)OCCc1cc(F)sc12",
+        "CHEMBL2086410": "NC(=O)[C@@H](Cc1ccccc1F)CN1CCC2(CC1)OCCc1cc(F)sc12"
+      }
+    },
+    {
+      "achiral_smiles": "CCCC(=O)NC1CCN(c2cccc3c2CCO3)C1",
+      "selection_hash": "30f333c555736cd0f2d1a1fd9aea670ff7f6c9d9df7f87f04d6c771f2119d119",
+      "rows": [
+        455
+      ],
+      "molecules": {
+        "CHEMBL341705": "CCCC(=O)N[C@@H]1CCN(c2cccc3c2CCO3)C1",
+        "CHEMBL136531": "CCCC(=O)N[C@H]1CCN(c2cccc3c2CCO3)C1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(N)Cn1ccc2c(Cl)c(F)ccc21",
+      "selection_hash": "30f4277064ed4f7bace97e9e74cbab743240f17eaf5386c11f072c4473eacd56",
+      "rows": [
+        2321
+      ],
+      "molecules": {
+        "CHEMBL2115254": "C[C@@H](N)Cn1ccc2c(Cl)c(F)ccc21",
+        "CHEMBL2114266": "C[C@H](N)Cn1ccc2c(Cl)c(F)ccc21"
+      }
+    },
+    {
+      "achiral_smiles": "CC(Oc1ccc2c(c1)OCCn1cc(-c3ncnn3C(C)C)nc1-2)C(N)=O",
+      "selection_hash": "31f96b17b814fb74e91491b95a2dae79a3e8b6839deab9626f1dc77f47fb785b",
+      "rows": [
+        355
+      ],
+      "molecules": {
+        "CHEMBL3771364": "CC(C)n1ncnc1-c1cn2c(n1)-c1ccc(O[C@@H](C)C(N)=O)cc1OCC2",
+        "CHEMBL3770644": "CC(C)n1ncnc1-c1cn2c(n1)-c1ccc(O[C@H](C)C(N)=O)cc1OCC2"
+      }
+    },
+    {
+      "achiral_smiles": "CNC1CCN(c2ccc(-n3ncc4cc(-c5ccc(Cl)cc5)ccc4c3=O)cn2)C1",
+      "selection_hash": "31fc30df2ef9516a4734336a59c3bc4db8fd9e2e2d6f66de5110b1aa18458631",
+      "rows": [
+        1468
+      ],
+      "molecules": {
+        "CHEMBL211223": "CN[C@@H]1CCN(c2ccc(-n3ncc4cc(-c5ccc(Cl)cc5)ccc4c3=O)cn2)C1",
+        "CHEMBL210191": "CN[C@H]1CCN(c2ccc(-n3ncc4cc(-c5ccc(Cl)cc5)ccc4c3=O)cn2)C1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C1CCCCC1)N(C)Cc1cc2ccccc2n1C",
+      "selection_hash": "3263d4aad424b4839ee78ba2e2b4322b6780569ccc4a3ed3a5572ed03a2b3902",
+      "rows": [
+        2183
+      ],
+      "molecules": {
+        "CHEMBL457422": "C[C@@H](C1CCCCC1)N(C)Cc1cc2ccccc2n1C",
+        "CHEMBL457212": "C[C@H](C1CCCCC1)N(C)Cc1cc2ccccc2n1C"
+      }
+    },
+    {
+      "achiral_smiles": "CC(NC(=O)OCCCc1c[nH]cn1)c1ccccc1",
+      "selection_hash": "327f47163670eb1e289c5a1a09b547685fff418641de0cf274a235a0d339a3c6",
+      "rows": [
+        2368
+      ],
+      "molecules": {
+        "CHEMBL16401": "C[C@@H](NC(=O)OCCCc1c[nH]cn1)c1ccccc1",
+        "CHEMBL280001": "C[C@H](NC(=O)OCCCc1c[nH]cn1)c1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1cc(N)nc(COCC(CN)OCc2cc(C)cc(N)n2)c1",
+      "selection_hash": "32aa9636bf4e6ba4c118974eaaac17b28615dcae9022b0cd9bf18de2387de489",
+      "rows": [
+        2848
+      ],
+      "molecules": {
+        "CHEMBL2430144": "Cc1cc(N)nc(COC[C@@H](CN)OCc2cc(C)cc(N)n2)c1",
+        "CHEMBL2430143": "Cc1cc(N)nc(COC[C@H](CN)OCc2cc(C)cc(N)n2)c1"
+      }
+    },
+    {
+      "achiral_smiles": "COc1ccc(S(=O)(=O)Nc2ccc3[nH]cc(CC4CCCN4C)c3c2)cc1",
+      "selection_hash": "331e8b41b5fc644d22a81cd33cb3a784fd720c753d7aeb93bc408c8fb737d069",
+      "rows": [
+        1877
+      ],
+      "molecules": {
+        "CHEMBL606766": "COc1ccc(S(=O)(=O)Nc2ccc3[nH]cc(C[C@@H]4CCCN4C)c3c2)cc1",
+        "CHEMBL606558": "COc1ccc(S(=O)(=O)Nc2ccc3[nH]cc(C[C@H]4CCCN4C)c3c2)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CC1CC(=O)N(CC#CCN2CCCC2)C1",
+      "selection_hash": "3334db153d4d172618f427e8e2f2e90e605f013b1990d2274ff239b07a888efd",
+      "rows": [
+        2629
+      ],
+      "molecules": {
+        "CHEMBL333107": "C[C@H]1CC(=O)N(CC#CCN2CCCC2)C1",
+        "CHEMBL331556": "C[C@@H]1CC(=O)N(CC#CCN2CCCC2)C1"
+      }
+    },
+    {
+      "achiral_smiles": "CCN1CCCC(Cn2c(C(C)C)nc3ccc(-c4ccc(F)cc4)cc3c2=O)C1",
+      "selection_hash": "3339e854db197782de0eb1a0c3a6a8ce0bd1c6d271dc1f7b6bc6e7dbae7635ed",
+      "rows": [
+        791
+      ],
+      "molecules": {
+        "CHEMBL241879": "CCN1CCC[C@@H](Cn2c(C(C)C)nc3ccc(-c4ccc(F)cc4)cc3c2=O)C1",
+        "CHEMBL241877": "CCN1CCC[C@H](Cn2c(C(C)C)nc3ccc(-c4ccc(F)cc4)cc3c2=O)C1"
+      }
+    },
+    {
+      "achiral_smiles": "N#Cc1ccc(OC(F)F)c(NC(=O)Nc2ccc(C3CNCCO3)cc2Cl)c1",
+      "selection_hash": "335459f961f010350cbaca6ee5f9e37a65eb51e47a959455f93e0771132170bc",
+      "rows": [
+        3109
+      ],
+      "molecules": {
+        "CHEMBL3672989": "N#Cc1ccc(OC(F)F)c(NC(=O)Nc2ccc([C@@H]3CNCCO3)cc2Cl)c1",
+        "CHEMBL3672990": "N#Cc1ccc(OC(F)F)c(NC(=O)Nc2ccc([C@H]3CNCCO3)cc2Cl)c1"
+      }
+    },
+    {
+      "achiral_smiles": "COc1c(C)c2c(c(O)c1CC=C(C)CCC(=O)NC(C(=O)O)C(C)C)C(=O)OC2",
+      "selection_hash": "3360940c58722edfa353beabfb173b2c1374f76ab96b39e2bf527c9e08f37e27",
+      "rows": [
+        1645
+      ],
+      "molecules": {
+        "CHEMBL2437272": "COc1c(C)c2c(c(O)c1C/C=C(\\C)CCC(=O)N[C@H](C(=O)O)C(C)C)C(=O)OC2",
+        "CHEMBL2437273": "COc1c(C)c2c(c(O)c1C/C=C(\\C)CCC(=O)N[C@@H](C(=O)O)C(C)C)C(=O)OC2"
+      }
+    },
+    {
+      "achiral_smiles": "CCN1CCN(c2cc(-c3ccc(F)cc3)c3c(n2)CCC(O)CCC3)CC1",
+      "selection_hash": "33686ec528a1dbdf15fc1349ec80099e21135d48cd7f4a1b3a63241b61bc6319",
+      "rows": [
+        812
+      ],
+      "molecules": {
+        "CHEMBL360457": "CCN1CCN(c2cc(-c3ccc(F)cc3)c3c(n2)CC[C@H](O)CCC3)CC1",
+        "CHEMBL179649": "CCN1CCN(c2cc(-c3ccc(F)cc3)c3c(n2)CC[C@@H](O)CCC3)CC1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(NCc1cccc(OC(F)F)c1)Nc1ccc(C2CNCCO2)cc1F",
+      "selection_hash": "338ed13e9c61862b2ffa2f150ebe04db44b54748ea59138f4d0b72851a09037c",
+      "rows": [
+        3112
+      ],
+      "molecules": {
+        "CHEMBL3673019": "O=C(NCc1cccc(OC(F)F)c1)Nc1ccc([C@@H]2CNCCO2)cc1F",
+        "CHEMBL3673020": "O=C(NCc1cccc(OC(F)F)c1)Nc1ccc([C@H]2CNCCO2)cc1F"
+      }
+    },
+    {
+      "achiral_smiles": "CCC(C)N(C)C(=O)c1nc(-c2ccccc2)c2ccccc2n1",
+      "selection_hash": "33a5b6eaff092a3d14e9f63ba30b9eb9d8461e1ccac31f8b3cc75faff1d1d2ef",
+      "rows": [
+        945
+      ],
+      "molecules": {
+        "CHEMBL2059060": "CC[C@@H](C)N(C)C(=O)c1nc(-c2ccccc2)c2ccccc2n1",
+        "CHEMBL2059059": "CC[C@H](C)N(C)C(=O)c1nc(-c2ccccc2)c2ccccc2n1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(O)CNS(=O)(=O)c1ccccc1-c1ccc(-c2cnc(N)nc2)nc1",
+      "selection_hash": "33b3a312c3876b5bb56a3a857e532f2000c2df5d7d14e85334065b894510a52b",
+      "rows": [
+        2501
+      ],
+      "molecules": {
+        "CHEMBL3697356": "C[C@@H](O)CNS(=O)(=O)c1ccccc1-c1ccc(-c2cnc(N)nc2)nc1",
+        "CHEMBL3697355": "C[C@H](O)CNS(=O)(=O)c1ccccc1-c1ccc(-c2cnc(N)nc2)nc1"
+      }
+    },
+    {
+      "achiral_smiles": "CN(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)NCCCN1CCOCC1",
+      "selection_hash": "33e58331b7e4ad1f3b5dfc84a6d48da8d1efd2242362920f49d1cde00c7be9e3",
+      "rows": [
+        1209
+      ],
+      "molecules": {
+        "CHEMBL181998": "CN(Cc1ccccc1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCN1CCOCC1",
+        "CHEMBL359885": "CN(Cc1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCCN1CCOCC1"
+      }
+    },
+    {
+      "achiral_smiles": "Fc1cc(Nc2ncc(C(F)(F)F)cn2)ccc1C1CNCCO1",
+      "selection_hash": "34790eb96e153b51d308dc46fb04c7bc779e9ddb57185053692cd2b9e4f06bfc",
+      "rows": [
+        3135
+      ],
+      "molecules": {
+        "CHEMBL3641746": "Fc1cc(Nc2ncc(C(F)(F)F)cn2)ccc1[C@@H]1CNCCO1",
+        "CHEMBL3641747": "Fc1cc(Nc2ncc(C(F)(F)F)cn2)ccc1[C@H]1CNCCO1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C)C1c2cc3cc(CO)c(S(C)(=O)=O)cc3n2CCN1c1nccc(C(F)(F)F)n1",
+      "selection_hash": "34e775ae1492ec890b125b6fab14775fde6d1580bcdb06d66530c1aecc6df753",
+      "rows": [
+        305
+      ],
+      "molecules": {
+        "CHEMBL3672849": "CC(C)[C@H]1c2cc3cc(CO)c(S(C)(=O)=O)cc3n2CCN1c1nccc(C(F)(F)F)n1",
+        "CHEMBL3672848": "CC(C)[C@@H]1c2cc3cc(CO)c(S(C)(=O)=O)cc3n2CCN1c1nccc(C(F)(F)F)n1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCCCCCC(=O)OCC1(CO)CC(=CCC(C(C)C)C(C)C)C(=O)O1",
+      "selection_hash": "35189e8f8cdc6c6a01ddf0e2381bce4654e6f9be9dbd460ebd74cca1b4cc4b16",
+      "rows": [
+        469
+      ],
+      "molecules": {
+        "CHEMBL3085533": "CCCCCCCC(=O)OC[C@]1(CO)C/C(=C\\CC(C(C)C)C(C)C)C(=O)O1",
+        "CHEMBL3085534": "CCCCCCCC(=O)OC[C@]1(CO)C/C(=C/CC(C(C)C)C(C)C)C(=O)O1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCCCCC(C)NC(=O)OCCCc1c[nH]cn1",
+      "selection_hash": "3612531e6ad6c49caa5d83012a22a4596cbe56ad10d5830eab6ad5d45a4144da",
+      "rows": [
+        532
+      ],
+      "molecules": {
+        "CHEMBL1079749": "CCCCCC[C@@H](C)NC(=O)OCCCc1c[nH]cn1",
+        "CHEMBL1081912": "CCCCCC[C@H](C)NC(=O)OCCCc1c[nH]cn1"
+      }
+    },
+    {
+      "achiral_smiles": "COCC1CCCN1c1cc(NC(C)=O)nc(-c2ccc(C)o2)n1",
+      "selection_hash": "365988a417180e109bc0151dd9e2c7fc0c66d70f44ff2b281e0cb4be2e16a1c9",
+      "rows": [
+        1606
+      ],
+      "molecules": {
+        "CHEMBL521081": "COC[C@@H]1CCCN1c1cc(NC(C)=O)nc(-c2ccc(C)o2)n1",
+        "CHEMBL508786": "COC[C@H]1CCCN1c1cc(NC(C)=O)nc(-c2ccc(C)o2)n1"
+      }
+    },
+    {
+      "achiral_smiles": "CCc1nc(N)nc(N)c1C#CC(C)c1cc(OC)cc(-c2ccc(C(=O)O)cc2)c1",
+      "selection_hash": "3762a3e1b7f9888e3de09ee61a309f0dac0dac822108a37e7e9a91e5a1678f7f",
+      "rows": [
+        1098
+      ],
+      "molecules": {
+        "CHEMBL3828581": "CCc1nc(N)nc(N)c1C#C[C@@H](C)c1cc(OC)cc(-c2ccc(C(=O)O)cc2)c1",
+        "CHEMBL3828485": "CCc1nc(N)nc(N)c1C#C[C@H](C)c1cc(OC)cc(-c2ccc(C(=O)O)cc2)c1"
+      }
+    },
+    {
+      "achiral_smiles": "NC(=O)C(Cc1c[nH]c2ccccc12)NCc1ccc2ccccc2c1",
+      "selection_hash": "37f86ead8c1e67531bf3e1b7314c5c3c3e0ca7fa850cc976423be9ec89c6d1ed",
+      "rows": [
+        3238
+      ],
+      "molecules": {
+        "CHEMBL9138": "NC(=O)[C@@H](Cc1c[nH]c2ccccc12)NCc1ccc2ccccc2c1",
+        "CHEMBL9274": "NC(=O)[C@H](Cc1c[nH]c2ccccc12)NCc1ccc2ccccc2c1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCN(C1CCCC1)C1COc2cccc(C(=O)NC)c2C1",
+      "selection_hash": "380d8878e97da0d5ef592a592f27c2cd261989f049a2f4b30e0d3011036cd5d1",
+      "rows": [
+        599
+      ],
+      "molecules": {
+        "CHEMBL3085225": "CCCN(C1CCCC1)[C@@H]1COc2cccc(C(=O)NC)c2C1",
+        "CHEMBL3084315": "CCCN(C1CCCC1)[C@H]1COc2cccc(C(=O)NC)c2C1"
+      }
+    },
+    {
+      "achiral_smiles": "N#Cc1cnc(C(=O)C2CCc3cc(-c4ccccc4)ccc3C2)o1",
+      "selection_hash": "3888e187166c619d902f2f5e4a237c0dd1801ebf18123d5a70d92e8eff29d951",
+      "rows": [
+        3485
+      ],
+      "molecules": {
+        "CHEMBL1765842": "N#Cc1cnc(C(=O)[C@@H]2CCc3cc(-c4ccccc4)ccc3C2)o1",
+        "CHEMBL1765824": "N#Cc1cnc(C(=O)[C@H]2CCc3cc(-c4ccccc4)ccc3C2)o1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C)C(=O)NC1CCCOc2c1nn(-c1ccccc1Cl)c2-c1ccc(Cl)cc1",
+      "selection_hash": "38f006b00689a1a60bb8e87b5b34cdbc32c93b8f033b66849934d1b252444808",
+      "rows": [
+        166
+      ],
+      "molecules": {
+        "CHEMBL2063237": "CC(C)C(=O)N[C@@H]1CCCOc2c1nn(-c1ccccc1Cl)c2-c1ccc(Cl)cc1",
+        "CHEMBL2063238": "CC(C)C(=O)N[C@H]1CCCOc2c1nn(-c1ccccc1Cl)c2-c1ccc(Cl)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "O=S(=O)(Nc1ccc2[nH]cc(CC3CCCN3)c2c1)c1cccc(Cl)c1",
+      "selection_hash": "3968b1acb14d4844840255af9ad869d97ab1c658abc09c7e1f4053612e6e9b10",
+      "rows": [
+        3026
+      ],
+      "molecules": {
+        "CHEMBL606868": "O=S(=O)(Nc1ccc2[nH]cc(C[C@@H]3CCCN3)c2c1)c1cccc(Cl)c1",
+        "CHEMBL606639": "O=S(=O)(Nc1ccc2[nH]cc(C[C@H]3CCCN3)c2c1)c1cccc(Cl)c1"
+      }
+    },
+    {
+      "achiral_smiles": "Cn1nc(-c2ccccc2)cc1C(=O)Nc1ccc(C2CNCCO2)cc1",
+      "selection_hash": "3a46c688c97d46b3c013355dacf1bba77dc3a5a112af4b1c366dd6a1a65b9b77",
+      "rows": [
+        3061
+      ],
+      "molecules": {
+        "CHEMBL3663697": "Cn1nc(-c2ccccc2)cc1C(=O)Nc1ccc([C@@H]2CNCCO2)cc1",
+        "CHEMBL3663683": "Cn1nc(-c2ccccc2)cc1C(=O)Nc1ccc([C@H]2CNCCO2)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(Cc1ccccc1)C1=NCCN1",
+      "selection_hash": "3b326ebe2cf747d7c933313ba018e3b6860ab3c3f4977a5953cf9229ee79e81a",
+      "rows": [
+        2282
+      ],
+      "molecules": {
+        "CHEMBL2092861": "C[C@@H](Cc1ccccc1)C1=NCCN1",
+        "CHEMBL1907832": "C[C@H](Cc1ccccc1)C1=NCCN1"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1c(C2CCNCC2)ccnc1OC(C)c1cccc(Cl)c1",
+      "selection_hash": "3b4c8612e9d7d5e7b111d6f0b9bde7f4a6ecbff1fa0657e2319d817fbccee0cd",
+      "rows": [
+        2549
+      ],
+      "molecules": {
+        "CHEMBL485016": "Cc1c(C2CCNCC2)ccnc1O[C@H](C)c1cccc(Cl)c1",
+        "CHEMBL484337": "Cc1c(C2CCNCC2)ccnc1O[C@@H](C)c1cccc(Cl)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CC1CCCN1Cc1ccc(-c2ccc(CN3CCCCC3)cc2)cc1",
+      "selection_hash": "3b6cdefd00f75ed764fa8b029e1c3dc6ca59634bba7ac7b1ca62dbc5591f9834",
+      "rows": [
+        2616
+      ],
+      "molecules": {
+        "CHEMBL1934048": "C[C@@H]1CCCN1Cc1ccc(-c2ccc(CN3CCCCC3)cc2)cc1",
+        "CHEMBL1934049": "C[C@H]1CCCN1Cc1ccc(-c2ccc(CN3CCCCC3)cc2)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCCCC=CCC=CCC=CC=CC(O)CCCC(=O)NCCO",
+      "selection_hash": "3bb59dffd8d548512d34a64d26c3a15f17e5ca6cbcf48fdfd30db658daf209b6",
+      "rows": [
+        561
+      ],
+      "molecules": {
+        "CHEMBL121779": "CCCCC/C=C\\C/C=C\\C/C=C\\C=C\\[C@@H](O)CCCC(=O)NCCO",
+        "CHEMBL121804": "CCCCC/C=C\\C/C=C\\C/C=C\\C=C\\[C@H](O)CCCC(=O)NCCO"
+      }
+    },
+    {
+      "achiral_smiles": "Cn1nc(-c2ccc(OCCCN3CCCC3CO)cc2)ccc1=O",
+      "selection_hash": "3c2dda4134ab8f2193c7e67d850412d6f7bb5ca26968e6aedcee52533312e832",
+      "rows": [
+        1388
+      ],
+      "molecules": {
+        "CHEMBL1813064": "Cn1nc(-c2ccc(OCCCN3CCC[C@@H]3CO)cc2)ccc1=O",
+        "CHEMBL1813063": "Cn1nc(-c2ccc(OCCCN3CCC[C@H]3CO)cc2)ccc1=O"
+      }
+    },
+    {
+      "achiral_smiles": "N#Cc1cccc(-c2cc(C(=O)Nc3ccc(C4CCCNC4)cc3)[nH]n2)c1",
+      "selection_hash": "3cb14a737f1822b4c343fc5e9e3a8c94747014aabab10d7fd7900e91cf4425b2",
+      "rows": [
+        3471
+      ],
+      "molecules": {
+        "CHEMBL3663714": "N#Cc1cccc(-c2cc(C(=O)Nc3ccc([C@@H]4CCCNC4)cc3)[nH]n2)c1",
+        "CHEMBL3663715": "N#Cc1cccc(-c2cc(C(=O)Nc3ccc([C@H]4CCCNC4)cc3)[nH]n2)c1"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1nc(N)ccc1CNC(=O)Cn1c(C)cnc(NC(C)Cc2ccccc2)c1=O",
+      "selection_hash": "3cf8791a8498d0cf243496f122fe12806036fdfc8f362dc8a56fa27a3866daf5",
+      "rows": [
+        2284
+      ],
+      "molecules": {
+        "CHEMBL139178": "Cc1nc(N)ccc1CNC(=O)Cn1c(C)cnc(N[C@@H](C)Cc2ccccc2)c1=O",
+        "CHEMBL336438": "Cc1nc(N)ccc1CNC(=O)Cn1c(C)cnc(N[C@H](C)Cc2ccccc2)c1=O"
+      }
+    },
+    {
+      "achiral_smiles": "COc1c(C(=O)NCC2CCCN2C2CCC2)cc(Br)c2ccccc12",
+      "selection_hash": "3d3bed52e24417a947a989562db9e4d5dd3cea40d6b04d260c65eb195c2ec61d",
+      "rows": [
+        1650
+      ],
+      "molecules": {
+        "CHEMBL298759": "COc1c(C(=O)NC[C@@H]2CCCN2C2CCC2)cc(Br)c2ccccc12",
+        "CHEMBL50517": "COc1c(C(=O)NC[C@H]2CCCN2C2CCC2)cc(Br)c2ccccc12"
+      }
+    },
+    {
+      "achiral_smiles": "CCCC(=O)NCC(C)Sc1cccc(OC)c1",
+      "selection_hash": "3de6e1c5173cb5e2439594e1a9e41ce94d0ebb91dbcca8bac9ec66684cf062b0",
+      "rows": [
+        454
+      ],
+      "molecules": {
+        "CHEMBL1223197": "CCCC(=O)NC[C@@H](C)Sc1cccc(OC)c1",
+        "CHEMBL1223198": "CCCC(=O)NC[C@H](C)Sc1cccc(OC)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCCCCCCCN1CCCC1CNC(=O)c1cc(Cl)cc2c1OCCN2C",
+      "selection_hash": "3dfacbe498ebb28bc89c9a37c4b9c5d5b6f4ddad99806b95a57c65b4036eccdb",
+      "rows": [
+        488
+      ],
+      "molecules": {
+        "CHEMBL22777": "CCCCCCCCCN1CCC[C@@H]1CNC(=O)c1cc(Cl)cc2c1OCCN2C",
+        "CHEMBL284027": "CCCCCCCCCN1CCC[C@H]1CNC(=O)c1cc(Cl)cc2c1OCCN2C"
+      }
+    },
+    {
+      "achiral_smiles": "Nc1cnc(-c2ccc(-c3ccccc3S(=O)(=O)N3CCC(CO)C3)cc2F)cn1",
+      "selection_hash": "3e939ffc2aca2854aee5e559409465da17a78f94ab825abff6d99eb4d40d5417",
+      "rows": [
+        3393
+      ],
+      "molecules": {
+        "CHEMBL3700901": "Nc1cnc(-c2ccc(-c3ccccc3S(=O)(=O)N3CC[C@@H](CO)C3)cc2F)cn1",
+        "CHEMBL3688493": "Nc1cnc(-c2ccc(-c3ccccc3S(=O)(=O)N3CC[C@H](CO)C3)cc2F)cn1"
+      }
+    },
+    {
+      "achiral_smiles": "CCc1[nH]c2ccc(OC)cc2c1CC1CCCN1C",
+      "selection_hash": "3ea9105058f2b37229537123b0b87826a48026576b7b349d1373d3e238984e48",
+      "rows": [
+        1076
+      ],
+      "molecules": {
+        "CHEMBL404421": "CCc1[nH]c2ccc(OC)cc2c1C[C@@H]1CCCN1C",
+        "CHEMBL428238": "CCc1[nH]c2ccc(OC)cc2c1C[C@H]1CCCN1C"
+      }
+    },
+    {
+      "achiral_smiles": "CC(Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2)o1)C(=O)O",
+      "selection_hash": "3f1214a185d451196d421505c177d2caf9d3cabc8b97942c21c23817887ba179",
+      "rows": [
+        2290
+      ],
+      "molecules": {
+        "CHEMBL3642908": "C[C@@H](Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2)o1)C(=O)O",
+        "CHEMBL3642907": "C[C@H](Cc1ccc(C(=O)Oc2ccc(C(=N)N)cc2)o1)C(=O)O"
+      }
+    },
+    {
+      "achiral_smiles": "COCC1CCCN1CCc1c(-c2ccccc2)[nH]c2ccccc12",
+      "selection_hash": "3fab5e9a9fa3d6ce76871a260c1f66bd0853f4c97e6c10b83eebfc034426a1e7",
+      "rows": [
+        1600
+      ],
+      "molecules": {
+        "CHEMBL91446": "COC[C@@H]1CCCN1CCc1c(-c2ccccc2)[nH]c2ccccc12",
+        "CHEMBL91122": "COC[C@H]1CCCN1CCc1c(-c2ccccc2)[nH]c2ccccc12"
+      }
+    },
+    {
+      "achiral_smiles": "CC(NC(=O)n1cnc2c(-c3ccco3)nc(N)nc21)c1ccccc1",
+      "selection_hash": "41067e9c479f055c0ec204f4dc19cd0366fa66a897586cbc2de564676f641fe8",
+      "rows": [
+        2416
+      ],
+      "molecules": {
+        "CHEMBL410679": "C[C@@H](NC(=O)n1cnc2c(-c3ccco3)nc(N)nc21)c1ccccc1",
+        "CHEMBL409682": "C[C@H](NC(=O)n1cnc2c(-c3ccco3)nc(N)nc21)c1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "Nc1ncc(-c2ccc(-c3ccccc3C(=O)N3CCC(O)C3)cc2F)cn1",
+      "selection_hash": "4112517268dcc39a6e36732a4002d22cfdc6f15fe40790941df55573504ba7e7",
+      "rows": [
+        3407
+      ],
+      "molecules": {
+        "CHEMBL3700809": "Nc1ncc(-c2ccc(-c3ccccc3C(=O)N3CC[C@@H](O)C3)cc2F)cn1",
+        "CHEMBL3700811": "Nc1ncc(-c2ccc(-c3ccccc3C(=O)N3CC[C@H](O)C3)cc2F)cn1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(Nc1nccc(Nc2cc(C3CC3)[nH]n2)n1)c1ccc2[nH]ccc2c1",
+      "selection_hash": "4175cf97f39d0fb0fc9c384115ec984fb866a5628ffb47a0d431a27fb8bc751d",
+      "rows": [
+        2467
+      ],
+      "molecules": {
+        "CHEMBL3580977": "C[C@@H](Nc1nccc(Nc2cc(C3CC3)[nH]n2)n1)c1ccc2[nH]ccc2c1",
+        "CHEMBL3580968": "C[C@H](Nc1nccc(Nc2cc(C3CC3)[nH]n2)n1)c1ccc2[nH]ccc2c1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(O)C(S)c1ccccc1",
+      "selection_hash": "4192a632bffaac77fb29ced6a5aa0f43eff0821b0d6687f5de312aefbfe93c63",
+      "rows": [
+        3597
+      ],
+      "molecules": {
+        "CHEMBL3808751": "O=C(O)[C@@H](S)c1ccccc1",
+        "CHEMBL3809419": "O=C(O)[C@H](S)c1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(CN1CCN(c2cc(F)c(F)cc2F)CC1)N1C(=O)CC2(CCCC2)CC1=O",
+      "selection_hash": "426f041723f9d6781016f1ebedc9463e21b1006872e911576c2fbc0ea5f57c9b",
+      "rows": [
+        2230
+      ],
+      "molecules": {
+        "CHEMBL274864": "C[C@@H](CN1CCN(c2cc(F)c(F)cc2F)CC1)N1C(=O)CC2(CCCC2)CC1=O",
+        "CHEMBL98241": "C[C@H](CN1CCN(c2cc(F)c(F)cc2F)CC1)N1C(=O)CC2(CCCC2)CC1=O"
+      }
+    },
+    {
+      "achiral_smiles": "Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1",
+      "selection_hash": "426f3c0e172604f631dac9f322da2731e9996e44c8ee7164f00e9f5c40270ad4",
+      "rows": [
+        2993
+      ],
+      "molecules": {
+        "CHEMBL368348": "Clc1ccc(CO[C@@H](Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1",
+        "CHEMBL173038": "Clc1ccc(CO[C@H](Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1ccc(C2=NN=C(NC(=O)C(C)NS(=O)(=O)c3ccccc3)SC2)cc1",
+      "selection_hash": "42bfc5ca3dd910c872c9783148015113bb87490213e4154cef469fe56256eb4c",
+      "rows": [
+        2435
+      ],
+      "molecules": {
+        "CHEMBL109214": "Cc1ccc(C2=NN=C(NC(=O)[C@@H](C)NS(=O)(=O)c3ccccc3)SC2)cc1",
+        "CHEMBL109655": "Cc1ccc(C2=NN=C(NC(=O)[C@H](C)NS(=O)(=O)c3ccccc3)SC2)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CCC(O)c1cc(C)c(-c2ccc3cc(NC(=O)C4CC4)ncc3c2)cn1",
+      "selection_hash": "42cc4a1810751955259949aa0bed9f34288bbf8d6cdf6656551c6d3581e438ff",
+      "rows": [
+        1026
+      ],
+      "molecules": {
+        "CHEMBL3689563": "CC[C@@H](O)c1cc(C)c(-c2ccc3cc(NC(=O)C4CC4)ncc3c2)cn1",
+        "CHEMBL3689564": "CC[C@H](O)c1cc(C)c(-c2ccc3cc(NC(=O)C4CC4)ncc3c2)cn1"
+      }
+    },
+    {
+      "achiral_smiles": "CC1COCCN1C(=O)c1ccc(Cl)cc1NS(=O)(=O)c1cccc2nccnc12",
+      "selection_hash": "42cf478731650a4fb01e3d98f906b2a7e0f7d602506dc6981ca3b098e25a07bd",
+      "rows": [
+        2705
+      ],
+      "molecules": {
+        "CHEMBL385285": "C[C@@H]1COCCN1C(=O)c1ccc(Cl)cc1NS(=O)(=O)c1cccc2nccnc12",
+        "CHEMBL386209": "C[C@H]1COCCN1C(=O)c1ccc(Cl)cc1NS(=O)(=O)c1cccc2nccnc12"
+      }
+    },
+    {
+      "achiral_smiles": "N#Cc1cnc(C(=O)C2CCc3cc(Oc4ccccc4)ccc3C2)o1",
+      "selection_hash": "4470d668b0eeaff936e0c86c5ee100a6e6365c03538015d0463135578bbce53e",
+      "rows": [
+        3482
+      ],
+      "molecules": {
+        "CHEMBL1765848": "N#Cc1cnc(C(=O)[C@@H]2CCc3cc(Oc4ccccc4)ccc3C2)o1",
+        "CHEMBL1765830": "N#Cc1cnc(C(=O)[C@H]2CCc3cc(Oc4ccccc4)ccc3C2)o1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(CC(Cc1ccccc1)C(=O)O)C[N+](=O)[O-]",
+      "selection_hash": "4498f0af2682ca7a5ec17dc3a899d8f86347179a8e0fb0d63d07320c8a22753c",
+      "rows": [
+        3572
+      ],
+      "molecules": {
+        "CHEMBL571509": "O=C(C[C@@H](Cc1ccccc1)C(=O)O)C[N+](=O)[O-]",
+        "CHEMBL578360": "O=C(C[C@H](Cc1ccccc1)C(=O)O)C[N+](=O)[O-]"
+      }
+    },
+    {
+      "achiral_smiles": "CC1CCCN1C(=O)c1ccc(-c2ccc3c(c2)CCN(CCN2CCCC2)C3=O)cc1",
+      "selection_hash": "44d008f9cbd9b62daf25f2d81604730b3e517f33b597482ca8a3eafbbfa2b0cd",
+      "rows": [
+        2595
+      ],
+      "molecules": {
+        "CHEMBL2031876": "C[C@@H]1CCCN1C(=O)c1ccc(-c2ccc3c(c2)CCN(CCN2CCCC2)C3=O)cc1",
+        "CHEMBL2031877": "C[C@H]1CCCN1C(=O)c1ccc(-c2ccc3c(c2)CCN(CCN2CCCC2)C3=O)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CN1CCOc2c(C(=O)NCC3CCCN3CCc3ccccc3)cc(Cl)cc21",
+      "selection_hash": "4546557a683dc405496a02e828141e843e38c42deb96463bdbb9eee68ae9d5ce",
+      "rows": [
+        1353
+      ],
+      "molecules": {
+        "CHEMBL281363": "CN1CCOc2c(C(=O)NC[C@@H]3CCCN3CCc3ccccc3)cc(Cl)cc21",
+        "CHEMBL279937": "CN1CCOc2c(C(=O)NC[C@H]3CCCN3CCc3ccccc3)cc(Cl)cc21"
+      }
+    },
+    {
+      "achiral_smiles": "CCCN(CCC)C1CCn2c(C=O)ccc2C1",
+      "selection_hash": "45492b2c9d5385351fa63dcc88d111e838809b53978ba0238dcf3c22d1102605",
+      "rows": [
+        628
+      ],
+      "molecules": {
+        "CHEMBL97436": "CCCN(CCC)[C@@H]1CCn2c(C=O)ccc2C1",
+        "CHEMBL316983": "CCCN(CCC)[C@H]1CCn2c(C=O)ccc2C1"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1cc(C2CNCCO2)ccc1Nc1ncc(C2CC2)cn1",
+      "selection_hash": "459acada67e8e9ca530492d79986e8e03f38c73fa727793c27e8969995167f61",
+      "rows": [
+        2859
+      ],
+      "molecules": {
+        "CHEMBL3702008": "Cc1cc([C@@H]2CNCCO2)ccc1Nc1ncc(C2CC2)cn1",
+        "CHEMBL3702009": "Cc1cc([C@H]2CNCCO2)ccc1Nc1ncc(C2CC2)cn1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCN(CCC)C1CCc2cccc(C#N)c2C1",
+      "selection_hash": "45c85ee07d78400ea34a501da37d2d7360c6cd1b6c3d03c56107f5d23e28f2b0",
+      "rows": [
+        617
+      ],
+      "molecules": {
+        "CHEMBL134574": "CCCN(CCC)[C@@H]1CCc2cccc(C#N)c2C1",
+        "CHEMBL134551": "CCCN(CCC)[C@H]1CCc2cccc(C#N)c2C1"
+      }
+    },
+    {
+      "achiral_smiles": "COc1c(C(=O)NC2CCN(C3CCCCCC3)C2)cc(Br)c2ccccc12",
+      "selection_hash": "45f19f8948d294d58243b3f782be2dc4d9c9701e1febba9a88bf7b6cc11c4dfb",
+      "rows": [
+        1655
+      ],
+      "molecules": {
+        "CHEMBL53320": "COc1c(C(=O)N[C@@H]2CCN(C3CCCCCC3)C2)cc(Br)c2ccccc12",
+        "CHEMBL54667": "COc1c(C(=O)N[C@H]2CCN(C3CCCCCC3)C2)cc(Br)c2ccccc12"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(O)C(CS)NCCc1ccccc1",
+      "selection_hash": "45f596acca39609d3ffa8db991bb2f5f238f57172c846e5fc0d36b43a631c99c",
+      "rows": [
+        3573
+      ],
+      "molecules": {
+        "CHEMBL171617": "O=C(O)[C@@H](CS)NCCc1ccccc1",
+        "CHEMBL173767": "O=C(O)[C@H](CS)NCCc1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "CC1CCN(CC#CCN2CCCC2)C1=O",
+      "selection_hash": "4625e259180e39b02f65b71c67bee77cf354a55e8f449ba496933a205e5f7c30",
+      "rows": [
+        2624
+      ],
+      "molecules": {
+        "CHEMBL118292": "C[C@@H]1CCN(CC#CCN2CCCC2)C1=O",
+        "CHEMBL118700": "C[C@H]1CCN(CC#CCN2CCCC2)C1=O"
+      }
+    },
+    {
+      "achiral_smiles": "OCC1Cc2ccc(Br)cc2CN1",
+      "selection_hash": "4698ad6145f812ae454e5614b6bc7aea0807a6a25aa8013e1421843135ca3638",
+      "rows": [
+        3690
+      ],
+      "molecules": {
+        "CHEMBL342625": "OC[C@@H]1Cc2ccc(Br)cc2CN1",
+        "CHEMBL337144": "OC[C@H]1Cc2ccc(Br)cc2CN1"
+      }
+    },
+    {
+      "achiral_smiles": "CNC(=O)c1cccc2c1CC(NCCCCN1C(=O)CC3(CCCC3)CC1=O)CO2",
+      "selection_hash": "46f28f07719c10ff88b1dd77248ed3995cf63d5e9b231a2a001aa3236076ab6c",
+      "rows": [
+        1420
+      ],
+      "molecules": {
+        "CHEMBL2111580": "CNC(=O)c1cccc2c1C[C@@H](NCCCCN1C(=O)CC3(CCCC3)CC1=O)CO2",
+        "CHEMBL2112382": "CNC(=O)c1cccc2c1C[C@H](NCCCCN1C(=O)CC3(CCCC3)CC1=O)CO2"
+      }
+    },
+    {
+      "achiral_smiles": "CN1CCCC1CC#CCN1CCCC1=O",
+      "selection_hash": "47102da771d34e657d63c6b1c8fb2f4ddb10eb46c5e5fc9eae2c31298f7bdbe4",
+      "rows": [
+        1312
+      ],
+      "molecules": {
+        "CHEMBL2115362": "CN1CCC[C@@H]1CC#CCN1CCCC1=O",
+        "CHEMBL2114430": "CN1CCC[C@H]1CC#CCN1CCCC1=O"
+      }
+    },
+    {
+      "achiral_smiles": "CCCCCC=CCC=CCC=CCC=CCCCC(=O)OCC(O)CO",
+      "selection_hash": "47bc6d6ce408b98e71e8da77d31c89e23ee92cef816d64ac4d6a2549bb081ec5",
+      "rows": [
+        564
+      ],
+      "molecules": {
+        "CHEMBL124426": "CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)OC[C@@H](O)CO",
+        "CHEMBL262560": "CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCC(=O)OC[C@H](O)CO"
+      }
+    },
+    {
+      "achiral_smiles": "COC(=O)c1c(F)cccc1-c1ccc(CNC(=O)C(C)(O)C(F)(F)F)c(F)c1",
+      "selection_hash": "47d1ebc4455c427ca6c4d610460a527cfd7869cd74b4acc6b6d00b74f321d3f7",
+      "rows": [
+        1550
+      ],
+      "molecules": {
+        "CHEMBL402114": "COC(=O)c1c(F)cccc1-c1ccc(CNC(=O)[C@@](C)(O)C(F)(F)F)c(F)c1",
+        "CHEMBL404246": "COC(=O)c1c(F)cccc1-c1ccc(CNC(=O)[C@](C)(O)C(F)(F)F)c(F)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(NC(=O)CNC(=O)Nc1ccc(C(=N)N)cc1)c1ccc2ccccc2c1",
+      "selection_hash": "484c7f80ecfe8faa59ad8b52fcea2bff2cf76c2dc6e44464dcea0c899ae6314f",
+      "rows": [
+        2346
+      ],
+      "molecules": {
+        "CHEMBL122148": "C[C@@H](NC(=O)CNC(=O)Nc1ccc(C(=N)N)cc1)c1ccc2ccccc2c1",
+        "CHEMBL126012": "C[C@H](NC(=O)CNC(=O)Nc1ccc(C(=N)N)cc1)c1ccc2ccccc2c1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C1CCCCC1)N(C)C(=O)c1cc2ccccc2n1C",
+      "selection_hash": "48799a425ea29f28b7de4c4dca9261497b4a729a80670b807b693feecdfcca42",
+      "rows": [
+        2180
+      ],
+      "molecules": {
+        "CHEMBL457235": "C[C@@H](C1CCCCC1)N(C)C(=O)c1cc2ccccc2n1C",
+        "CHEMBL512732": "C[C@H](C1CCCCC1)N(C)C(=O)c1cc2ccccc2n1C"
+      }
+    },
+    {
+      "achiral_smiles": "OCCC1CN(CC2CCCCC2)CCN1Cc1ccccc1",
+      "selection_hash": "4918e09098dae067b9c9b33a5165de10d20b76fa9cdb1b36cbd0b20083183d33",
+      "rows": [
+        3645
+      ],
+      "molecules": {
+        "CHEMBL3233529": "OCC[C@@H]1CN(CC2CCCCC2)CCN1Cc1ccccc1",
+        "CHEMBL3233528": "OCC[C@H]1CN(CC2CCCCC2)CCN1Cc1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "c1cc2c(cc1OC1CCOC1)CCC1(CCN(C3CCC3)CC1)O2",
+      "selection_hash": "491f5d9ca7012c26603fbde7dff965203d77702f6a45165e464e796acd16a079",
+      "rows": [
+        36
+      ],
+      "molecules": {
+        "CHEMBL1935417": "c1cc2c(cc1O[C@@H]1CCOC1)CCC1(CCN(C3CCC3)CC1)O2",
+        "CHEMBL1935418": "c1cc2c(cc1O[C@H]1CCOC1)CCC1(CCN(C3CCC3)CC1)O2"
+      }
+    },
+    {
+      "achiral_smiles": "CN1CCCC1COc1cccc(F)c1",
+      "selection_hash": "49a5af887af5753f61edb59414494ae4dc53eeff34b47b1517ae7c279271b076",
+      "rows": [
+        1318
+      ],
+      "molecules": {
+        "CHEMBL72197": "CN1CCC[C@@H]1COc1cccc(F)c1",
+        "CHEMBL74249": "CN1CCC[C@H]1COc1cccc(F)c1"
+      }
+    },
+    {
+      "achiral_smiles": "N#Cc1ccc(-c2ccc(OCCCN3CCC(O)C3)cc2)cc1",
+      "selection_hash": "49d35d73f4e39186dea04f8746e0997a368a0d785f443735b65fb46179da4658",
+      "rows": [
+        3757
+      ],
+      "molecules": {
+        "CHEMBL104669": "N#Cc1ccc(-c2ccc(OCCCN3CC[C@@H](O)C3)cc2)cc1",
+        "CHEMBL318801": "N#Cc1ccc(-c2ccc(OCCCN3CC[C@H](O)C3)cc2)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C)CC(N)P(=O)(O)O",
+      "selection_hash": "4a13aebd3132e4292beb863db16a5dabc6a2dffc6d063ef99647305c42fec547",
+      "rows": [
+        195
+      ],
+      "molecules": {
+        "CHEMBL288165": "CC(C)C[C@@H](N)P(=O)(O)O",
+        "CHEMBL40422": "CC(C)C[C@H](N)P(=O)(O)O"
+      }
+    },
+    {
+      "achiral_smiles": "CNC1CCN(c2cnnc(NC3CCCC3)c2)C1",
+      "selection_hash": "4c90a9438f6833e31b9d8c21f8d24ca58d56ffa804db65163a395a4dc83e422e",
+      "rows": [
+        1479
+      ],
+      "molecules": {
+        "CHEMBL3393553": "CN[C@@H]1CCN(c2cnnc(NC3CCCC3)c2)C1",
+        "CHEMBL3393554": "CN[C@H]1CCN(c2cnnc(NC3CCCC3)c2)C1"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1ccc2c(N3CCN(CCc4ccc5c(c4)NC(=O)CO5)C(C)C3)cccc2n1",
+      "selection_hash": "4c91027ac2d02bc013079cf1618f5668253a19f1b54dcdb238218cd13ff5f050",
+      "rows": [
+        2658
+      ],
+      "molecules": {
+        "CHEMBL521873": "Cc1ccc2c(N3CCN(CCc4ccc5c(c4)NC(=O)CO5)[C@H](C)C3)cccc2n1",
+        "CHEMBL495703": "Cc1ccc2c(N3CCN(CCc4ccc5c(c4)NC(=O)CO5)[C@@H](C)C3)cccc2n1"
+      }
+    },
+    {
+      "achiral_smiles": "COc1cc(NC(=O)C2CCC2)c(Cl)cc1C(=O)NC1CCN(Cc2ccccc2)C1",
+      "selection_hash": "4d9943e1d3a33e26657bd15b954405047c4be085667bf57c8cdde6cc244e14e5",
+      "rows": [
+        1687
+      ],
+      "molecules": {
+        "CHEMBL316317": "COc1cc(NC(=O)C2CCC2)c(Cl)cc1C(=O)N[C@@H]1CCN(Cc2ccccc2)C1",
+        "CHEMBL315446": "COc1cc(NC(=O)C2CCC2)c(Cl)cc1C(=O)N[C@H]1CCN(Cc2ccccc2)C1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(NCCCCN1CCN2c3ccccc3CCC2C1)c1ccc2ccccc2c1",
+      "selection_hash": "4da5b82536b576cf2cbda78d1da16d7d2dc0f7c22fb165d62012ca78a80c8ce8",
+      "rows": [
+        3439
+      ],
+      "molecules": {
+        "CHEMBL427173": "O=C(NCCCCN1CCN2c3ccccc3CC[C@H]2C1)c1ccc2ccccc2c1",
+        "CHEMBL191815": "O=C(NCCCCN1CCN2c3ccccc3CC[C@@H]2C1)c1ccc2ccccc2c1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(Nc1ccc(C2CNCCO2)cc1Cl)c1ccn(-c2ccc(F)cc2)n1",
+      "selection_hash": "4dd8a7e9b841e07e7151124534551db37af325256aebf29e64506a3835a64653",
+      "rows": [
+        3176
+      ],
+      "molecules": {
+        "CHEMBL3672973": "O=C(Nc1ccc([C@@H]2CNCCO2)cc1Cl)c1ccn(-c2ccc(F)cc2)n1",
+        "CHEMBL3672972": "O=C(Nc1ccc([C@H]2CNCCO2)cc1Cl)c1ccn(-c2ccc(F)cc2)n1"
+      }
+    },
+    {
+      "achiral_smiles": "CS(=O)(=O)c1cc(F)cc2c1c(C(=O)c1ccc(Cl)cc1)c1n2CCCC1CC(=O)O",
+      "selection_hash": "4e13c45dcd771727822ce3c9b24aa689a66c0123d3bb774ecd9919f313946c03",
+      "rows": [
+        2125
+      ],
+      "molecules": {
+        "CHEMBL412070": "CS(=O)(=O)c1cc(F)cc2c1c(C(=O)c1ccc(Cl)cc1)c1n2CCC[C@@H]1CC(=O)O",
+        "CHEMBL411255": "CS(=O)(=O)c1cc(F)cc2c1c(C(=O)c1ccc(Cl)cc1)c1n2CCC[C@H]1CC(=O)O"
+      }
+    },
+    {
+      "achiral_smiles": "CCN1CCCC1CNC(=O)c1c(OC)ccc(I)c1O",
+      "selection_hash": "4e3d47046ccbaff8965c2271525582a32d174fa0821d1bfe52926f00597861d0",
+      "rows": [
+        797
+      ],
+      "molecules": {
+        "CHEMBL8674": "CCN1CCC[C@@H]1CNC(=O)c1c(OC)ccc(I)c1O",
+        "CHEMBL267723": "CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(I)c1O"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C1CCCCC1)N1CCCn2c1nc1c2c(=O)n(C)c(=O)n1C",
+      "selection_hash": "4e6191f91ec3b7eafa8d0e70dcf27a740075fd38e842843506373853c2b846bf",
+      "rows": [
+        2186
+      ],
+      "molecules": {
+        "CHEMBL2153615": "C[C@@H](C1CCCCC1)N1CCCn2c1nc1c2c(=O)n(C)c(=O)n1C",
+        "CHEMBL2153616": "C[C@H](C1CCCCC1)N1CCCn2c1nc1c2c(=O)n(C)c(=O)n1C"
+      }
+    },
+    {
+      "achiral_smiles": "Fc1cc(C2CNCCO2)ccc1Nc1ncc(OCC(F)(F)F)cn1",
+      "selection_hash": "4e8b638710a4af2742cca8e7cf76e435bde84c29804472d2c8d91d14fb4feb17",
+      "rows": [
+        3147
+      ],
+      "molecules": {
+        "CHEMBL3641698": "Fc1cc([C@@H]2CNCCO2)ccc1Nc1ncc(OCC(F)(F)F)cn1",
+        "CHEMBL3641763": "Fc1cc([C@H]2CNCCO2)ccc1Nc1ncc(OCC(F)(F)F)cn1"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1cc(N)nc(CCc2cccc(C(N)Cc3cc(C)cc(N)n3)c2)c1",
+      "selection_hash": "4ec8bfd2957e04e12d458f73a24404b211ada4a4d481480adef187edfec04d4a",
+      "rows": [
+        2845
+      ],
+      "molecules": {
+        "CHEMBL3262017": "Cc1cc(N)nc(CCc2cccc([C@@H](N)Cc3cc(C)cc(N)n3)c2)c1",
+        "CHEMBL3262018": "Cc1cc(N)nc(CCc2cccc([C@H](N)Cc3cc(C)cc(N)n3)c2)c1"
+      }
+    },
+    {
+      "achiral_smiles": "CC1Oc2c(cccc2N2CCN(CCCc3c[nH]c4c(F)cccc34)CC2)NC1=O",
+      "selection_hash": "501e106744103aa5d3c7a26ada8c6cd2220dd26129fe04d64e3540560bed41be",
+      "rows": [
+        2761
+      ],
+      "molecules": {
+        "CHEMBL198357": "C[C@@H]1Oc2c(cccc2N2CCN(CCCc3c[nH]c4c(F)cccc34)CC2)NC1=O",
+        "CHEMBL196172": "C[C@H]1Oc2c(cccc2N2CCN(CCCc3c[nH]c4c(F)cccc34)CC2)NC1=O"
+      }
+    },
+    {
+      "achiral_smiles": "CC(Nc1ncnc(N)c1C#N)c1nc2ccccn2c(=O)c1-c1ccccc1",
+      "selection_hash": "506bd8368043e65eb852bc49278a25a02b49e628d8397e9c19dbda5d335c499d",
+      "rows": [
+        2471
+      ],
+      "molecules": {
+        "CHEMBL3680910": "C[C@@H](Nc1ncnc(N)c1C#N)c1nc2ccccn2c(=O)c1-c1ccccc1",
+        "CHEMBL3680915": "C[C@H](Nc1ncnc(N)c1C#N)c1nc2ccccn2c(=O)c1-c1ccccc1"
+      }
+    },
+    {
+      "achiral_smiles": "COCC1CCCN1CCCOc1ccc(C(=O)CN2CCOCC2)cc1",
+      "selection_hash": "50e8f29f0ada75c5b4f9c756265e7f22e8fc11cce6eb346db756f7f54537a559",
+      "rows": [
+        1598
+      ],
+      "molecules": {
+        "CHEMBL1951058": "COC[C@@H]1CCCN1CCCOc1ccc(C(=O)CN2CCOCC2)cc1",
+        "CHEMBL1951059": "COC[C@H]1CCCN1CCCOc1ccc(C(=O)CN2CCOCC2)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "Nc1ncc(-c2cc(N3CCC(F)C3)nc(N3CCC3)n2)cc1OC(F)F",
+      "selection_hash": "512bf341bb23f4bffacac795ef5387750104496501a118472c1a0e35e4338b5b",
+      "rows": [
+        3405
+      ],
+      "molecules": {
+        "CHEMBL3727470": "Nc1ncc(-c2cc(N3CC[C@@H](F)C3)nc(N3CCC3)n2)cc1OC(F)F",
+        "CHEMBL3729006": "Nc1ncc(-c2cc(N3CC[C@H](F)C3)nc(N3CCC3)n2)cc1OC(F)F"
+      }
+    },
+    {
+      "achiral_smiles": "CCOc1ccc(C(=O)Nc2ccc(C3CNCCO3)c(Cl)c2)cn1",
+      "selection_hash": "515ff99bda01d35cb802662018d6ce2d2e7b78ed3d3127bd446e8383417c18d7",
+      "rows": [
+        923
+      ],
+      "molecules": {
+        "CHEMBL3673034": "CCOc1ccc(C(=O)Nc2ccc([C@@H]3CNCCO3)c(Cl)c2)cn1",
+        "CHEMBL3673037": "CCOc1ccc(C(=O)Nc2ccc([C@H]3CNCCO3)c(Cl)c2)cn1"
+      }
+    },
+    {
+      "achiral_smiles": "Oc1nc2c3c(ccc2[nH]1)CCC(CNCc1ccccc1)O3",
+      "selection_hash": "51d81bd550fe571a13a6bee5aaf979621eb4409ba1371d63f40f331c5c88385f",
+      "rows": [
+        3816
+      ],
+      "molecules": {
+        "CHEMBL420986": "Oc1nc2c3c(ccc2[nH]1)CC[C@H](CNCc1ccccc1)O3",
+        "CHEMBL93753": "Oc1nc2c3c(ccc2[nH]1)CC[C@@H](CNCc1ccccc1)O3"
+      }
+    },
+    {
+      "achiral_smiles": "O=C1NCC(COCc2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2ccc(F)cc2)N1",
+      "selection_hash": "51f05e1e8a28f87eaa4c9624af7c9ab9e0a5bc44db540fc953471a06316c0a71",
+      "rows": [
+        3171
+      ],
+      "molecules": {
+        "CHEMBL204918": "O=C1NC[C@](COCc2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2ccc(F)cc2)N1",
+        "CHEMBL381151": "O=C1NC[C@@](COCc2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2ccc(F)cc2)N1"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1ccc(C(C)n2c3ccccc3c3c(N)nc(-c4ccccc4)nc32)cc1",
+      "selection_hash": "51fd42c32eb185e09d2636f1f9f2138339fd18ed39f5f4f8a0c8ce6f043a9e11",
+      "rows": [
+        2561
+      ],
+      "molecules": {
+        "CHEMBL84996": "Cc1ccc([C@H](C)n2c3ccccc3c3c(N)nc(-c4ccccc4)nc32)cc1",
+        "CHEMBL310728": "Cc1ccc([C@@H](C)n2c3ccccc3c3c(N)nc(-c4ccccc4)nc32)cc1"
+      }
+    },
+    {
+      "achiral_smiles": "CC(C)C(=O)NC1CCN(c2cccc3c2CCO3)C1",
+      "selection_hash": "5231556f7a534fc418144cf8c380aa3daf5a9c274ae8cfa0ffe5e4132817334c",
+      "rows": [
+        167
+      ],
+      "molecules": {
+        "CHEMBL336024": "CC(C)C(=O)N[C@@H]1CCN(c2cccc3c2CCO3)C1",
+        "CHEMBL138744": "CC(C)C(=O)N[C@H]1CCN(c2cccc3c2CCO3)C1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCCn1c(=NC(=O)c2cc(C(F)(F)F)ccc2OCC(C)O)sc2ccncc21",
+      "selection_hash": "5302ff414d02094a3fbcdcb8d7497c55304a2ef68c479d885bed023a452eb611",
+      "rows": [
+        576
+      ],
+      "molecules": {
+        "CHEMBL3647327": "CCCCn1/c(=N/C(=O)c2cc(C(F)(F)F)ccc2OC[C@@H](C)O)sc2ccncc21",
+        "CHEMBL3647328": "CCCCn1/c(=N/C(=O)c2cc(C(F)(F)F)ccc2OC[C@H](C)O)sc2ccncc21"
+      }
+    },
+    {
+      "achiral_smiles": "N=C(N)NCCCC(NCc1c[nH]c2ccccc12)C(N)=O",
+      "selection_hash": "532ba4606fede25aa3034bdeeaf4b942fa1fa3ec7a59e740abd9e538b6f3e3ae",
+      "rows": [
+        3213
+      ],
+      "molecules": {
+        "CHEMBL8730": "N=C(N)NCCC[C@@H](NCc1c[nH]c2ccccc12)C(N)=O",
+        "CHEMBL273475": "N=C(N)NCCC[C@H](NCc1c[nH]c2ccccc12)C(N)=O"
+      }
+    },
+    {
+      "achiral_smiles": "Clc1ccc(Nc2ccc(C3CNCCO3)cc2)nc1",
+      "selection_hash": "53aacf08b05bb31819d954189dccfdc6afaeb9036c6e78154cc02e369bc363fb",
+      "rows": [
+        2999
+      ],
+      "molecules": {
+        "CHEMBL3701968": "Clc1ccc(Nc2ccc([C@@H]3CNCCO3)cc2)nc1",
+        "CHEMBL3701937": "Clc1ccc(Nc2ccc([C@H]3CNCCO3)cc2)nc1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(O)CN1C(=O)C2(CC(=O)N(Cc3cccc(Cl)c3)C2=O)c2cc(Cl)ccc21",
+      "selection_hash": "53f0abbe7a61ad4b041c8c1ffcff5f3aea1e03ddd4c435121d13aa46f548ffe8",
+      "rows": [
+        3560
+      ],
+      "molecules": {
+        "CHEMBL411315": "O=C(O)CN1C(=O)[C@@]2(CC(=O)N(Cc3cccc(Cl)c3)C2=O)c2cc(Cl)ccc21",
+        "CHEMBL259519": "O=C(O)CN1C(=O)[C@]2(CC(=O)N(Cc3cccc(Cl)c3)C2=O)c2cc(Cl)ccc21"
+      }
+    },
+    {
+      "achiral_smiles": "CNC(=O)C(Cc1ccccc1)CN(O)C=O",
+      "selection_hash": "546ccb3f396225dd4f249a5bf925ab74d2f96566d83f43ec97e08f6d35a62b29",
+      "rows": [
+        1405
+      ],
+      "molecules": {
+        "CHEMBL119673": "CNC(=O)[C@H](Cc1ccccc1)CN(O)C=O",
+        "CHEMBL118422": "CNC(=O)[C@@H](Cc1ccccc1)CN(O)C=O"
+      }
+    },
+    {
+      "achiral_smiles": "CN1CCCCC1CC#CCN1CCCC1=O",
+      "selection_hash": "54cbcfdded4e07d7f13f21a9f1c704cbc52e592a48fb0d5116336af69b976789",
+      "rows": [
+        1301
+      ],
+      "molecules": {
+        "CHEMBL2115361": "CN1CCCC[C@@H]1CC#CCN1CCCC1=O",
+        "CHEMBL2114427": "CN1CCCC[C@H]1CC#CCN1CCCC1=O"
+      }
+    },
+    {
+      "achiral_smiles": "CC(CCNCCCC(N)=O)CC1(c2ccc(Cl)c(Cl)c2)CCC1",
+      "selection_hash": "5516fda277c5e2dfbc27ba9f670bff7795da6d40d7347833db05df0b7ee94448",
+      "rows": [
+        2206
+      ],
+      "molecules": {
+        "CHEMBL3704754": "C[C@@H](CCNCCCC(N)=O)CC1(c2ccc(Cl)c(Cl)c2)CCC1",
+        "CHEMBL3704755": "C[C@H](CCNCCCC(N)=O)CC1(c2ccc(Cl)c(Cl)c2)CCC1"
+      }
+    },
+    {
+      "achiral_smiles": "Cc1cc(C(C)O)ncc1-c1ccc2cc(NC(=O)C3CC3)ncc2c1",
+      "selection_hash": "556350b4ee18426571899cfa84da121e912bdabceb743a56ed6a3edd3fc38335",
+      "rows": [
+        2515
+      ],
+      "molecules": {
+        "CHEMBL3689567": "Cc1cc([C@@H](C)O)ncc1-c1ccc2cc(NC(=O)C3CC3)ncc2c1",
+        "CHEMBL3689568": "Cc1cc([C@H](C)O)ncc1-c1ccc2cc(NC(=O)C3CC3)ncc2c1"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(c1ncc(I)o1)C1CCc2cc(OCc3ccccc3)ccc2C1",
+      "selection_hash": "56cdcce52d130303ec2a4bdda3c8499e623f8e0316ca31a9d57ad7a601c24571",
+      "rows": [
+        3204
+      ],
+      "molecules": {
+        "CHEMBL1765860": "O=C(c1ncc(I)o1)[C@@H]1CCc2cc(OCc3ccccc3)ccc2C1",
+        "CHEMBL1765859": "O=C(c1ncc(I)o1)[C@H]1CCc2cc(OCc3ccccc3)ccc2C1"
+      }
+    },
+    {
+      "achiral_smiles": "C#CC1=CCC(N(CCC)CCCCNC(=O)c2cc3ccccn3n2)CC1",
+      "selection_hash": "57f6dfe95c4407ff6dc8af471f5eb6d920e0a6d39667797f90c00f5a03cebbff",
+      "rows": [
+        640
+      ],
+      "molecules": {
+        "CHEMBL2397390": "C#CC1=CC[C@H](N(CCC)CCCCNC(=O)c2cc3ccccn3n2)CC1",
+        "CHEMBL2397391": "C#CC1=CC[C@@H](N(CCC)CCCCNC(=O)c2cc3ccccn3n2)CC1"
+      }
+    },
+    {
+      "achiral_smiles": "CCCCCCCCC(O)Cn1cc2c(N)ncnc2n1",
+      "selection_hash": "580e29c04a02ffa42a0eb2142dd6b76914a99a8b542c01329d8f45af4376e567",
+      "rows": [
+        493
+      ],
+      "molecules": {
+        "CHEMBL1651379": "CCCCCCCC[C@@H](O)Cn1cc2c(N)ncnc2n1",
+        "CHEMBL1169542": "CCCCCCCC[C@H](O)Cn1cc2c(N)ncnc2n1"
+      }
+    },
+    {
+      "achiral_smiles": "CCOCCn1c(C2CCCN(C)C2)nc2ccccc21",
+      "selection_hash": "587a363650cf1d151a6f7127e92a0d24dbd7bd11864613cc8bf42002110648f0",
+      "rows": [
+        868
+      ],
+      "molecules": {
+        "CHEMBL1095198": "CCOCCn1c([C@@H]2CCCN(C)C2)nc2ccccc21",
+        "CHEMBL1095199": "CCOCCn1c([C@H]2CCCN(C)C2)nc2ccccc21"
+      }
+    },
+    {
+      "achiral_smiles": "CCCCCCN1CCCC1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC",
+      "selection_hash": "58cb0689af31fd38c2b325469485d12cdc6e105364fe1bcb71d9475d5726ac7c",
+      "rows": [
+        528
+      ],
+      "molecules": {
+        "CHEMBL2114240": "CCCCCCN1CCC[C@@H]1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC",
+        "CHEMBL2115233": "CCCCCCN1CCC[C@H]1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC"
+      }
+    },
+    {
+      "achiral_smiles": "O=C(Nc1ccc(C2CNCCO2)cc1)c1ccn(-c2ccc(C(F)(F)F)cn2)n1",
+      "selection_hash": "58e620e4d023ed0e9d86fa4b11a4e19a096d8e70ca090e4a631575df675fc7fa",
+      "rows": [
+        3096
+      ],
+      "molecules": {
+        "CHEMBL3663713": "O=C(Nc1ccc([C@@H]2CNCCO2)cc1)c1ccn(-c2ccc(C(F)(F)F)cn2)n1",
+        "CHEMBL3663711": "O=C(Nc1ccc([C@H]2CNCCO2)cc1)c1ccn(-c2ccc(C(F)(F)F)cn2)n1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documents": [
+    {
+      "abstract": "Investigation of a series 6-[2-(4-aryl-1-piperazinyl)ethyl]-2H-1,4-benzoxazin-3(4H)-ones has led to the discovery of potent 5-HT(1A/1B/1D) receptor antagonists with and without additional SerT affinity. Modulation of the different target activities gave compounds with a range of profiles suitable for further in vivo characterization.",
+      "authors": "Bromidge SM, Bertani B, Borriello M, Faedo S, Gordon LJ, Granci E, Hill M, Marshall HR, Stasi LP, Zucchelli V, Merlo G, Vesentini A, Watson JM, Zonzini L.",
+      "chembl_release": {
+        "chembl_release": "CHEMBL_2",
+        "creation_date": "2009-11-30"
+      },
+      "contact": null,
+      "doc_type": "PUBLICATION",
+      "document_chembl_id": "CHEMBL1152215",
+      "doi": "10.1016/j.bmcl.2008.08.084",
+      "doi_chembl": null,
+      "first_page": "5653",
+      "issue": "20",
+      "journal": "Bioorg Med Chem Lett",
+      "journal_full_title": "Bioorganic & medicinal chemistry letters.",
+      "last_page": "5656",
+      "patent_id": null,
+      "pubmed_id": 18799312,
+      "src_id": 1,
+      "title": "6-[2-(4-Aryl-1-piperazinyl)ethyl]-2H-1,4-benzoxazin-3(4H)-ones: dual-acting 5-HT1 receptor antagonists and serotonin reuptake inhibitors.",
+      "volume": "18",
+      "year": 2008
+    },
+    {
+      "abstract": "An analysis of the virtual combinatorial library was used for refining a pilot set of 34 derivatives and designing a targeted 38-member library of the arylamide and arylsulfonamide derivatives of aryloxyethyl- and arylthioethyl- piperidines and pyrrolidines. All compounds 24-95 were synthesized according to an elaborated parallel solid-phase method and were biologically evaluated for their affinity for 5-HT(7)R. Additionally, the targeted library members were tested for 5-HT(1A), 5-HT(6), and D(2) receptors. Selected compounds of particular interest were examined for their intrinsic activity at 5-HT(7)R in vitro employing a cAMP assay. The study allowed us to identify compound 68 (4-fluoro-N-(1-{2-[(propan-2-yl)phenoxy]ethyl}piperidin-4-yl) benzenesulfonamide) as a potent 5-HT(7)R ligand (K(i) = 0.3 nM) with strong antagonistic properties (K(b) = 1 nM) and a 1450-fold selectivity over 5-HT(1A)Rs.",
+      "authors": "Zajdel P, Kurczab R, Grychowska K, Sata\u0142a G, Paw\u0142owski M, Bojarski AJ.",
+      "chembl_release": {
+        "chembl_release": "CHEMBL_16",
+        "creation_date": "2013-05-07"
+      },
+      "contact": null,
+      "doc_type": "PUBLICATION",
+      "document_chembl_id": "CHEMBL2157986",
+      "doi": "10.1016/j.ejmech.2012.07.043",
+      "doi_chembl": null,
+      "first_page": "348",
+      "issue": null,
+      "journal": "Eur J Med Chem",
+      "journal_full_title": "European journal of medicinal chemistry.",
+      "last_page": "360",
+      "patent_id": null,
+      "pubmed_id": 22926225,
+      "src_id": 1,
+      "title": "The multiobjective based design, synthesis and evaluation of the arylsulfonamide/amide derivatives of aryloxyethyl- and arylthioethyl- piperidines and pyrrolidines as a novel class of potent 5-HT\u2087 receptor antagonists.",
+      "volume": "56",
+      "year": 2012
+    }
+  ],
+  "page_meta": {
+    "limit": 10,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 2
+  }
+}

@@ -1,0 +1,4042 @@
+[
+  {
+    "file": "CHEMBL10188_molecules_0.json",
+    "sha256": "db7a15ce0ea6f3301e1f7caf1f1e6c91f14fc82d794e53f19beb053eb1bd423e"
+  },
+  {
+    "file": "CHEMBL1027_molecules_0.json",
+    "sha256": "9c81f0f4e7cee2278724388424c142f7414c103222f682c5879c5a73a90b4224"
+  },
+  {
+    "file": "CHEMBL1040_molecules_0.json",
+    "sha256": "ee735dacb8001593f7c52c093aebe8c2e0bd94aadd672fd335e41e5701a4c0d9"
+  },
+  {
+    "file": "CHEMBL1042_molecules_0.json",
+    "sha256": "c09b2f0977a77826773c86daddbf202bccfc1b471ef814380db6eedc5c3f1c32"
+  },
+  {
+    "file": "CHEMBL1050_molecules_0.json",
+    "sha256": "5ed0bb120236f1159aa71f1af50ce26993d81afb6fb710014a37f730d3174897"
+  },
+  {
+    "file": "CHEMBL1059_molecules_0.json",
+    "sha256": "43d8a39c9a5e5b428e1198cf4ce37fa3039c382b6c787623c1574e78ebe157e7"
+  },
+  {
+    "file": "CHEMBL1079593_molecules_0.json",
+    "sha256": "2428edfd262c7a62938e5d5da07e5da4c37366c4459fa1c9c7f4383c0d0fd02c"
+  },
+  {
+    "file": "CHEMBL1080884_molecules_0.json",
+    "sha256": "61cb972f2f63e9597ff02701347ca86d3dba8005843a20582a62950c40d0c723"
+  },
+  {
+    "file": "CHEMBL1083659_molecules_0.json",
+    "sha256": "6b2acc9c7de9cf720bd324e0388329b44d9917678d4831fa980b2aebc93e7504"
+  },
+  {
+    "file": "CHEMBL1091644_molecules_0.json",
+    "sha256": "aa1e4edbd18d10f89923ba3f9f31de081e67d7cc3ed2e54852cdc55c63d21829"
+  },
+  {
+    "file": "CHEMBL1094785_molecules_0.json",
+    "sha256": "49e18b9beed2891b7646f2edf4efd0012d5b4a3bfbc634942f442b63288e35f0"
+  },
+  {
+    "file": "CHEMBL1095032_molecules_0.json",
+    "sha256": "6946416116ce8f0fd9e526e9e798a7f5440668a8f75bad62df7ef3ee89c30f97"
+  },
+  {
+    "file": "CHEMBL1095777_molecules_0.json",
+    "sha256": "b416e213d318ab84a66946fa8f5735ac6b6df22e0eb51548a6c3a0248d3246d8"
+  },
+  {
+    "file": "CHEMBL1096927_molecules_0.json",
+    "sha256": "bf5857b06952e11cb6cb6d60d3bd9ab4c2dc883eb0cb87b842c0802e8dffa77a"
+  },
+  {
+    "file": "CHEMBL109831_molecules_0.json",
+    "sha256": "bd01f9ebe7f68b1115d2c3738eb53a1253af205c40a19a64b6014ef0b80ec9cd"
+  },
+  {
+    "file": "CHEMBL114325_molecules_0.json",
+    "sha256": "ba3b7583d516457565495a8aa354abce7c48b170b64f19468c71696b8e26bd6c"
+  },
+  {
+    "file": "CHEMBL1144_molecules_0.json",
+    "sha256": "3d3606f9c44c86510a03f37f8d6d8338154d62c07c61eb42995abec4abe982dd"
+  },
+  {
+    "file": "CHEMBL1171272_molecules_0.json",
+    "sha256": "2b5284242b68d06cc6a1851c8f780e63b6a77bc8a753a5bcdbe4f30381a988c4"
+  },
+  {
+    "file": "CHEMBL1192519_molecules_0.json",
+    "sha256": "863b4bf1f53f9cf2100a5bd386ae85ed2ae933459b185580161ef55c1bf715dc"
+  },
+  {
+    "file": "CHEMBL1198855_molecules_0.json",
+    "sha256": "0e9767d3ed5746690cee94198529f549bacd49178af6e83259aa868e68927611"
+  },
+  {
+    "file": "CHEMBL1200592_molecules_0.json",
+    "sha256": "cbc7347a78a5959b2a0aef3cf921ac57e75cdf1a96be8a443dc111b22681bd90"
+  },
+  {
+    "file": "CHEMBL1200661_molecules_0.json",
+    "sha256": "cc3ef7458baab52d9d4e0f56f98c24de849415c8c5475948dbcf4805b055be86"
+  },
+  {
+    "file": "CHEMBL1200666_molecules_0.json",
+    "sha256": "607ddf633748a1a89c606f0c5a1dd13d0a462e0dbbdf75fda66aa46d29152f74"
+  },
+  {
+    "file": "CHEMBL1200848_molecules_0.json",
+    "sha256": "22d34461f56b8e0304c39957e698ff758c261299a4946b881298ee5f225a7548"
+  },
+  {
+    "file": "CHEMBL1200963_molecules_0.json",
+    "sha256": "411e42025f97814eea5e279b9b0b0c267ff8b24d6eee02b1e9c71d400b3d50f8"
+  },
+  {
+    "file": "CHEMBL1201192_molecules_0.json",
+    "sha256": "f817110aeab207790130c8a679c5e2b71384bb09e6d690bfda03c6fe4a3e74d9"
+  },
+  {
+    "file": "CHEMBL1201195_molecules_0.json",
+    "sha256": "808c2e945444e2dfc9022fd121251be5c962406a4327960b5fc0698567d37968"
+  },
+  {
+    "file": "CHEMBL1201222_molecules_0.json",
+    "sha256": "10eb5a9e125cf880070e42d4f4ee27b6bdffeb12320ab7400c7a07d4ea940513"
+  },
+  {
+    "file": "CHEMBL1201274_molecules_0.json",
+    "sha256": "84b076a8bac3f85060f4c968b50cc6cd8dd8243a8917f3b9b3be57d958e878cb"
+  },
+  {
+    "file": "CHEMBL1201281_molecules_0.json",
+    "sha256": "5143526f338b6cbd28bf4dc0e8bde8cda26456eb5d1d1f2fe6c640add3be37cc"
+  },
+  {
+    "file": "CHEMBL1201302_molecules_0.json",
+    "sha256": "1adc04f57c4fc3a546ed5de1cd2996a8dc3fc1fbb6d20fa3c9e81ef29f28e486"
+  },
+  {
+    "file": "CHEMBL1201365_molecules_0.json",
+    "sha256": "8fca5288cd33327bffd9eb9d89a119de2e4f5375bc22f14ade4e3ab518a3f996"
+  },
+  {
+    "file": "CHEMBL1201369_molecules_0.json",
+    "sha256": "739a939365b1eb0c9dc44e50b2de08ff112a57f5ae080d7251d8a970e617c264"
+  },
+  {
+    "file": "CHEMBL1201373_molecules_0.json",
+    "sha256": "050912929e69493a52ec56e61fdecc1cd536712f54c955c476a79cfd04a62bf5"
+  },
+  {
+    "file": "CHEMBL1201379_molecules_0.json",
+    "sha256": "be6b97f2bb29872313e24112a478d0e053532340dfc409d8539bb10e5fa33cfb"
+  },
+  {
+    "file": "CHEMBL1201384_molecules_0.json",
+    "sha256": "ec2f4c2237c30a38769bee40176204cb53aaa17a815a56d41d87fe16f79fd12c"
+  },
+  {
+    "file": "CHEMBL1201391_molecules_0.json",
+    "sha256": "f3d9791aae2f4f2391e83d844368af1c59414805d595657fc192b50a8bd0e9cf"
+  },
+  {
+    "file": "CHEMBL1201395_molecules_0.json",
+    "sha256": "fae04b0ce363cfebb369a2b43b68388113fde5424e11cf86632541c69d6a20c3"
+  },
+  {
+    "file": "CHEMBL1201758_molecules_0.json",
+    "sha256": "acf82d59e739bf02235e825df23c108eb699dbff1582ff537a6d2f86914d08cf"
+  },
+  {
+    "file": "CHEMBL1201891_molecules_0.json",
+    "sha256": "a277591a880c7d483cd12711667bc0f0e8c6034eb453efef2f567581f9175f5a"
+  },
+  {
+    "file": "CHEMBL1208017_molecules_0.json",
+    "sha256": "f7287e6fc570a129ee0eeca5b1309c8e18423bdb76651e0d46c737bd0b04cb44"
+  },
+  {
+    "file": "CHEMBL1213351_molecules_0.json",
+    "sha256": "33b5142b8113644f98f281b22c2715540089e9f8960a40f53df31ba204412c96"
+  },
+  {
+    "file": "CHEMBL1214_molecules_0.json",
+    "sha256": "e47d8b6e57f5a94909e5a2c6e6dda3db008833a3cdad72b62d1c63346fcef8a5"
+  },
+  {
+    "file": "CHEMBL121810_molecules_0.json",
+    "sha256": "af76d813625e38dd884416a59c22e168397a14fa8e26269a787365cff5ccece6"
+  },
+  {
+    "file": "CHEMBL1229211_molecules_0.json",
+    "sha256": "10c6e41be6f67a1868d1074a5514283d50a4e6bdea96f0c3ae2b80e3ca679315"
+  },
+  {
+    "file": "CHEMBL1230732_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL1231124_molecules_0.json",
+    "sha256": "69d11523123e4180ff0cb2cf14c6c8a824412287f35602a990bce87a9a87f378"
+  },
+  {
+    "file": "CHEMBL1232295_molecules_0.json",
+    "sha256": "3e01f1a76c6ce76bc9da6cf27f010b0e08d89dbfbf4a853cc875e74eddd5f66e"
+  },
+  {
+    "file": "CHEMBL1232667_molecules_0.json",
+    "sha256": "854cf330414001d3eac4cd6915a42fd90eef74c24855588428047c853ec8eb58"
+  },
+  {
+    "file": "CHEMBL1235551_molecules_0.json",
+    "sha256": "d8542dd5baf99827b7ad289138a2251a2ab487aa252cd8d567a5fee1bf318473"
+  },
+  {
+    "file": "CHEMBL1236282_molecules_0.json",
+    "sha256": "2dae81cd52788ad45cb7e8d7df0c9df2fe77bd34c2079dd8680b32a3802e6dca"
+  },
+  {
+    "file": "CHEMBL1237049_molecules_0.json",
+    "sha256": "52bc7d330ee09d84995cf669e1025223cf64be81470097703e8fbbfbd53c1665"
+  },
+  {
+    "file": "CHEMBL1241590_molecules_0.json",
+    "sha256": "27759c68b39934285a7d82e87260f6820c5ff144ec6e979ed1435591ad1233e4"
+  },
+  {
+    "file": "CHEMBL1243298_molecules_0.json",
+    "sha256": "860242326fbfc7627915d389f40002c2ea4617c1a659ea65cb793ecc0dc839c3"
+  },
+  {
+    "file": "CHEMBL1254025_molecules_0.json",
+    "sha256": "2f2e0c651ebc071e9e12b2377ca564c7e8cd8d89ae08b5201c543dd8267e2ff1"
+  },
+  {
+    "file": "CHEMBL1256919_molecules_0.json",
+    "sha256": "f66075850e0dd337b99e9b806bcd04ad38f5ca8134dc738ddac675b1adee3b77"
+  },
+  {
+    "file": "CHEMBL1277001_molecules_0.json",
+    "sha256": "3c7453c7946cad3fa06ceef0f0e13e5967ee763a3ace94ee312d356351f31d70"
+  },
+  {
+    "file": "CHEMBL127_molecules_0.json",
+    "sha256": "816b44b53b5396a0b38a8a78e52e8b3ca3ee237d1cc47b0980cb928b1613c9f8"
+  },
+  {
+    "file": "CHEMBL1290_molecules_0.json",
+    "sha256": "9a71e0313efbef0f103e0683d933adde7ea44ef97292724321df44d7af54a34e"
+  },
+  {
+    "file": "CHEMBL130_molecules_0.json",
+    "sha256": "fdc1ef9cebe44affe970fedef3768485801f22112ad038fba6e67c241aff9518"
+  },
+  {
+    "file": "CHEMBL1329032_molecules_0.json",
+    "sha256": "24493260984b3e2f2b5e2a0e7677e41864ae169c12f3d118471f5b2d51f40ea3"
+  },
+  {
+    "file": "CHEMBL1346_molecules_0.json",
+    "sha256": "fda6baf093cea499eb847553c8980da6a6257e8e24e3fed2e8ed31a5fe1f15a1"
+  },
+  {
+    "file": "CHEMBL1349_molecules_0.json",
+    "sha256": "f3ae45dff415e5d72072a01d23fe01dbf2d415a0a26a43beb77f39129b9be723"
+  },
+  {
+    "file": "CHEMBL1394756_molecules_0.json",
+    "sha256": "a140b150e189349a36c346765efacdbda58c1da5dbc769308c04e1640151cf59"
+  },
+  {
+    "file": "CHEMBL1412041_molecules_0.json",
+    "sha256": "c59497ee0995c218fa1d3dc4eaf9fc54c77613ee2a78852e44fb50c933122304"
+  },
+  {
+    "file": "CHEMBL1422_molecules_0.json",
+    "sha256": "9a53c546d046360c8c7f2d2ce70fceb8a7b68d377cb4dc0c3969fdcca5b801ff"
+  },
+  {
+    "file": "CHEMBL14249_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL1436_molecules_0.json",
+    "sha256": "15fc2f06c64d55cd440e0864afde29b02ed65a31f7965d2b3cfddaa5562a0c9f"
+  },
+  {
+    "file": "CHEMBL1443_molecules_0.json",
+    "sha256": "2abb576cff5eaa60b520ea2eeac4853ac989a543d5fc8d03f1495eab722bd3f1"
+  },
+  {
+    "file": "CHEMBL1447_molecules_0.json",
+    "sha256": "93e3539270a7607dc1bc149cd7bf08c83fce73b3136b3db950e19824991d465c"
+  },
+  {
+    "file": "CHEMBL1449_molecules_0.json",
+    "sha256": "edfadac82e37ec7e6ba17cb85c160a808974f9d48e8d85de55949a2117c4ac40"
+  },
+  {
+    "file": "CHEMBL1450_molecules_0.json",
+    "sha256": "941232704ddcdc842be781a64df019f39363a8d971cfd356203330cbebc89ef8"
+  },
+  {
+    "file": "CHEMBL1460_molecules_0.json",
+    "sha256": "f580a4397d8127c8b900ea4ef9c6343e3828704c90087d0d1f31641e26f9f144"
+  },
+  {
+    "file": "CHEMBL14762_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL14830_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL1488165_molecules_0.json",
+    "sha256": "8ec6d91f83d193cc001476215504ea3715c2f4f32cb968d7daae1fed2242b6c7"
+  },
+  {
+    "file": "CHEMBL1511_molecules_0.json",
+    "sha256": "2a7eb9b420b46eaa546567f13fc871158c60a1e180fa3be7b40df90250e83d60"
+  },
+  {
+    "file": "CHEMBL1522_molecules_0.json",
+    "sha256": "5de4af55e9cdf65dd1278a12c6e951f185a3abaf264da7b80543d3d9129485a4"
+  },
+  {
+    "file": "CHEMBL1543_molecules_0.json",
+    "sha256": "be8c31246df10740e72bd52f7ec874bb78c02991f482d1a5a4dcf31690c06778"
+  },
+  {
+    "file": "CHEMBL1551_molecules_0.json",
+    "sha256": "b55f367ec9d7eaa97e9cd9c56ea6f2a222987990e98ac75d3188954ab11d14f0"
+  },
+  {
+    "file": "CHEMBL155886_molecules_0.json",
+    "sha256": "58c755c8a29dfc3a4e5ea5b1cfe13c8aa1afe02459a8efd4ca37cba0d8d37e2b"
+  },
+  {
+    "file": "CHEMBL1581_molecules_0.json",
+    "sha256": "6e9122825f5f612718d2ef883b28e77a9b686a538e45b164269966bc3103e98b"
+  },
+  {
+    "file": "CHEMBL158_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL1590076_molecules_0.json",
+    "sha256": "7bab47f2233fe24b46db1cb4b83f4a581f6e38b6f6969e04a811afc3f0d9c627"
+  },
+  {
+    "file": "CHEMBL1592_molecules_0.json",
+    "sha256": "38e0fe41224ffa51660478fd6683702eaa381e43cc03b272eb232814f4f98e4f"
+  },
+  {
+    "file": "CHEMBL159660_molecules_0.json",
+    "sha256": "7f6f1522eb2d476e2b6f6c222a41fbed93826cfb01266b52df910471a49d585b"
+  },
+  {
+    "file": "CHEMBL1601669_molecules_0.json",
+    "sha256": "4ade273764d09332cc72fd0579aa87a3bfc4e9404d93867ce650f0d7a49b5079"
+  },
+  {
+    "file": "CHEMBL1604_molecules_0.json",
+    "sha256": "26098dd1dd500a8fc24460e59735dff7493017655f07c4947a374ef6362e3707"
+  },
+  {
+    "file": "CHEMBL160629_molecules_0.json",
+    "sha256": "16b3289e1d2fad270b3e8f2626f34ba3758b00157616f6fadb83a81b5b1082db"
+  },
+  {
+    "file": "CHEMBL1609891_molecules_0.json",
+    "sha256": "acffef5e1f738a96f41aa1cacbec8d836bb89e6289f592b46cf13ce87bd7499a"
+  },
+  {
+    "file": "CHEMBL1614637_molecules_0.json",
+    "sha256": "98d592a970feeda502e943bddbd67916ca22543700dfabe6389a13f314af2ca8"
+  },
+  {
+    "file": "CHEMBL1614658_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL1619_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL1624_molecules_0.json",
+    "sha256": "3150ffbaaa9e1c5cff885e7f19ece802a82d98a6f6bfa89d373fac6d83aa7b6f"
+  },
+  {
+    "file": "CHEMBL1626_molecules_0.json",
+    "sha256": "6d2d744706896cf9f2cc8c7415043cff073297b2d247e48f69b1258edcd14706"
+  },
+  {
+    "file": "CHEMBL1630563_molecules_0.json",
+    "sha256": "787e8c58af164a2da6de3ff58c2bc0aaee663e87b78dcac1d97e8f272a0f1828"
+  },
+  {
+    "file": "CHEMBL1651913_molecules_0.json",
+    "sha256": "886de98c6d3e5f745067ebf9e36473da775c3164c1ad062e24364888804fb5d8"
+  },
+  {
+    "file": "CHEMBL1661_molecules_0.json",
+    "sha256": "7ad66f723f2483178eb7fdab84876d008a96270483872f30db4ae52c0db6c3ee"
+  },
+  {
+    "file": "CHEMBL1673408_molecules_0.json",
+    "sha256": "154846faaa32eefcdd8e2f7f81490ebf2a15115684bd5a3ad8b70b75975c06b6"
+  },
+  {
+    "file": "CHEMBL171679_molecules_0.json",
+    "sha256": "b83883b6117af5e528e4d92baeb83e63ae2be092f75798b8ea7fc7cc625529cc"
+  },
+  {
+    "file": "CHEMBL1721885_molecules_0.json",
+    "sha256": "d34e746e3d3f0cfef26ba0a474d0e8f117bff4dbdd76fe294aa203b8c325a600"
+  },
+  {
+    "file": "CHEMBL1730_molecules_0.json",
+    "sha256": "dea7bb44910295836294d62ff7a059093f780019108e7e2a05cb586ecf6cd2b8"
+  },
+  {
+    "file": "CHEMBL1733_molecules_0.json",
+    "sha256": "9fa53cdb1ab4cc802ee82be07fed34a8153ca92fd1f271f706ecb3e2eb5e333f"
+  },
+  {
+    "file": "CHEMBL1740361_molecules_0.json",
+    "sha256": "8bf765f32a6eb882dfa785096dba43b1026b634ed0a8635320913e4832bcd15f"
+  },
+  {
+    "file": "CHEMBL1742483_molecules_0.json",
+    "sha256": "0a7fc3dbe5c86a02a08a93383e6616036f8bcae9c906797c8f3cd875b15a3f95"
+  },
+  {
+    "file": "CHEMBL1750_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL1753_molecules_0.json",
+    "sha256": "25919609221129bd649ee391311133a0b0cc49ee04a46e2bec871f7766b24fcd"
+  },
+  {
+    "file": "CHEMBL1764_molecules_0.json",
+    "sha256": "9ffd19f19df3ec8f0c1854b812dfd917ef72982e1b7f5e2d54f7c95a96bdf4f7"
+  },
+  {
+    "file": "CHEMBL1808388_molecules_0.json",
+    "sha256": "b87d16454891fc87a3ec281a733be076c2ab103717ac1267402899a3191c5a83"
+  },
+  {
+    "file": "CHEMBL1812063_molecules_0.json",
+    "sha256": "17469dd2ea23d8e67b9ede7f20f706f0de386f58acbefedb7d5c872e0f6fac82"
+  },
+  {
+    "file": "CHEMBL181954_molecules_0.json",
+    "sha256": "ee36a24bf395cef01e6b81f9d7bd64d56d3b8ceba08eb12e2974ba50b982417d"
+  },
+  {
+    "file": "CHEMBL1829335_molecules_0.json",
+    "sha256": "b88923724c1d4a69ed574c17b97eb0bbd8523f8e378b3c1cd1180be67de87314"
+  },
+  {
+    "file": "CHEMBL188361_molecules_0.json",
+    "sha256": "a11044ea42f98c081547144c650d56d9cf198f4124378aebf6ceb573a71eda5d"
+  },
+  {
+    "file": "CHEMBL188462_molecules_0.json",
+    "sha256": "a1db69bdfdb3fefd5f1351f6cbba07e38f4e33a0918864e05946ee1e6296d7b0"
+  },
+  {
+    "file": "CHEMBL1894187_molecules_0.json",
+    "sha256": "cfdd351b863a2deb9c4e71ee5cf824886a8a4e9fca69664d7553e3835f99a049"
+  },
+  {
+    "file": "CHEMBL189475_molecules_0.json",
+    "sha256": "dd5783f6c8375ba620f1c4b697610cb480cd9092e7e70e3f62c60270f3df2c72"
+  },
+  {
+    "file": "CHEMBL1908314_molecules_0.json",
+    "sha256": "e93b17d2795188739afea47a34901f0f9939bf79109b0bf09eac1b6b3f3711ac"
+  },
+  {
+    "file": "CHEMBL19215_molecules_0.json",
+    "sha256": "0d5b8bea1a19fcd5b47e7b9f12ce0110ffe5592ed52fe09e9dcc063859804be1"
+  },
+  {
+    "file": "CHEMBL1921847_molecules_0.json",
+    "sha256": "1c86a8d6c8527a7a8a6eaf1572b247bc4123800461ab6b9fbb75776389734e08"
+  },
+  {
+    "file": "CHEMBL1921976_molecules_0.json",
+    "sha256": "99c4255f8e013dc5912fc08f575a3fd9add05402278cade5c3738a97f080cd61"
+  },
+  {
+    "file": "CHEMBL1929396_molecules_0.json",
+    "sha256": "f6ae5e52cbc14b33040833967c9ac3f9433c9f3c9deb0cc1c16bd245f079abe7"
+  },
+  {
+    "file": "CHEMBL1940832_molecules_0.json",
+    "sha256": "7e60b4b2a97f57c2b800bedc555dc81b86724120c8e16e852098a0cf2a7d7910"
+  },
+  {
+    "file": "CHEMBL1946186_molecules_0.json",
+    "sha256": "504f75d78a916d31f9e057fad073f6686b7e47287f25732ad5999afdac37d81f"
+  },
+  {
+    "file": "CHEMBL19611_molecules_0.json",
+    "sha256": "6b3d5e77006b771208f18d5eed6b5f8aac6c01a7a61013b2e2d9156f386f8863"
+  },
+  {
+    "file": "CHEMBL1980825_molecules_0.json",
+    "sha256": "0b6392fade11f9eda6364cf31dba893701df10785d5c1210a670af1966e295bc"
+  },
+  {
+    "file": "CHEMBL198362_molecules_0.json",
+    "sha256": "4d76bca98703c84c8190263ea6f7f34383a41292e26b5c01ce9d33e6fc699d74"
+  },
+  {
+    "file": "CHEMBL2023705_molecules_0.json",
+    "sha256": "f4158b46d9545f0735755d0053296a48f5f9480968d27ce7281fd3929bfc23e3"
+  },
+  {
+    "file": "CHEMBL2028019_molecules_0.json",
+    "sha256": "f8479281e6694b91c378785f52b9b87559026f9533bef46a16060a087dd212fc"
+  },
+  {
+    "file": "CHEMBL2048484_molecules_0.json",
+    "sha256": "ddbd50d24a7ba3b9fc4ea6d3c3b5e708ee733fe48aab0c73bd9c8223b9f10332"
+  },
+  {
+    "file": "CHEMBL2051955_molecules_0.json",
+    "sha256": "b0c75cd5771f58a743416be14a6881384bb0af4f34624051fbae336c719249d2"
+  },
+  {
+    "file": "CHEMBL206815_molecules_0.json",
+    "sha256": "8cbd052ec43afa90b36823f23ac0a4beb171e4ac399159df5a622c9e583e91de"
+  },
+  {
+    "file": "CHEMBL2095212_molecules_0.json",
+    "sha256": "b3800d0d46ca84f3b1478a6bc38187bb1f42b669b50965a8c5bbdd9d506ee407"
+  },
+  {
+    "file": "CHEMBL2096895_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL2103764_molecules_0.json",
+    "sha256": "990b76720c35fce73be9d3030e7920f094fd1354759f527b04b3aeb37e63beb5"
+  },
+  {
+    "file": "CHEMBL2103767_molecules_0.json",
+    "sha256": "f7b72fe41212a64e59c4635273554fadb51c13b65c7e45fd191d295c43069d65"
+  },
+  {
+    "file": "CHEMBL2103775_molecules_0.json",
+    "sha256": "750994b35f6e59f7061b4e83cb1f655db4829e15ce66134b906e1a73dfdd6eb2"
+  },
+  {
+    "file": "CHEMBL2103790_molecules_0.json",
+    "sha256": "e0492be7fbe8428b57bc225fc28f391af9342397977e583a505df3c7d47932d8"
+  },
+  {
+    "file": "CHEMBL2103824_molecules_0.json",
+    "sha256": "3aac1a165c4e2e4475dc80120f9eb8211287c28edc85e232d69cd69e76ae9758"
+  },
+  {
+    "file": "CHEMBL2103829_molecules_0.json",
+    "sha256": "46f3a8f7f23b4298c0421983af22ff0e4ddc299692b4dc28f9ec4d148e0ec84b"
+  },
+  {
+    "file": "CHEMBL2103836_molecules_0.json",
+    "sha256": "5b1f1ffd15c59746df247ef67db7600e38c41dcc3f5a9d5d8bcfc58447b3d5e2"
+  },
+  {
+    "file": "CHEMBL2103842_molecules_0.json",
+    "sha256": "92c3c8371f5d9691bc85d596cce61d6aed5397319485bcda73ad00fa35955814"
+  },
+  {
+    "file": "CHEMBL2103847_molecules_0.json",
+    "sha256": "bee52cd806c919dde5640507b1afe85e7561d6a9238b0dd279acd6d1c424b2c9"
+  },
+  {
+    "file": "CHEMBL2103869_molecules_0.json",
+    "sha256": "9b2ccc5ec5d378c16aeaf92117a91462275bf7b5d5e955a9fb16fae9291e3471"
+  },
+  {
+    "file": "CHEMBL2103877_molecules_0.json",
+    "sha256": "dd0f30b500b84187c7574372c1496b6af1cb1ae43198e040602626f02f0fa9c2"
+  },
+  {
+    "file": "CHEMBL2103882_molecules_0.json",
+    "sha256": "6673e860d73f583975b50a33b7f717e9e74d97d4115adf344f2ad95c213c38a8"
+  },
+  {
+    "file": "CHEMBL2104004_molecules_0.json",
+    "sha256": "012f6343458235708ab3d8a551d3f9c22a236140d4091711ed9e16b4912c7f57"
+  },
+  {
+    "file": "CHEMBL2104023_molecules_0.json",
+    "sha256": "52bdd281db47e2c996e5d3c82b37eff4f1a446dc238d5dbed6877a4397d61427"
+  },
+  {
+    "file": "CHEMBL2104067_molecules_0.json",
+    "sha256": "96cd03d3b9710898d2b977bcfaadba361e4af429511c6e944df3f2997a8f82a9"
+  },
+  {
+    "file": "CHEMBL2104091_molecules_0.json",
+    "sha256": "4d29bb6b4c6f5cf5c733b852ae87b96dec69eee4daa9454c1f290c26a8c71a83"
+  },
+  {
+    "file": "CHEMBL2104172_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL2104194_molecules_0.json",
+    "sha256": "e6f472854148247467fc814ac549e8c1552d54e47c3c325080b722a492426bf6"
+  },
+  {
+    "file": "CHEMBL2104211_molecules_0.json",
+    "sha256": "daf17d7ce155be701cb8020e6c8c77f151498133dde983f037fcfd0f1a6d2723"
+  },
+  {
+    "file": "CHEMBL2104242_molecules_0.json",
+    "sha256": "3fae76f222fcaa6bd5ecb881b3aacf2c5efec7bb9123790fced02110038389dd"
+  },
+  {
+    "file": "CHEMBL2104285_molecules_0.json",
+    "sha256": "4045c9993eb2fe467507d129f545cf506f3def1aea22d793181af326afffe3e8"
+  },
+  {
+    "file": "CHEMBL2104398_molecules_0.json",
+    "sha256": "63a3e229fd38a1d77e8c05874c2297af5aad09be36a3056caaf326c04a51ecaf"
+  },
+  {
+    "file": "CHEMBL2104469_molecules_0.json",
+    "sha256": "49413f681ae6e5bc1f4dcaa2a6e7bdce19e68a58aa608432e968d1c4cf062e9a"
+  },
+  {
+    "file": "CHEMBL2104497_molecules_0.json",
+    "sha256": "2f4b4a62fd91138da81db9be08f0016d4dff300fdc6e827c5fcb64a6c52c196a"
+  },
+  {
+    "file": "CHEMBL2104498_molecules_0.json",
+    "sha256": "f87c3bb26695e3c0595a9d942b4beb434b9adb0aa46254efff5b7dd47161875f"
+  },
+  {
+    "file": "CHEMBL2104567_molecules_0.json",
+    "sha256": "4a392345c0eec09d897643f591b157b8dfff7efac9c0394acb36bf63c672e2af"
+  },
+  {
+    "file": "CHEMBL2104586_molecules_0.json",
+    "sha256": "f7f1ba3faa7c0d05e0f01b412dab908bab1559a188ebc7f45124ab85029e56d5"
+  },
+  {
+    "file": "CHEMBL2104590_molecules_0.json",
+    "sha256": "249d08e99905b69d6022a1b81a26e106a13293b0ebfd56a36694bdfe130eb900"
+  },
+  {
+    "file": "CHEMBL2104617_molecules_0.json",
+    "sha256": "ac3e373c830655d8bb22b3888fc0c4a588b35bd2cba0bfe5da3fd2b93286dbb4"
+  },
+  {
+    "file": "CHEMBL2104634_molecules_0.json",
+    "sha256": "23d424bd6f611bd24024d3ecda08797b593663de341da829440e249f6bf69310"
+  },
+  {
+    "file": "CHEMBL2104656_molecules_0.json",
+    "sha256": "ed373c4f8e88afbdc420ab50402fb6f319fa34f95cc28ecaee7f0efe2d4522e8"
+  },
+  {
+    "file": "CHEMBL2104660_molecules_0.json",
+    "sha256": "1c0c001443d86b6b045ded8deb3f7dcc832582c21ffcfb03d0a97a4ef16d61c7"
+  },
+  {
+    "file": "CHEMBL2104662_molecules_0.json",
+    "sha256": "cfaaf00ca45e9c8319887c6ce3eea4e6ff16194cfee03ebe0dce11bff4b3d5ee"
+  },
+  {
+    "file": "CHEMBL2104740_molecules_0.json",
+    "sha256": "5b04b3cc59e960849bcc304a9ad31077c7aba5330b1fab0c2e60842bea7effae"
+  },
+  {
+    "file": "CHEMBL2104748_molecules_0.json",
+    "sha256": "045c10c265a7ff6bc054edc1cb6ff9f3be97ddd9ea41b7427a5219c3981a03af"
+  },
+  {
+    "file": "CHEMBL2104860_molecules_0.json",
+    "sha256": "e2f917b5ad49a72bd193fbea66ed9df69743c0aa5466120a63f1ffcf52f93cf2"
+  },
+  {
+    "file": "CHEMBL2104862_molecules_0.json",
+    "sha256": "45a96d0ae23351879d132428fe4de5a8ffd01aa150815c356813c48a6fc1d3cd"
+  },
+  {
+    "file": "CHEMBL2104890_molecules_0.json",
+    "sha256": "54f1aa75f9858c57cffd327be1f2c36745d617b5bc35150a7caebc4ae9831039"
+  },
+  {
+    "file": "CHEMBL2104917_molecules_0.json",
+    "sha256": "4460558c30a2898cc29c669b7c6023ab7cc2f2f690f8d3bf02af4d5f19d9a1d5"
+  },
+  {
+    "file": "CHEMBL2104994_molecules_0.json",
+    "sha256": "670a019a17c3f3c5954edbc8f1b9c0695ecb0358358714825d0c4ed34bc2185f"
+  },
+  {
+    "file": "CHEMBL2104996_molecules_0.json",
+    "sha256": "3939c346920f2355b90ba85a641abcae090da9e7866130e3b99d4dbe2d24e955"
+  },
+  {
+    "file": "CHEMBL2105074_molecules_0.json",
+    "sha256": "67887eb7b1ed409483a8e714fb02126419b51a9d549b92c9a4590c26869bb7f4"
+  },
+  {
+    "file": "CHEMBL2105118_molecules_0.json",
+    "sha256": "a6204a4485042034be8aaf7f01aea59b368d9db1b639fd5428fcfe47b088760f"
+  },
+  {
+    "file": "CHEMBL2105160_molecules_0.json",
+    "sha256": "44eda0f15233abe7505b2540c5cca0f11d05c94067c2b317f946f966be3b4596"
+  },
+  {
+    "file": "CHEMBL2105197_molecules_0.json",
+    "sha256": "493701c2fa16db5d6fc6ca5cfc450a3428040e7a892b1811eebb48ff40ae254b"
+  },
+  {
+    "file": "CHEMBL2105210_molecules_0.json",
+    "sha256": "eea78f41a8b08b8e524803205d303f3b855cf3512100a1ea9b43d8ca292a10f2"
+  },
+  {
+    "file": "CHEMBL2105239_molecules_0.json",
+    "sha256": "82304dd08e0b1149de96d70edcfd7afb93412b9d2ba88ee49a7dd4e4dcdb67f6"
+  },
+  {
+    "file": "CHEMBL2105249_molecules_0.json",
+    "sha256": "2ea59439730f4df8690d0a3c6619c6959f6a6eecb0c5e000392662458c64d849"
+  },
+  {
+    "file": "CHEMBL2105348_molecules_0.json",
+    "sha256": "3f7ccba5215d55e4600904502ef52bc5dc5ff57677daf4cbb9e9b075a0485a78"
+  },
+  {
+    "file": "CHEMBL2105377_molecules_0.json",
+    "sha256": "98c1475fbb3fd5ac6a147a2bbcadc4798768826024af455502fcf718bf4d4f41"
+  },
+  {
+    "file": "CHEMBL2105388_molecules_0.json",
+    "sha256": "54798e653608185b38ff960043bd62d54e26b84cdfe6842a4db35c3932d57883"
+  },
+  {
+    "file": "CHEMBL2105403_molecules_0.json",
+    "sha256": "a3680a4bb736fd4fd38d6493afa93dde1781ac3ce93069b102f5dd923de0666a"
+  },
+  {
+    "file": "CHEMBL2105429_molecules_0.json",
+    "sha256": "2e2f34791b2e6d2873bf51a1cdbf549113c7b0b13fdb5b56446bb18c8035d3c0"
+  },
+  {
+    "file": "CHEMBL2105502_molecules_0.json",
+    "sha256": "e1e2813fbdf2722332bc1c907f0592787997281a287deebfdde12cc158365f34"
+  },
+  {
+    "file": "CHEMBL2105565_molecules_0.json",
+    "sha256": "4552d4716703d79e6d413c0e13862c388a80a1db866abc210be3fbbc47ec6a65"
+  },
+  {
+    "file": "CHEMBL2105602_molecules_0.json",
+    "sha256": "4b381d261f571763f489dbc66b743c4b0941911c2bae72bfacec170f417fc1ad"
+  },
+  {
+    "file": "CHEMBL2105604_molecules_0.json",
+    "sha256": "58f88777aac87fb59f1046eb6929b06f6f54cdfebd6e4cba249d86b7318c0bfe"
+  },
+  {
+    "file": "CHEMBL2105669_molecules_0.json",
+    "sha256": "e3267f524ad373b0c927048b19714365424e074733527e2a1451ea0e6493ee78"
+  },
+  {
+    "file": "CHEMBL2105683_molecules_0.json",
+    "sha256": "54c9b0b2ee1308806b2675c1f1b86b3e8ad2b70590fdcc36f9178a4f4bcb2c9a"
+  },
+  {
+    "file": "CHEMBL2105761_molecules_0.json",
+    "sha256": "55a9d0ff5459084b4eaaaa15d62498b396122830f431d7e5b57e17822c77c325"
+  },
+  {
+    "file": "CHEMBL2105909_molecules_0.json",
+    "sha256": "0b4e42396023fe4d783f9b0c7a8f3f81b88e112bebfab91013f39184be97fe6c"
+  },
+  {
+    "file": "CHEMBL2105926_molecules_0.json",
+    "sha256": "b534346df8901be3321d8130ef003a44f7cb5a6183bfbe14dda210590c32ea47"
+  },
+  {
+    "file": "CHEMBL2106009_molecules_0.json",
+    "sha256": "5daffc9ff8197e1f2fe48d65b52fb5664ca3de80153d0d9d20252dd068753b7a"
+  },
+  {
+    "file": "CHEMBL2106110_molecules_0.json",
+    "sha256": "8d96e680e1d394711bdec6291d5aabb1e808629a1c7a5e25d39d44126ddd76ba"
+  },
+  {
+    "file": "CHEMBL2106248_molecules_0.json",
+    "sha256": "7a94b2e6c83b8023bab07a015a3a2841e4e999bc722cd2e27ed20bf9a8e5fe1d"
+  },
+  {
+    "file": "CHEMBL2106298_molecules_0.json",
+    "sha256": "d2d1557dbc9f7715e0558eaff44f9b85664f93e3eef66a29baaf76d45aed3a58"
+  },
+  {
+    "file": "CHEMBL2106341_molecules_0.json",
+    "sha256": "624e3c03c714a8bc86ac419dac3f75d779aab467f2b5ef126a72a14773c926df"
+  },
+  {
+    "file": "CHEMBL2106368_molecules_0.json",
+    "sha256": "18180f2b62668959b86684d0c98fdec853d23965dc0c97ac80d511534b89aabb"
+  },
+  {
+    "file": "CHEMBL2106548_molecules_0.json",
+    "sha256": "6d6fbd1e103d5b460774440d3ffddac59a20ae79d3936aaffed7c0aef8b86072"
+  },
+  {
+    "file": "CHEMBL2106601_molecules_0.json",
+    "sha256": "49108221c976f0235a18d73dd48a0349fbbba9184ec10e006c93d6913db1e244"
+  },
+  {
+    "file": "CHEMBL2106649_molecules_0.json",
+    "sha256": "1fb8e31ab1fcbfd3fdc5b0cad186737eb9cdf31d909273cc448e60c08686b6a0"
+  },
+  {
+    "file": "CHEMBL2106685_molecules_0.json",
+    "sha256": "33580fab2a3ae61271095736b26587b776918141248f87482568ea95f79bef0e"
+  },
+  {
+    "file": "CHEMBL2106758_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL2106813_molecules_0.json",
+    "sha256": "e78ee08b9f7609d72e623106abad1748b3dc7693fd5ee89796a2da0648dc4500"
+  },
+  {
+    "file": "CHEMBL2106816_molecules_0.json",
+    "sha256": "e2cf4294e0df875349b8e9167220059f25d8e10a3832926aae7d163707b5cc89"
+  },
+  {
+    "file": "CHEMBL2106877_molecules_0.json",
+    "sha256": "05c0bff8adaebe2c7e20a492c5a765aa6754541f3af4b028e98859d99899c387"
+  },
+  {
+    "file": "CHEMBL2106965_molecules_0.json",
+    "sha256": "8cf16187340dc7f0a3679ca3faa4e59509b95d35b4832721a25e26bec9153e62"
+  },
+  {
+    "file": "CHEMBL2106972_molecules_0.json",
+    "sha256": "2754ff94df92d4ea893ec0248eb3d59bffb2a2de04ac1a0d96d4379723352c19"
+  },
+  {
+    "file": "CHEMBL2106981_molecules_0.json",
+    "sha256": "4f6bbf361d015399cb93226fb301f6043a8322fead17a6e04a127a7da4ea41dd"
+  },
+  {
+    "file": "CHEMBL2107020_molecules_0.json",
+    "sha256": "cad6b5b04246a487401b368fec95791fc8817913d78694f1a3e8ee799e04aeb7"
+  },
+  {
+    "file": "CHEMBL2107026_molecules_0.json",
+    "sha256": "93509f6b01d730e3be1b7bc560cd40dcd21350faac3d8901ef0cb67ab0c726b6"
+  },
+  {
+    "file": "CHEMBL2107045_molecules_0.json",
+    "sha256": "0cf4a16af2f4941dab786b7487cf014814e1ddaa30c63557f9fca35f7e6d9a0e"
+  },
+  {
+    "file": "CHEMBL2107118_molecules_0.json",
+    "sha256": "97c65f7f77844a3f51140788bcca3b2e99357e90b3d7c34bb0323b9b27704ec5"
+  },
+  {
+    "file": "CHEMBL2107228_molecules_0.json",
+    "sha256": "49853d961c086d1d4e61126a548048440f188fa63e2357fafea3425ded69f6ec"
+  },
+  {
+    "file": "CHEMBL2107301_molecules_0.json",
+    "sha256": "b7cc102501b63854186e6c780514be9ea1d379974ed14d6bae6bc04483d8fa90"
+  },
+  {
+    "file": "CHEMBL2107303_molecules_0.json",
+    "sha256": "261c4ea18ca16160c4e290f5461a8a080f1c750e773e10739eceac3d2701a515"
+  },
+  {
+    "file": "CHEMBL2107328_molecules_0.json",
+    "sha256": "c868eb16749e08848e40f4fbd43c9286fd374f8b6e7d6d77bb8b390e4347599a"
+  },
+  {
+    "file": "CHEMBL2107361_molecules_0.json",
+    "sha256": "4f2e12cf64609cd9d3a2f510d5b8fa81a93c5abe91e384d9f7791429aca5995f"
+  },
+  {
+    "file": "CHEMBL2107413_molecules_0.json",
+    "sha256": "1a727fb54addef19576ef2981da4a432d5083704935a0da3176b882b63d8a8e3"
+  },
+  {
+    "file": "CHEMBL2107529_molecules_0.json",
+    "sha256": "01e411bca2fa404002e90ef9570d5f7e0fd9dcca5dc8ce0cf0eb9511d27ff9bd"
+  },
+  {
+    "file": "CHEMBL2107583_molecules_0.json",
+    "sha256": "95fe891a3ce8856cab13186a1047d3cd36f785467d9f87cccc4e2d4dfca53c7f"
+  },
+  {
+    "file": "CHEMBL2107586_molecules_0.json",
+    "sha256": "f478ff3bb865e409efa87c4fda8a447edefc985666a9e828735907d7ffe90246"
+  },
+  {
+    "file": "CHEMBL2107614_molecules_0.json",
+    "sha256": "bd06dee884d4f41cf0bf35fa8eddd803e4b89622659cc983977f7855b12e8679"
+  },
+  {
+    "file": "CHEMBL2107669_molecules_0.json",
+    "sha256": "9927e498bd1d0130b7cddd4a67e86857950136b654184a48724f080f777e55c5"
+  },
+  {
+    "file": "CHEMBL2107773_molecules_0.json",
+    "sha256": "6e2dafc43ef46da41ad44fe023a97baff7e1b231837e6ceffbba3f1a0b58c10c"
+  },
+  {
+    "file": "CHEMBL2107804_molecules_0.json",
+    "sha256": "9c13a7962b9cd11ab56fccab151dbc32ce442d0632e8c69b19d67a84deeb249a"
+  },
+  {
+    "file": "CHEMBL2107822_molecules_0.json",
+    "sha256": "fc8620817afe1a612b10109ce0c49b3fdbc7b4e29d1bbdd01e2dcd0af7f88820"
+  },
+  {
+    "file": "CHEMBL2110625_molecules_0.json",
+    "sha256": "35532bc9442c70f47c5adfaf4b8335da4acec8c679c04df9b8732bce06afbd9e"
+  },
+  {
+    "file": "CHEMBL2110627_molecules_0.json",
+    "sha256": "cf398e39c8782d480cb10237b8489485ba2d5838f1e8bf80aab3f82a00512f17"
+  },
+  {
+    "file": "CHEMBL2110640_molecules_0.json",
+    "sha256": "19a4605e16a21e941c1e0323f85a2797aa3a46f2514b7a214c00f0578ee496f6"
+  },
+  {
+    "file": "CHEMBL2110666_molecules_0.json",
+    "sha256": "a30fe70559ceabc55d7bc38c7e962fa96f62fcd56fd7a3d613b880e355f71325"
+  },
+  {
+    "file": "CHEMBL2110731_molecules_0.json",
+    "sha256": "ca18425dacbff3da053954257b1af4fd8233ce3d7ca41dcec0ebc0f05f85dc0e"
+  },
+  {
+    "file": "CHEMBL2110737_molecules_0.json",
+    "sha256": "8c6d44264d954514a97ad8a0b8ba822388e1b2c51e227837453d9ab4d48e6828"
+  },
+  {
+    "file": "CHEMBL2110886_molecules_0.json",
+    "sha256": "67b2964b7b5302c17a99b4b604f1547886cbc3ce03436fb90ff37b5b4349a014"
+  },
+  {
+    "file": "CHEMBL2110936_molecules_0.json",
+    "sha256": "08fd6f109f5123603143882d98248444f8afce6868088373cb688bc77907a073"
+  },
+  {
+    "file": "CHEMBL2110953_molecules_0.json",
+    "sha256": "a4c6df70332e6cd25eca01f4107c566410e8f1f7446c8f9d05e730c9f4efbff4"
+  },
+  {
+    "file": "CHEMBL2110976_molecules_0.json",
+    "sha256": "ac03faf3383d13b3a7467dccd718a27f0449f1e0f1bb3b6d61459a7a9557f2c7"
+  },
+  {
+    "file": "CHEMBL2111156_molecules_0.json",
+    "sha256": "491273a682a7aa6fdc47ca1b0d17d747bec6ee8c44b68531141efc306a2c0feb"
+  },
+  {
+    "file": "CHEMBL2151591_molecules_0.json",
+    "sha256": "f9fbcd811a0c264c55d056593451a35cd1369a46ef6d4f4123263fd83f3c998f"
+  },
+  {
+    "file": "CHEMBL2159227_molecules_0.json",
+    "sha256": "d3e63bb405610c422b7eaf221a620d70ee8f55f72cefd3651e1d698b22e20ae6"
+  },
+  {
+    "file": "CHEMBL2160007_molecules_0.json",
+    "sha256": "13a03f2c919847e2b6ab18ce9f09005b8f84991a51150f67c98a7282e3deebd2"
+  },
+  {
+    "file": "CHEMBL2165224_molecules_0.json",
+    "sha256": "53989de1088d60af75bc5946cce31f2d3c8269ce79d251c424c588914d198b62"
+  },
+  {
+    "file": "CHEMBL220190_molecules_0.json",
+    "sha256": "52c5f536c43e1961c143b6411525e3815d9afbb184bb81218c40157d8bda14db"
+  },
+  {
+    "file": "CHEMBL2206292_molecules_0.json",
+    "sha256": "334378e38cd314acf4aad235d5ee8029ca5d5b57f22a84bf67d231031e206fef"
+  },
+  {
+    "file": "CHEMBL220808_molecules_0.json",
+    "sha256": "6dd7309f4ec86e7dbb31fd10ab66a8d21f83acbb6ff6290cbb512c7ac93e3a06"
+  },
+  {
+    "file": "CHEMBL2216863_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL2216870_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL2219422_molecules_0.json",
+    "sha256": "7ab044da3d20daf500fef5db7f6034f6006a5659875eab4fd9be0ceb45c56af9"
+  },
+  {
+    "file": "CHEMBL2221292_molecules_0.json",
+    "sha256": "caafb7552af386504ff1cf5dc92929da6fde99c1aef9895986cb3b748d90b1f5"
+  },
+  {
+    "file": "CHEMBL22242_molecules_0.json",
+    "sha256": "4bea071df6ca13e2c6dfa4af18bfa684ce971b4c87888db588f0e5c9310d466f"
+  },
+  {
+    "file": "CHEMBL223585_molecules_0.json",
+    "sha256": "7c193dcb2e566e6337ac42b586a8b4b0aab48bb75dc9d67e8b0f49091297428d"
+  },
+  {
+    "file": "CHEMBL225072_molecules_0.json",
+    "sha256": "69b940546a055e90729298c82aec5bf63d84dabd681502569c3f83f2148a8ae8"
+  },
+  {
+    "file": "CHEMBL225157_molecules_0.json",
+    "sha256": "844cb643eb4473f8759db2fe5ebc7010c7537f52bc8eb416af662dbfd64f8c52"
+  },
+  {
+    "file": "CHEMBL227875_molecules_0.json",
+    "sha256": "0ab8d99f77225f9d95146bbc46a4c2770c7c0210788ba725dae57fd7a4e1816e"
+  },
+  {
+    "file": "CHEMBL2325741_molecules_0.json",
+    "sha256": "8d61261059ea0da520ccfbf3822580d2e9c4c547e87974c9f5c3cf3c6040aa0c"
+  },
+  {
+    "file": "CHEMBL232656_molecules_0.json",
+    "sha256": "eafb6bbe463dad6cfe364887a8cf9debf298ea00c80aa8d01dd19940f542f0a8"
+  },
+  {
+    "file": "CHEMBL232875_molecules_0.json",
+    "sha256": "4c1fa4a0c2dbae52bb6ad3660d455b67a16bed0660297f832f1fd42c3d3d91da"
+  },
+  {
+    "file": "CHEMBL2368199_molecules_0.json",
+    "sha256": "d4898f37f82ab83b37ddb625a873b7682f55bfd6e1afef46d1985f99a5a9843f"
+  },
+  {
+    "file": "CHEMBL2375142_molecules_0.json",
+    "sha256": "2ea2c4bfd395883bb081392cc8ec7b48a027327fadffa39fa3d3cc221823edf7"
+  },
+  {
+    "file": "CHEMBL2375143_molecules_0.json",
+    "sha256": "3cc2832b9fba6276e451a5c6d0e59012c9f14b7ae7f9cabf099dd1dd9db6f372"
+  },
+  {
+    "file": "CHEMBL2387742_molecules_0.json",
+    "sha256": "ce3c3b8d1f187b9eba18cae2d594b83d5d2089aec500b4a7cd5cfa1d36c7b839"
+  },
+  {
+    "file": "CHEMBL24038_molecules_0.json",
+    "sha256": "06d1b68359d48a60745ac708f4308ab4c6c91a11b256f9a66eb7793f2edab8a0"
+  },
+  {
+    "file": "CHEMBL2441929_molecules_0.json",
+    "sha256": "a15d7c13053d7b63cab395547ef54a2f606a00a42f0b360a602fb3bb191f5934"
+  },
+  {
+    "file": "CHEMBL2443262_molecules_0.json",
+    "sha256": "247b008de973f1a4b76bfcf4b4a599bd499601982bc0c9b17bc1ec6b18e02e9e"
+  },
+  {
+    "file": "CHEMBL252036_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL253582_molecules_0.json",
+    "sha256": "d6d10c6682b3535dacaccdbed47980057285a617de5e1ca3394ec44ff60c40e8"
+  },
+  {
+    "file": "CHEMBL255231_molecules_0.json",
+    "sha256": "cd10b6687e0b036f56752be96ecf3d01eacd8c2e45a4d7713044ca7e1f4bef56"
+  },
+  {
+    "file": "CHEMBL258501_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL260402_molecules_0.json",
+    "sha256": "bec5be6e8683da012df65636eb44a1f8b7c62b50c33876bf263535443084d994"
+  },
+  {
+    "file": "CHEMBL261932_molecules_0.json",
+    "sha256": "af7329027e9a29dee2a163e004f531f508cbbd0c1c27c512fbc3e42fbba188d6"
+  },
+  {
+    "file": "CHEMBL267044_molecules_0.json",
+    "sha256": "aebbb73edbae1754c142d1e93402215b793aefe79d9bb424dce63544ec1eabf2"
+  },
+  {
+    "file": "CHEMBL269446_molecules_0.json",
+    "sha256": "6cd6df8744ce549bfa44a7ea5ba8c81750765f03f5dbeb51e4e65e20986ede6d"
+  },
+  {
+    "file": "CHEMBL271896_molecules_0.json",
+    "sha256": "9772709156ad019155facca40b4cd71a48b625296c49fd22dfe250bae7853acf"
+  },
+  {
+    "file": "CHEMBL272621_molecules_0.json",
+    "sha256": "a5ba8e1b009178e97003a7d80eb84ef726a5156e5bb9ee5d8fa4c1434e082554"
+  },
+  {
+    "file": "CHEMBL276568_molecules_0.json",
+    "sha256": "d264c13c9d64978bea79ce251039258dea88cb3e059a874794b223a0d0ec428c"
+  },
+  {
+    "file": "CHEMBL279260_molecules_0.json",
+    "sha256": "c2bf39ba1c571298c5cde6a3b6b300ad7d36c57adfc1cbfeec531e8ec674e8f5"
+  },
+  {
+    "file": "CHEMBL281724_molecules_0.json",
+    "sha256": "1f23fdeaf123b97d82a73e1ecd9bd9bfcbf45f19c7feabe726d3d14d2b469802"
+  },
+  {
+    "file": "CHEMBL282575_molecules_0.json",
+    "sha256": "3a318c6b869319318f0b0331962d91144f14bf00ffa09bfbfac775245e13f025"
+  },
+  {
+    "file": "CHEMBL282686_molecules_0.json",
+    "sha256": "e1b969a0271dda162c00e148fbd21cecb1d18f316334ce0fbc230154afd3b2af"
+  },
+  {
+    "file": "CHEMBL284121_molecules_0.json",
+    "sha256": "e5cfa0d2be3f2327ac1255cc17657dbbcf562158a87c6608c94d6c091bb39f45"
+  },
+  {
+    "file": "CHEMBL289556_molecules_0.json",
+    "sha256": "fea7c0931be7ae4d99b59cc2db4a2e9dedff0e9ad77509f26aa5ce14bd75de18"
+  },
+  {
+    "file": "CHEMBL29_molecules_0.json",
+    "sha256": "088987a35f75a0e6901cfdeb995797ca9b822338b792df869e194238964d347b"
+  },
+  {
+    "file": "CHEMBL3039503_molecules_0.json",
+    "sha256": "8f0833acb5b970e86ec44918b31ef378ddcbf776e0686cc56d44130bb1d29d6e"
+  },
+  {
+    "file": "CHEMBL3039507_molecules_0.json",
+    "sha256": "7802e013b10451f4daaf3fe995d9c5deace518cc2e64f9fcfaade7e8d78a9610"
+  },
+  {
+    "file": "CHEMBL3039531_molecules_0.json",
+    "sha256": "1c095678552f3f0cd44374225e9ac6414e38f5c4c26dc9e80b39fdd35a07437e"
+  },
+  {
+    "file": "CHEMBL3039733_molecules_0.json",
+    "sha256": "5aab1e53b5476eb18073f98370b90c19a505a95cfbcc693c2fc10ba8cdea70b6"
+  },
+  {
+    "file": "CHEMBL3112741_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL3137301_molecules_0.json",
+    "sha256": "c2284aca9e5a1307ff27f4e64583efebb42acf405c8b9ee7160d20d2a513c1f1"
+  },
+  {
+    "file": "CHEMBL3137306_molecules_0.json",
+    "sha256": "b7ced4502651b65ac304cd03252372c8aa53cd9f2f645261c15c95b2f46fdb88"
+  },
+  {
+    "file": "CHEMBL3137314_molecules_0.json",
+    "sha256": "8e5f7b8513a5cc6b870f5c5e9c25f120e3896fda8fd2bccd50702c95156b107c"
+  },
+  {
+    "file": "CHEMBL3137336_molecules_0.json",
+    "sha256": "b000c2d1c773b0c828c0eb85ea88452ce04418e83ca013f5301708feb802128f"
+  },
+  {
+    "file": "CHEMBL317052_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL318191_molecules_0.json",
+    "sha256": "e4b0747116db73043dacc06305f495442815c27193ac29f68832560aa4bbc2dd"
+  },
+  {
+    "file": "CHEMBL3187812_molecules_0.json",
+    "sha256": "19c4c9d9c587988f1802456ef25957916772eda3f9e31f73e9d3baeaa5ac8e70"
+  },
+  {
+    "file": "CHEMBL318859_molecules_0.json",
+    "sha256": "b621636fa4078e3136bd5527d50ba7a8b7c966fccf3f9b86a52d936d15dda9e3"
+  },
+  {
+    "file": "CHEMBL325695_molecules_0.json",
+    "sha256": "a82664933efe7fe9d727a22e53e86d771febc42cd8c206c5702b626d15dd0d92"
+  },
+  {
+    "file": "CHEMBL328190_molecules_0.json",
+    "sha256": "8c3d4305f38b946ef2c6ff9871912e0d4bd042d57ad1af27b37d3cf035c4fa5b"
+  },
+  {
+    "file": "CHEMBL32_molecules_0.json",
+    "sha256": "7342f9fdf770c13ab331dd3d2bcc6b68035f7f4704ce55dbdcdbc3aaffe15c8e"
+  },
+  {
+    "file": "CHEMBL3301601_molecules_0.json",
+    "sha256": "161a2370b4480a513d8491aec539d86493df770b4b6a16e59adeb2f88ea9a3ed"
+  },
+  {
+    "file": "CHEMBL331369_molecules_0.json",
+    "sha256": "d6ea0dfa8b4ac796776025e28815dde367c16fb350715750e7fccafea84ddf7e"
+  },
+  {
+    "file": "CHEMBL331382_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL3334567_molecules_0.json",
+    "sha256": "764e83b563f8cd7eb7a90164501f325946bc6e1b0fc04c51644e820963b88b1e"
+  },
+  {
+    "file": "CHEMBL333950_molecules_0.json",
+    "sha256": "24f2c005a360bee4232feb13c7c7f7f884ffd479712194d54f4913d17d9c37d3"
+  },
+  {
+    "file": "CHEMBL3341939_molecules_0.json",
+    "sha256": "ad26857ac822f81e52bc2781b613531d358b81bd5f0bd906dcc128a83ae07690"
+  },
+  {
+    "file": "CHEMBL3348932_molecules_0.json",
+    "sha256": "583e4406f1ec8d0c0e2d96819c3247b5f563f4c49a896f3d498a6dbad8e76474"
+  },
+  {
+    "file": "CHEMBL336920_molecules_0.json",
+    "sha256": "7eaa93edca879a774543eff99dfa7343efe5009b1846b55bf749def765450e25"
+  },
+  {
+    "file": "CHEMBL3393588_molecules_0.json",
+    "sha256": "25419e361b55c32cbe4d4c0259d86572ce30dadb037c8d0d3e1edc75c9a8bd4b"
+  },
+  {
+    "file": "CHEMBL341421_molecules_0.json",
+    "sha256": "e4f02dc9d60bafd9f153af515825d0a9759bd577bdfec03d1bf8a0fc742107f4"
+  },
+  {
+    "file": "CHEMBL342372_molecules_0.json",
+    "sha256": "05014ab1a122cf016305ea9496dc5be5a120dd32ba69b249491fdb29b06ac655"
+  },
+  {
+    "file": "CHEMBL3426621_molecules_0.json",
+    "sha256": "e85dac55f773f9a1987a74aa70696d857cfda8963fe42e9faf95864f477d2a74"
+  },
+  {
+    "file": "CHEMBL3527358_molecules_0.json",
+    "sha256": "1fecb7c14b62164ab1f214536abd4d6e9332733b333f41f2866bb10c828e9867"
+  },
+  {
+    "file": "CHEMBL3544964_molecules_0.json",
+    "sha256": "b717a65eeb0942861a168d88f6d51c5ac5c82e04115012457551e114eff0ed7d"
+  },
+  {
+    "file": "CHEMBL3545035_molecules_0.json",
+    "sha256": "633c0bccbe9fb6a0071f6f5f78bc8e773a3220da0dc4450c3c4e26410da8b9ff"
+  },
+  {
+    "file": "CHEMBL3545040_molecules_0.json",
+    "sha256": "e9506508ef19d2124d368bf229e48e275660d904ec8de97332d522490a026a87"
+  },
+  {
+    "file": "CHEMBL3545163_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL3545254_molecules_0.json",
+    "sha256": "c17244ab26e60a120f6ea0ad3b62e6cfe35891c62fb63fe21b548bcfa5585519"
+  },
+  {
+    "file": "CHEMBL3580737_molecules_0.json",
+    "sha256": "6a9ddb5477c519ff662a1123c6919a8c27bb6f09f27284d109e481a3485cecec"
+  },
+  {
+    "file": "CHEMBL359164_molecules_0.json",
+    "sha256": "55d0e83cbde033f6a3c865e0c78d059fe9e71243d392c16ac5b056912315b0a1"
+  },
+  {
+    "file": "CHEMBL3608680_molecules_0.json",
+    "sha256": "ef476390f1ad2d96f605b4e53a09513255c6a956a9cd36044abc357c8fd6ad7e"
+  },
+  {
+    "file": "CHEMBL3613118_molecules_0.json",
+    "sha256": "e3d6911f254eae8248e99d32fc19258bb02141b0b79c17bfbca1bec47cde5e03"
+  },
+  {
+    "file": "CHEMBL361812_molecules_0.json",
+    "sha256": "8c6923af66567031ddf03db66d25cdf27480e9a67d2ba41c952140d20ffdd094"
+  },
+  {
+    "file": "CHEMBL364713_molecules_0.json",
+    "sha256": "3f9412b3165ca530174c6a136c746a9f67ab92cb62ca46122fcbcadd0a2acdc0"
+  },
+  {
+    "file": "CHEMBL3651966_molecules_0.json",
+    "sha256": "4766d6ccd5d52fb6c0673065f0827b26eddad1a38467acd40e10121f10b38313"
+  },
+  {
+    "file": "CHEMBL3655081_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL368347_molecules_0.json",
+    "sha256": "f8a9bee346cfa74877717405ae078a66bfe024d491ed75cf4b621eff170d2f0e"
+  },
+  {
+    "file": "CHEMBL3703921_molecules_0.json",
+    "sha256": "45d448838ce9af287394f263f509dd3805ba13fee0ae828cad32b02078f47d8d"
+  },
+  {
+    "file": "CHEMBL3707394_molecules_0.json",
+    "sha256": "5d3ff895badcb292e290d93f0029eb5b8e279567ee6483d304d84cef4b72a615"
+  },
+  {
+    "file": "CHEMBL376359_molecules_0.json",
+    "sha256": "3497e90902c21b89c7096bfff181ba2138ff2818e8516dffb5672609c5f527c2"
+  },
+  {
+    "file": "CHEMBL377300_molecules_0.json",
+    "sha256": "be8c1453b5d676eae8bee54d5acc6b1bd0f5d0550df689e454391b1ad14846bf"
+  },
+  {
+    "file": "CHEMBL3786182_molecules_0.json",
+    "sha256": "5bfd6492358720b11486ee40906e04e75d7e1b6b493f308828336967825c7643"
+  },
+  {
+    "file": "CHEMBL380230_molecules_0.json",
+    "sha256": "e58319969b323ecb351ddcebb212bd5d24e97b8ab59031d63a4d0f99401d30e0"
+  },
+  {
+    "file": "CHEMBL3889654_molecules_0.json",
+    "sha256": "02350aeffeb931df4ee7982fdef1f6fcf735400bb8bb54a1476721b3b4e6b8e0"
+  },
+  {
+    "file": "CHEMBL3900409_molecules_0.json",
+    "sha256": "6c7e31e193ced1a0f450c25c7c88e7ea5c86484d31a1e6090f6dfbac6622a618"
+  },
+  {
+    "file": "CHEMBL3914857_molecules_0.json",
+    "sha256": "bfce49ef8bce96d0ee96fe321525b9aa1272561326e3180e43ed71f24a4d03aa"
+  },
+  {
+    "file": "CHEMBL3916243_molecules_0.json",
+    "sha256": "ffdac2fcee488d5d749408a8c01d0ecceb8ac230b38cf6eba28bc3d6d4e76623"
+  },
+  {
+    "file": "CHEMBL3962292_molecules_0.json",
+    "sha256": "5e5b41438e8f7cb5ed9649434f0e6f517f7b1a705defa53e9eb83dd3e3c19c0e"
+  },
+  {
+    "file": "CHEMBL3979920_molecules_0.json",
+    "sha256": "48e184a8c8337e1a922957deaaeff054fbfe925d54511f403a3e70f0ddb327fd"
+  },
+  {
+    "file": "CHEMBL398338_molecules_0.json",
+    "sha256": "8c3dd1ea34bccdae09a6244332650e061364f00345db389d4e8228dae5142b6d"
+  },
+  {
+    "file": "CHEMBL398463_molecules_0.json",
+    "sha256": "f5bb3c7186d03f2e6771a4aeb1a91601379fd77bb447ff3d90f33cc6bc57e1fe"
+  },
+  {
+    "file": "CHEMBL3989429_molecules_0.json",
+    "sha256": "a5eeca527d0830c747a98d7297a42bd99a5f9d8335130764d587cd8f5b63d507"
+  },
+  {
+    "file": "CHEMBL3989445_molecules_0.json",
+    "sha256": "a1bf3bd6ba268c6c100a06ef44180430d8e25b4a89d325b775d94c5f93be823c"
+  },
+  {
+    "file": "CHEMBL3989446_molecules_0.json",
+    "sha256": "59a0423f7a2f595ef9dcd913b631ed473d414f3e6eafd45cf6b14ca15ec2c9f8"
+  },
+  {
+    "file": "CHEMBL3989470_molecules_0.json",
+    "sha256": "bd58f3a1c44f94c0d588b226a641e19436b1a9eb233630f5c78cd9db3b853671"
+  },
+  {
+    "file": "CHEMBL3989477_molecules_0.json",
+    "sha256": "77bbb9ba1330607ec1fa33d8a5afa5d65dab87f6eca7b5c02f8dc3cd6d22139b"
+  },
+  {
+    "file": "CHEMBL3989489_molecules_0.json",
+    "sha256": "a0e83394e68d4953a00c61532ddad56e4cecc6a3bd5998b6bf7ab6e5e0765aed"
+  },
+  {
+    "file": "CHEMBL3989493_molecules_0.json",
+    "sha256": "2a0f8cd2b4736b183d5108d83fde0ccc8f4911ea61b8f2f97af6958fc57ee958"
+  },
+  {
+    "file": "CHEMBL3989502_molecules_0.json",
+    "sha256": "447086fbd240eca5b2ed71925598d8cf0bf07cb97b4ce0bad159a60d8e6b75ae"
+  },
+  {
+    "file": "CHEMBL3989548_molecules_0.json",
+    "sha256": "3d225b097ff50945542b34e0dca77b08e6b64a64de7ee592f1b13a2309ab6b3a"
+  },
+  {
+    "file": "CHEMBL3989666_molecules_0.json",
+    "sha256": "7aa441ae824abcb27e2567956d1c670b093c76b82257e828078283ddf14f9012"
+  },
+  {
+    "file": "CHEMBL3989776_molecules_0.json",
+    "sha256": "f33b673d12bbb0d29f876703ded8ebe33680f812431ca1dd5d84ec6e7fcd0f44"
+  },
+  {
+    "file": "CHEMBL3989812_molecules_0.json",
+    "sha256": "17bce95f66ae78b403e780c7992b5c1e129c76d5012d065cfbbe3293a5979fe6"
+  },
+  {
+    "file": "CHEMBL3989883_molecules_0.json",
+    "sha256": "308d6bbc1b43a494762f6233ba350cd8be6f1afb8a90160c2c263633ca977cb3"
+  },
+  {
+    "file": "CHEMBL3989951_molecules_0.json",
+    "sha256": "bd23c0fa834d8d600411585219f08df47d87b4d8b2b122841b26ba970367357d"
+  },
+  {
+    "file": "CHEMBL39933_molecules_0.json",
+    "sha256": "7f8245f3af7c934101c85a7f98370060dcb187e81edc712d105bdca36af0aff4"
+  },
+  {
+    "file": "CHEMBL4060569_molecules_0.json",
+    "sha256": "eab9996d1c4eef8c1639140511ab503ef70e55127f6ef3af9ea842c005088da9"
+  },
+  {
+    "file": "CHEMBL4069349_molecules_0.json",
+    "sha256": "1aecb19d00df2800d2c40d1e516c7b50cda0586978feb9d84e2c70f5435b796b"
+  },
+  {
+    "file": "CHEMBL4079239_molecules_0.json",
+    "sha256": "031bad675a69e79df0f697dc7086a173205ba2bafde0c17d985f177cb6176dbc"
+  },
+  {
+    "file": "CHEMBL4081711_molecules_0.json",
+    "sha256": "b0cffa965b6f9d2c197007327fd674e0f6560f184935ae1ce113127c8d388630"
+  },
+  {
+    "file": "CHEMBL4085457_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL409153_molecules_0.json",
+    "sha256": "ddf15c069dafc889f2b58fa1f3f55d3783588f898bb8a24d85bf742a85d50245"
+  },
+  {
+    "file": "CHEMBL4110551_molecules_0.json",
+    "sha256": "24a6ae726b30689b679466d6ada2ec291f90f1901bf71d11be69837b59c1e4b8"
+  },
+  {
+    "file": "CHEMBL4127030_molecules_0.json",
+    "sha256": "0e0c5fb5e39bc49335634f765be63c950285f5b3d57bc850460439dd7c090d6e"
+  },
+  {
+    "file": "CHEMBL416578_molecules_0.json",
+    "sha256": "3750d78be4cbdb450a06ff1885410b6b0bd96affbf623fe37e52f47d8f583780"
+  },
+  {
+    "file": "CHEMBL4205422_molecules_0.json",
+    "sha256": "6930e9e92ac745dea2863bf89e53578b9cf725b4a3601d76a070efa57ac0ef8b"
+  },
+  {
+    "file": "CHEMBL424278_molecules_0.json",
+    "sha256": "2569b8fcd40756f8dba0bddada309267abb412c976ef3e150e6b7468220abdf6"
+  },
+  {
+    "file": "CHEMBL4249337_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL426559_molecules_0.json",
+    "sha256": "66a04b0b5a8bb4a6e13fe9abc87b0375ed6bd433adceb043453fefe6bf4d8b8e"
+  },
+  {
+    "file": "CHEMBL4285417_molecules_0.json",
+    "sha256": "886eeae1a0322c1d0f8dadf4d0840a539b692df78b5ec9021a877c5bfa616d32"
+  },
+  {
+    "file": "CHEMBL4297184_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL4297266_molecules_0.json",
+    "sha256": "914cbe56d8dec053a2e334550e1e7bc7e0659d651cb8ffbb35c07b33c2a80864"
+  },
+  {
+    "file": "CHEMBL4297287_molecules_0.json",
+    "sha256": "4b62da3870f1fa8eb36fb5a704bc0849089155b802f8f55de8a60fb947ad5a9e"
+  },
+  {
+    "file": "CHEMBL4297350_molecules_0.json",
+    "sha256": "3d544fcb0b59a08da7e7f8d120f4c8870991f25d2ebacd1256721cea912a65d6"
+  },
+  {
+    "file": "CHEMBL4297370_molecules_0.json",
+    "sha256": "b2f06b0c552505c9d6271ad65bc48ac76db7623810e8be561a08c8985bfc2646"
+  },
+  {
+    "file": "CHEMBL4297389_molecules_0.json",
+    "sha256": "f49fcc046024a42b76311748185f7eb489dcd8acc9f0c81a32a2913c9bcac409"
+  },
+  {
+    "file": "CHEMBL4297406_molecules_0.json",
+    "sha256": "e88ab2f10b7b1f3d74a8c19e39456f6d73d43794d22939abab0ccc9c5704550e"
+  },
+  {
+    "file": "CHEMBL4297435_molecules_0.json",
+    "sha256": "d3dbcfdd7bce2957e3837f322aa7407c353f49a1fae62da820126625e998ba4e"
+  },
+  {
+    "file": "CHEMBL4297477_molecules_0.json",
+    "sha256": "998fd891f138979fcd7c87a553fed43b864004234dca71785c9e1d0c92a8293f"
+  },
+  {
+    "file": "CHEMBL4297479_molecules_0.json",
+    "sha256": "74ff2e3f8352a0e23db672a38d29dcc2258062c2cd235b3fc26f6a50cf3f4bdb"
+  },
+  {
+    "file": "CHEMBL4297484_molecules_0.json",
+    "sha256": "d7c69c0d340408f1c3bdaab482ddd6fcf8660eae86b6a277e99e39507ce5f93b"
+  },
+  {
+    "file": "CHEMBL4297500_molecules_0.json",
+    "sha256": "f62aee654f2f356f478d73df891f792ad6428d1e8bcf4f6030805adfb4252e2a"
+  },
+  {
+    "file": "CHEMBL4297507_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL4297508_molecules_0.json",
+    "sha256": "0573ec7f312828bf6c1f04ba3c88d658ce43778f820d78822ff26d980ff7252c"
+  },
+  {
+    "file": "CHEMBL4297517_molecules_0.json",
+    "sha256": "d7ccce287a398bd9eeeff00f82bf6cdcfdf9a35cadd969620adddbeb346327e5"
+  },
+  {
+    "file": "CHEMBL4297538_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL4297600_molecules_0.json",
+    "sha256": "0c9bda0b1849a3257de8b9572bf4d8a32e0be8377710826d7ed8271de7f91394"
+  },
+  {
+    "file": "CHEMBL4297602_molecules_0.json",
+    "sha256": "3f508a3895f85c60caa8e3e097957eab1f6d3b9d8a8908692ccb4e15b6df31d1"
+  },
+  {
+    "file": "CHEMBL4297615_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL4297620_molecules_0.json",
+    "sha256": "4a9d3d6de54fc9bd188bec4299e61e2a0375c475802a98d3ddd9ada7de2a080c"
+  },
+  {
+    "file": "CHEMBL4297621_molecules_0.json",
+    "sha256": "d15abe3fa7a34786294575a1daaf521a4161d9b785ec66379b8109410b8eb22f"
+  },
+  {
+    "file": "CHEMBL4297624_molecules_0.json",
+    "sha256": "cb31b62517da9bc2a3213654daf493468214679ce090b5e3fa4aec2ef3a79f7e"
+  },
+  {
+    "file": "CHEMBL4298165_molecules_0.json",
+    "sha256": "7cf3effc50c0032da9442d499c1bb7041f97d4b01487db9b97d98b96f4084ff4"
+  },
+  {
+    "file": "CHEMBL4300558_molecules_0.json",
+    "sha256": "6f93370a2ce402dc9d66115cd1f221fedbd52686790692e72a44dd8e19f65cc6"
+  },
+  {
+    "file": "CHEMBL4300766_molecules_0.json",
+    "sha256": "ef371fe65d065a1d617ef756d38afc5acb65dff385c616b3d959a1df6255c723"
+  },
+  {
+    "file": "CHEMBL4303323_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL4303615_molecules_0.json",
+    "sha256": "ee5f724bc1c7f15e292e6511d879653b8106606e20251ee79d64ed7d18b735ac"
+  },
+  {
+    "file": "CHEMBL434492_molecules_0.json",
+    "sha256": "96abecc85672823511d70ea4606da79468d4bc92ddf6698274f3c2228049aadb"
+  },
+  {
+    "file": "CHEMBL440115_molecules_0.json",
+    "sha256": "dacb60f7474ea2ed6688b168dec04f4aac2856329e13d4105709d8abcce0ec61"
+  },
+  {
+    "file": "CHEMBL441765_molecules_0.json",
+    "sha256": "c80813227a5331f70aedaed5c69b112df9389690007635bcfa9aa01e55898d9c"
+  },
+  {
+    "file": "CHEMBL4438249_molecules_0.json",
+    "sha256": "3e6503410d6d17cffe8088189322ac199e17944678bc404fa24f13cef071e641"
+  },
+  {
+    "file": "CHEMBL4446357_molecules_0.json",
+    "sha256": "909e545ad83d0bc62f42985eb05cd2be9969f7cd95dce55d8d616199fdb73a12"
+  },
+  {
+    "file": "CHEMBL444814_molecules_0.json",
+    "sha256": "e3fd3c57311996b391f2f20b9b2f148620d07b7064ff11cf553e128c55993a43"
+  },
+  {
+    "file": "CHEMBL4459585_molecules_0.json",
+    "sha256": "489213ef50c14ea19c475e79503668fb75667c24f782460876c40dc19d93b84c"
+  },
+  {
+    "file": "CHEMBL4462530_molecules_0.json",
+    "sha256": "6ca323dea822afca5c1f9b3fd4c3ae3d6e52a1389c81b090ba10fd529971edf6"
+  },
+  {
+    "file": "CHEMBL448290_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL448343_molecules_0.json",
+    "sha256": "4b96fe5f9639f884c07db8132242510d79debb68739425b36c7bb11f8e5affec"
+  },
+  {
+    "file": "CHEMBL452867_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL455186_molecules_0.json",
+    "sha256": "c9c1e8304743ab97f99e521c63a41c85d601b0fcac120bba2dcf6bdc109b5dfc"
+  },
+  {
+    "file": "CHEMBL456029_molecules_0.json",
+    "sha256": "84a3b40576a629a1b00bfb39c6045309ac7bde635d3082078432beefc36f1745"
+  },
+  {
+    "file": "CHEMBL4571075_molecules_0.json",
+    "sha256": "95e9ab8b7e7de8d8982d4bafd9546dd5dfd039c93b3d94c9502b6e09854ee231"
+  },
+  {
+    "file": "CHEMBL4594372_molecules_0.json",
+    "sha256": "ee3a334f47b2ded6f291e77fc8f9a0f5487ed559c6338094394e16738c9a2468"
+  },
+  {
+    "file": "CHEMBL4594373_molecules_0.json",
+    "sha256": "78767c70633613fda2953b2db6e7b2bfff595984b35fdc5876b79b0d14106b9c"
+  },
+  {
+    "file": "CHEMBL4594376_molecules_0.json",
+    "sha256": "2f1bbc8ae0d10e0b6caa6592e793b36cc8b6eea3d5e9504847a19b015018c40d"
+  },
+  {
+    "file": "CHEMBL4594408_molecules_0.json",
+    "sha256": "91248a4b46b6e5fea8d2c94c893b96729a6cafd31ba989b05075b38c39c33292"
+  },
+  {
+    "file": "CHEMBL4594439_molecules_0.json",
+    "sha256": "00cac9385abaae9b92776e124b544cc57ed57fe56c405a7e7b3b45f2fc1c2a91"
+  },
+  {
+    "file": "CHEMBL462394_molecules_0.json",
+    "sha256": "f9d1838d0fe24182262f36aa36b09788ca31d96656c644bc087b6f37c20ce91f"
+  },
+  {
+    "file": "CHEMBL4649457_molecules_0.json",
+    "sha256": "4b4d0a5e37652492f456bb4c479af1f7a7e11946d6f08775b95920f6e9496c3a"
+  },
+  {
+    "file": "CHEMBL4650322_molecules_0.json",
+    "sha256": "5434132fbde49ed2be4cb60223638171eccef57479cd6c7209429b7254bf7250"
+  },
+  {
+    "file": "CHEMBL4650341_molecules_0.json",
+    "sha256": "b8336ffc6f2b85f1ab3d26817dfd1cc0a741e87d49748d3ddbd7c0ded5823399"
+  },
+  {
+    "file": "CHEMBL4650343_molecules_0.json",
+    "sha256": "59b36a9a406b9bc21d2748fc7628a8c2ad340ad031ea60ae1c66e08e6e4bc6fa"
+  },
+  {
+    "file": "CHEMBL4650367_molecules_0.json",
+    "sha256": "db96a5cf1128136e47966bb399ff6b45c8440b9233d47a40796cda50414bfe12"
+  },
+  {
+    "file": "CHEMBL4650521_molecules_0.json",
+    "sha256": "3f03d6357f2cb61748126768dbc2108f1478c576e00b7e94f8d7ba95e12ad5dd"
+  },
+  {
+    "file": "CHEMBL4650989_molecules_0.json",
+    "sha256": "fe723d39fea20a96c513a6355358df366c4c2043e76a839e94f49108c4198ca4"
+  },
+  {
+    "file": "CHEMBL467084_molecules_0.json",
+    "sha256": "7603eda5a5a81abc43167125d22280676bbfca056b7f7c751fa7137027330294"
+  },
+  {
+    "file": "CHEMBL467888_molecules_0.json",
+    "sha256": "f1f952eabfefdab2da2cae9e17ca9841ff2099fc5bede2395ede5bc22a1fe724"
+  },
+  {
+    "file": "CHEMBL473882_molecules_0.json",
+    "sha256": "2f07d04bb22260c4a32f8934b9f94f892a726a0f3e5d7896956fc6fdc64b505e"
+  },
+  {
+    "file": "CHEMBL475717_molecules_0.json",
+    "sha256": "742fc66f4c8fe40c3504fd02185bbe17bfb1de6125f963c4118b29cca6ac0b8f"
+  },
+  {
+    "file": "CHEMBL4760665_molecules_0.json",
+    "sha256": "a3995bbcbcef2a2d0f07d972c50516974c0cd10d690f46a06e8a30fa43498d5a"
+  },
+  {
+    "file": "CHEMBL4778760_molecules_0.json",
+    "sha256": "dd78afce24f213595757d00c285a7b63dc4fe6bfa0eb27ca71a34f7b397ba2ca"
+  },
+  {
+    "file": "CHEMBL4792487_molecules_0.json",
+    "sha256": "592bab6d8261d6a99fd26e5ee267133a9d04f5987519ccb8b5b30aae7225b962"
+  },
+  {
+    "file": "CHEMBL4802153_molecules_0.json",
+    "sha256": "328a0462a8d5657482395859e79d67654ea54307f4ca1c5730f75fa3b1943644"
+  },
+  {
+    "file": "CHEMBL4802226_molecules_0.json",
+    "sha256": "6b2ea2e351822b06c1dbeffe37f8bb2a6185d02127ad90a1a39c23fc2ee171b2"
+  },
+  {
+    "file": "CHEMBL480558_molecules_0.json",
+    "sha256": "7049892e3fdfc773a29786008b2a34a02a4ddde3c06556622d03125a11662091"
+  },
+  {
+    "file": "CHEMBL485652_molecules_0.json",
+    "sha256": "f1685e06f052d597cf8c7ea8624c5b03dc81bf391a737532c1479eab4b50228e"
+  },
+  {
+    "file": "CHEMBL4863829_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL4871106_molecules_0.json",
+    "sha256": "94e72e2aacd34b9268345709c5aa809f3a2d3b6adfd7d52a92c4cb78aea39042"
+  },
+  {
+    "file": "CHEMBL489095_molecules_0.json",
+    "sha256": "c8ef3a74ebd0c90c94f67626e4f9a5adf61b1f553f9868126bda931649ad8be8"
+  },
+  {
+    "file": "CHEMBL489411_molecules_0.json",
+    "sha256": "c139b70af91a10509d4e3fc16d4a8261617cbbb4f6e2ea73a3e60e9004a057c5"
+  },
+  {
+    "file": "CHEMBL494_molecules_0.json",
+    "sha256": "e300c55826ba5fd32fcdbed73618ba72a3e92093b7faea5b944591404b71fff2"
+  },
+  {
+    "file": "CHEMBL495_molecules_0.json",
+    "sha256": "b0197f301a01eb54873e8ed07485a631241d680c52c0f7f28d3d1630c471ff26"
+  },
+  {
+    "file": "CHEMBL498672_molecules_0.json",
+    "sha256": "95523f872aa1355000ffb50a584505b3f07a9e058fb74d66bc0d734ca96fda67"
+  },
+  {
+    "file": "CHEMBL5087506_molecules_0.json",
+    "sha256": "3796df2622469b5ee097f9dc882acad36c42fb7437642571eaa4f61f8e3086e9"
+  },
+  {
+    "file": "CHEMBL5095072_molecules_0.json",
+    "sha256": "46c86fdf8e991c3785c90a03761d3440d8018e3e8d843cd4d4f6b43556200a25"
+  },
+  {
+    "file": "CHEMBL5095076_molecules_0.json",
+    "sha256": "88a53922ae1cb097a23168699a068c1f221bfc81fc9829cf155616e376921ac0"
+  },
+  {
+    "file": "CHEMBL5095081_molecules_0.json",
+    "sha256": "8d2b964092447cecfd1a3ded4056d6d067f5b54466cebe34a47ccb8e5c5a693c"
+  },
+  {
+    "file": "CHEMBL5095095_molecules_0.json",
+    "sha256": "9c740e5f9b2b4bef0cfc7d1f4bed07e419f9705f7ade980b86dab0f290cdd2d1"
+  },
+  {
+    "file": "CHEMBL5095097_molecules_0.json",
+    "sha256": "dcda984d3ef226810d7360e22afc0ee83b43b23953dab17f6be4d26a5fc2bb05"
+  },
+  {
+    "file": "CHEMBL5095165_molecules_0.json",
+    "sha256": "cdc1880d4ff08af8f7757a78f029dda8d45ebf0de5131c8d3ddc0d82c2a62246"
+  },
+  {
+    "file": "CHEMBL5095206_molecules_0.json",
+    "sha256": "38ff958642c234f095e0953747d11dabe64bc834d79a456ddf87a30730d440f9"
+  },
+  {
+    "file": "CHEMBL5095217_molecules_0.json",
+    "sha256": "0a8487d603dc6e0ed373a19eaf4c0249f9a1a5ddc64073f03614a45933aac58b"
+  },
+  {
+    "file": "CHEMBL5095218_molecules_0.json",
+    "sha256": "daa2b793c0a141649ba3fafc143fa65d171cab723ab1c6b2383d2a19b45a9312"
+  },
+  {
+    "file": "CHEMBL5095230_molecules_0.json",
+    "sha256": "1df57be227e6a4830d91cfa8da9e1eb689b14989b0cc37ec3a0a1007662396a1"
+  },
+  {
+    "file": "CHEMBL5095240_molecules_0.json",
+    "sha256": "834ec2dd89ea7b0eedd084eb67e58914ff787bd4e1f554c85ad67a12f4d1978c"
+  },
+  {
+    "file": "CHEMBL5095243_molecules_0.json",
+    "sha256": "f273fc9467fa1bdcbccc270772e035d51927cf64d00a90672d2f3e93b01c6cba"
+  },
+  {
+    "file": "CHEMBL5095251_molecules_0.json",
+    "sha256": "4a43bc76fa1b2566d5aec8d39fde1c860b7b0f2d843c2a6f6f819c67062e112c"
+  },
+  {
+    "file": "CHEMBL5095395_molecules_0.json",
+    "sha256": "d0f92fd29e124feac5ae6caba2aee9f09f080020c3198600ca883a03f9dd6355"
+  },
+  {
+    "file": "CHEMBL514446_molecules_0.json",
+    "sha256": "32d1c3969df1bce96be3f42f46c6db035a3a68e539afeb58eb27903f90c158b3"
+  },
+  {
+    "file": "CHEMBL514800_molecules_0.json",
+    "sha256": "63c82ccf812de01b9aca7746e6451053c18ed466386f7428c4669d72f1b83fcd"
+  },
+  {
+    "file": "CHEMBL515408_molecules_0.json",
+    "sha256": "d8c29fedadf3bf43e90ae652f4a95a9cc621a4e00f275c671c271a155cc19744"
+  },
+  {
+    "file": "CHEMBL515606_molecules_0.json",
+    "sha256": "fdc6d1d7751c97e1a7f3d169edff874ac811c7452b4471f3cc5718a8cd223aeb"
+  },
+  {
+    "file": "CHEMBL5170587_molecules_0.json",
+    "sha256": "b8ab5b52cf381a09d01e13a915e490edc38292a15551f414323da4548fe2eace"
+  },
+  {
+    "file": "CHEMBL5182222_molecules_0.json",
+    "sha256": "a03f7885d59f22c3cd8424b5c1d285667cc384146d6a4da6c965cbac8e3cd3d6"
+  },
+  {
+    "file": "CHEMBL518924_molecules_0.json",
+    "sha256": "cd27ac7137540f154262a5c46ada5705300ad4a2b5ce241fdf60e67b70ca51a8"
+  },
+  {
+    "file": "CHEMBL519504_molecules_0.json",
+    "sha256": "1214b4372ccde79669bbee3727bba5ac9a5ee2015691aea07beed8bb9e94ab73"
+  },
+  {
+    "file": "CHEMBL529888_molecules_0.json",
+    "sha256": "45fed6dbf9d7e7834f246e17e6e8cb6bfc6aa90caa8a5bd7f5d93dcbec5177a7"
+  },
+  {
+    "file": "CHEMBL530_molecules_0.json",
+    "sha256": "aa641f4769a10497b47519f4e7df5457805f9ad5cca94db9ad9d7083c30fb234"
+  },
+  {
+    "file": "CHEMBL5314401_molecules_0.json",
+    "sha256": "2966cb5aac16f48881f710dffd49f77e3fb4aafc49da9e75410cc8da5d4129db"
+  },
+  {
+    "file": "CHEMBL5314424_molecules_0.json",
+    "sha256": "8b2dbcfa9f6240b4fd0a88bc42df4d8638ecda7a34bf483da66c5bddeda9898c"
+  },
+  {
+    "file": "CHEMBL5314449_molecules_0.json",
+    "sha256": "bdda89be7b466182647706c375e5f2bd4df838672d9ff6d8921af54f7828ae34"
+  },
+  {
+    "file": "CHEMBL5314472_molecules_0.json",
+    "sha256": "96eceff757bc48755bc524f7d8197c64b33d8053b0f1c3c5d975e51b735838bb"
+  },
+  {
+    "file": "CHEMBL5314494_molecules_0.json",
+    "sha256": "70bbac6476752d3f2cf075396aa00b2dab3b1d796b2aec842a81e9cca164fd0d"
+  },
+  {
+    "file": "CHEMBL5314521_molecules_0.json",
+    "sha256": "efb93c1bd5285a9395b1f57126f6a94670fa5da2a96ea3422271b70a2b6935d2"
+  },
+  {
+    "file": "CHEMBL5314526_molecules_0.json",
+    "sha256": "0640385ce92c6eec6c315400b1b0b2a84b1a7ab77bcd26270f8fef2e3a60e20c"
+  },
+  {
+    "file": "CHEMBL5314583_molecules_0.json",
+    "sha256": "73be77728e46fc46aff6c54445d05b248dda14b7ad0c42f907b6f1b636365026"
+  },
+  {
+    "file": "CHEMBL5314907_molecules_0.json",
+    "sha256": "73abc56a96fe7f86d5e7e2d2e7e039494d35bd08c764f2e15c269f551b50bdd9"
+  },
+  {
+    "file": "CHEMBL5314927_molecules_0.json",
+    "sha256": "cd5da7cff9f342db0719d1134093c471be8c7b41db4e3c29e925eba29842911e"
+  },
+  {
+    "file": "CHEMBL5314950_molecules_0.json",
+    "sha256": "69a0a28746251b7e10972515bf90c6bb804510c1ae43ec63500bdb74d4ba9058"
+  },
+  {
+    "file": "CHEMBL5314965_molecules_0.json",
+    "sha256": "98a090f70bebdfd7e027a05b93cb7b6211e5dabece23a7f5510dff907654440e"
+  },
+  {
+    "file": "CHEMBL5315132_molecules_0.json",
+    "sha256": "aff0a270738d1c6447e1c611cb2373eae7bc6271cb90424f7b8dac3127c1deca"
+  },
+  {
+    "file": "CHEMBL5316158_molecules_0.json",
+    "sha256": "9028f609c6c831e8e22baed02a58ba5569a1a77ada0e0dae7a28a9c0f181e5c3"
+  },
+  {
+    "file": "CHEMBL5316159_molecules_0.json",
+    "sha256": "d6cbb5f398f3c6ca13f640ccb62603fc3353228630625c6d421cb64decac2ec4"
+  },
+  {
+    "file": "CHEMBL548_molecules_0.json",
+    "sha256": "03b84261272879a09f8de69e29968ac59c7659a5b1be62cc28c8ac6e6711dd78"
+  },
+  {
+    "file": "CHEMBL550_molecules_0.json",
+    "sha256": "f4c6028ca8fa213aa25f39157ef1e375d347862da6f21a9579679ce3b1261220"
+  },
+  {
+    "file": "CHEMBL562967_molecules_0.json",
+    "sha256": "88ac89e52b2417a1018fb2d2026d2ac036ce7fb898ef263fe6ff752b17799a21"
+  },
+  {
+    "file": "CHEMBL563251_molecules_0.json",
+    "sha256": "19ecd68b5e22bacf95357a661fd5f468039eac7cfacb54d2d3239c04ea780df5"
+  },
+  {
+    "file": "CHEMBL577711_molecules_0.json",
+    "sha256": "51590b3a3a1c8fd7a78f6900e04eefc2e4466e3f2f3c7898b8e147f97685d5f4"
+  },
+  {
+    "file": "CHEMBL581_molecules_0.json",
+    "sha256": "1b614ed03d5f0cd4aa85171a41c9c65c5a13c5ac91f232c08083c3db43113ff6"
+  },
+  {
+    "file": "CHEMBL582912_molecules_0.json",
+    "sha256": "f1e074bcde5b38df77b70f41d202f6d3dc2a3fcdea5e2d5e8669e97f772f1670"
+  },
+  {
+    "file": "CHEMBL58323_molecules_0.json",
+    "sha256": "6870040761685b3b8c81211b43c282c9be965738478731b22219e5023884aca1"
+  },
+  {
+    "file": "CHEMBL594621_molecules_0.json",
+    "sha256": "71654860dde64a8f1aefd0d848ff100c16ae3ef46a96bf0c3af7fc1b308c2c93"
+  },
+  {
+    "file": "CHEMBL601719_molecules_0.json",
+    "sha256": "21f80f07c7ee3c1f7f7e6e6be1153112c81dfa91fd0b19a0bb8a32c1fe1981d6"
+  },
+  {
+    "file": "CHEMBL602070_molecules_0.json",
+    "sha256": "3013336fde709fe4af359937fb64bf4f4f2173d97e299e4e5904211334e00b69"
+  },
+  {
+    "file": "CHEMBL605846_molecules_0.json",
+    "sha256": "93182784f55b6002516b363c954e442a8fb87d61746da7cf4f58fc3ce2ffdfc2"
+  },
+  {
+    "file": "CHEMBL638_molecules_0.json",
+    "sha256": "7e3244349c97ed0cb29960e24dc29d760f0d141142a1030472b706034dd84648"
+  },
+  {
+    "file": "CHEMBL6622_molecules_0.json",
+    "sha256": "954f2158bcd356136eeb716c6e7e442dd022ba6548f462d86ae4656b365f5136"
+  },
+  {
+    "file": "CHEMBL68117_molecules_0.json",
+    "sha256": "832dfc9177b180d5b660209c6d51cc82a073e49ac12f4d320ebe37472611d63d"
+  },
+  {
+    "file": "CHEMBL70611_molecules_0.json",
+    "sha256": "fc07e293720ae62f3c3e3fbe609ce1358916545e6774a24ede3390732c63a04c"
+  },
+  {
+    "file": "CHEMBL779_molecules_0.json",
+    "sha256": "65cd71c061fa0fb620fcfcb465521cf1b4b2a898fc83fea5579326f3607e4ac4"
+  },
+  {
+    "file": "CHEMBL783_molecules_0.json",
+    "sha256": "83009c7ed3c85c740fb03b365060716b37cb2902aaa084e8267a25e9aa20edb5"
+  },
+  {
+    "file": "CHEMBL857_molecules_0.json",
+    "sha256": "27fa0d70c6fd49fd79ec093e059a46019f6f8464aa516301c89de646f1bfa1ca"
+  },
+  {
+    "file": "CHEMBL8809_molecules_0.json",
+    "sha256": "c2f14927e9edf22c38d7e06a8e403689e4ef05b32c648095e723a26180c9568e"
+  },
+  {
+    "file": "CHEMBL88240_molecules_0.json",
+    "sha256": "72893008812750b51321935f8a14ad66630e2318f0d7fc375443c27f8217ed47"
+  },
+  {
+    "file": "CHEMBL90564_molecules_0.json",
+    "sha256": "e6852cc998ee690a15749c1f8ed21b1a1219158a9ed84f7e09fe94555153d07f"
+  },
+  {
+    "file": "CHEMBL927_molecules_0.json",
+    "sha256": "3dc4f314cf88c07034ea19e5fd64831bfdd91f01958941bb90fc4f1879727af7"
+  },
+  {
+    "file": "CHEMBL94739_molecules_0.json",
+    "sha256": "f8c2c37af0277356ff8539193f9f08283ef30b5d3d9035a881aeae482460e050"
+  },
+  {
+    "file": "CHEMBL95636_molecules_0.json",
+    "sha256": "f0c0961fd49df9cd1f28755841c8efba9d3a315ab35638547dbd1383b6069a5c"
+  },
+  {
+    "file": "CHEMBL96153_molecules_0.json",
+    "sha256": "c40a39274a96ab6399c6320d5c110c8af6fa34905433a25fc843e08c36c4debe"
+  },
+  {
+    "file": "CHEMBL9960_molecules_0.json",
+    "sha256": "e555a58f0eff2ff15e90e39a20d3a51b55c9d626a9a2e8c07630820b77d37e77"
+  },
+  {
+    "file": "CHEMBL996_molecules_0.json",
+    "sha256": "61b5c8f316f0f387aff8c0397e4de12d288e23e728e5e1d3550d7fe7585f07bf"
+  },
+  {
+    "file": "CHEMBL99_molecules_0.json",
+    "sha256": "fd50592b10bba3de50182940082adea3802ccda981c679efd697b1c6a941411f"
+  },
+  {
+    "file": "CHEMBL10188_activities_0_0.json",
+    "sha256": "43802d240b94192269c5028386d96c03f4501b6166ab1decf00c4f7641cda195"
+  },
+  {
+    "file": "CHEMBL1027_activities_0_0.json",
+    "sha256": "9d420a2248f3cff827af7f28699ac11ee0eb2608bee9b95c1151862ae1c92a8d"
+  },
+  {
+    "file": "CHEMBL1040_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1042_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1050_activities_0_0.json",
+    "sha256": "641d79d2cc266b7f045adfbe0ff50fb811ebf560cf40637712e0acaeefcbc7e8"
+  },
+  {
+    "file": "CHEMBL1059_activities_0_0.json",
+    "sha256": "cb6b19956024c69d514e934005c575925e6647b7829484990e6a21fd7e3d94f4"
+  },
+  {
+    "file": "CHEMBL1079593_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1080884_activities_0_0.json",
+    "sha256": "b3fe07d7a0bd406d4ce0ae03df91835a43bdaad7639a931c45a04a104ea2092e"
+  },
+  {
+    "file": "CHEMBL1083659_activities_0_0.json",
+    "sha256": "5d2989b15d524d1509b5609abbea4407193220faa0ed7552bb7163dac36994d1"
+  },
+  {
+    "file": "CHEMBL1091644_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1094785_activities_0_0.json",
+    "sha256": "16d0561693a5f5d16b759bea1f5ee777a9a6643d5ae4208de078c2107dd0be28"
+  },
+  {
+    "file": "CHEMBL1095032_activities_0_0.json",
+    "sha256": "e8fd95e60443a6eddc1b85212b3e4fdcf0192a035e8e8985fa9fbdc02dfe6afe"
+  },
+  {
+    "file": "CHEMBL1095777_activities_0_0.json",
+    "sha256": "13ce760b1b3f0f0d773cc75eeed2f60454d2167051496fa377aac9e99f9f6ccf"
+  },
+  {
+    "file": "CHEMBL1096927_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL109831_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL114325_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1144_activities_0_0.json",
+    "sha256": "a3c839f3e763524b35d7e7fbb650f6ce053d31484ac16640a0c6b9e3584cfb4a"
+  },
+  {
+    "file": "CHEMBL1171272_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1192519_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1198855_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1200592_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1200661_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1200666_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1200848_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1200963_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1201192_activities_0_0.json",
+    "sha256": "e20007215d8b57153c49a68c4b28cda9e50d7835529ed73a96520b947777d255"
+  },
+  {
+    "file": "CHEMBL1201195_activities_0_0.json",
+    "sha256": "2c9d2ef5a88aee66f4fc4c76e3e06045379e4c72939f9eb7c6b77bd633f87881"
+  },
+  {
+    "file": "CHEMBL1201222_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1201274_activities_0_0.json",
+    "sha256": "82f8fd171179b03558afda1bc748d7b6280bc9e566de305ae2491833f7324cbc"
+  },
+  {
+    "file": "CHEMBL1201281_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1201302_activities_0_0.json",
+    "sha256": "ec79d2118e28c5062e9eb5e0e67008bcd5e9bf176b73a6236e60538956e454b0"
+  },
+  {
+    "file": "CHEMBL1201365_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1201369_activities_0_0.json",
+    "sha256": "695cd51d3feb6fc5feeec2aa02c6b7ba599a1d7328924c18603c44ae238aa4b2"
+  },
+  {
+    "file": "CHEMBL1201373_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1201379_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1201384_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1201391_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1201395_activities_0_0.json",
+    "sha256": "737087057749f574196c9592f5915aca4d489c6ffde4bb1a5a00d4a6d71cad49"
+  },
+  {
+    "file": "CHEMBL1201758_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1201891_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1208017_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1213351_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1214_activities_0_0.json",
+    "sha256": "6b010c88ffa9b45260bdd0ffe59326ea091bdcffcc987596402a2eb9eaa35306"
+  },
+  {
+    "file": "CHEMBL121810_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1229211_activities_0_0.json",
+    "sha256": "630606d074fefc2309dec86b0fc71b1720a8fffb010918be1d34da964bb11b75"
+  },
+  {
+    "file": "CHEMBL1231124_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1232295_activities_0_0.json",
+    "sha256": "5a5023139dffc8592f334d06925d73430b027655f7749c758fa197fbe9cab3cc"
+  },
+  {
+    "file": "CHEMBL1232667_activities_0_0.json",
+    "sha256": "2d4ada9c4109920f5a0bdbcec6056043a7d7af8980cd4124c0489f6b22c60fda"
+  },
+  {
+    "file": "CHEMBL1235551_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1236282_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1237049_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1241590_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1243298_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1254025_activities_0_0.json",
+    "sha256": "b0b1d92e9d4a83b49c3cf9d5d92e566b28789e7f5bd29c7a3a41866a21ba9b8c"
+  },
+  {
+    "file": "CHEMBL1256919_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1277001_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL127_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1290_activities_0_0.json",
+    "sha256": "2d2da0fe4c304fb832a9be2a630b288a506a8e5e21be2e73ad2d7a5e7cea1dca"
+  },
+  {
+    "file": "CHEMBL130_activities_0_0.json",
+    "sha256": "dcfee33d353a95af9528bd95a3b1990003e7249d7dd809f16d9df56a64269935"
+  },
+  {
+    "file": "CHEMBL1329032_activities_0_0.json",
+    "sha256": "a66ca06784c5ee2a1405530428e674c25528526b39f515489a92ec2937a26e17"
+  },
+  {
+    "file": "CHEMBL1346_activities_0_0.json",
+    "sha256": "0de8b19b2d713f69e8429488dc7f107b4cda9e4130b05b3f0d6843271fa0c05e"
+  },
+  {
+    "file": "CHEMBL1349_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1394756_activities_0_0.json",
+    "sha256": "df317101ead67d9a149b98311387eb2b88584a82a096c2ad46bf478830880d18"
+  },
+  {
+    "file": "CHEMBL1412041_activities_0_0.json",
+    "sha256": "03e6605074f1d3e3b904384ecc835e34e1892ea720805ef082abf87c89d2cac7"
+  },
+  {
+    "file": "CHEMBL1422_activities_0_0.json",
+    "sha256": "f497b31b49cc4bf8389e3edc3395f62dd21329996cd385d19c86999fae98cf8f"
+  },
+  {
+    "file": "CHEMBL1436_activities_0_0.json",
+    "sha256": "6d4c57cafc2d661d6f3407ba4867e157e623a880acbc8222434c7492ae8c286d"
+  },
+  {
+    "file": "CHEMBL1443_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1447_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1449_activities_0_0.json",
+    "sha256": "1f853f629a11c2a4e3a9515883085bfcbaba47e83eadb67f9b1bca62d4ffe75c"
+  },
+  {
+    "file": "CHEMBL1450_activities_0_0.json",
+    "sha256": "739a8428fe0826771ced274f26563c3bcfabd0db29a38e8775e00a937f74ad49"
+  },
+  {
+    "file": "CHEMBL1460_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1488165_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1511_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1522_activities_0_0.json",
+    "sha256": "d30d076c68bb963b9537dd9b31cb35d2b9c6ab7be9453542470d15626b55ad59"
+  },
+  {
+    "file": "CHEMBL1543_activities_0_0.json",
+    "sha256": "a4fc0fe786db9af86c9d4ca752d2f9599ba6376ca3e22759e11b91978314fb1a"
+  },
+  {
+    "file": "CHEMBL1551_activities_0_0.json",
+    "sha256": "b6638cd45adab72c047c40e9b274e9fb5c2624affeec3a77c0130ff8cba19249"
+  },
+  {
+    "file": "CHEMBL155886_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1581_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1590076_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1592_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL159660_activities_0_0.json",
+    "sha256": "cf7d9531f893b6c223570f219b0ec22124c22e48cf8f00ed7be2e3b5635cb839"
+  },
+  {
+    "file": "CHEMBL1601669_activities_0_0.json",
+    "sha256": "2d301fee00b3b6f2fc4e153a7da3d7c4ea5bcd915c97b06a2509b80bf7b5d293"
+  },
+  {
+    "file": "CHEMBL1604_activities_0_0.json",
+    "sha256": "a94ebaaa1dab48b1730364ab55277639070ae1cea101268d3aeac7f178dcb3ea"
+  },
+  {
+    "file": "CHEMBL160629_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1609891_activities_0_0.json",
+    "sha256": "92ec1179f146dd4e12c1fdb566f2667c93bd5c4ce8e5671daaa2a2d0fc0712fe"
+  },
+  {
+    "file": "CHEMBL1614637_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1624_activities_0_0.json",
+    "sha256": "cfef20d4f697f494a9207e29dd89fc1ed75895797ebc215384e597a8c571fd4f"
+  },
+  {
+    "file": "CHEMBL1626_activities_0_0.json",
+    "sha256": "ad63eefede8f074e48745421b8ecfed62f0a7fd5043960d9d2fad15f0555ce1c"
+  },
+  {
+    "file": "CHEMBL1630563_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1651913_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1661_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1673408_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL171679_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1721885_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1730_activities_0_0.json",
+    "sha256": "b15d9ea45d60c8053e3d0842d2bf89136b5ffce7f2a29a20de00d87960434b8d"
+  },
+  {
+    "file": "CHEMBL1733_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1740361_activities_0_0.json",
+    "sha256": "819d033daa70506c23030d41eb107944852e1b734866f39af0d2d8601e5ee316"
+  },
+  {
+    "file": "CHEMBL1742483_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1753_activities_0_0.json",
+    "sha256": "43d917ee1deb065a1fe3840f16fb6c2df8bb93c1af16af46f4a31e9fde433ccd"
+  },
+  {
+    "file": "CHEMBL1764_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1808388_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1812063_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL181954_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1829335_activities_0_0.json",
+    "sha256": "d2fa137e3bf5bf548d62d0beb64de497ae238a1b5a2799c78e753c67e2fb9d53"
+  },
+  {
+    "file": "CHEMBL188361_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL188462_activities_0_0.json",
+    "sha256": "7e792fba2bb91eb9257ec960ab12ab522d3c0cba94c57dc55fbdb61ac11dd9ba"
+  },
+  {
+    "file": "CHEMBL1894187_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL189475_activities_0_0.json",
+    "sha256": "d8f7cf6d7b05cf87eae86d1c7aaf32faefe7b1e288a41153322a22ffcace5ca9"
+  },
+  {
+    "file": "CHEMBL1908314_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL19215_activities_0_0.json",
+    "sha256": "e5778fc6085753754bc544d9ec9656995544536b04190dbc12c4955a99f81eee"
+  },
+  {
+    "file": "CHEMBL1921847_activities_0_0.json",
+    "sha256": "26e09c39007d2841dcc76f6e739818cbab784c3ec4f22245abac9bd124cb978a"
+  },
+  {
+    "file": "CHEMBL1921976_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL1929396_activities_0_0.json",
+    "sha256": "4abf4c415eeee1c7609b562416dbb3b8bd3da1263cca92ef054c1e48d829995e"
+  },
+  {
+    "file": "CHEMBL1940832_activities_0_0.json",
+    "sha256": "673f7358de23f367abf707c64217e9e4f67882cdf1bbb4c956556591b370e045"
+  },
+  {
+    "file": "CHEMBL1946186_activities_0_0.json",
+    "sha256": "aafe4b122fa61b2320907d5ac962ba7b0f56cdcda0b3f6ca4a8e30c10b97625e"
+  },
+  {
+    "file": "CHEMBL19611_activities_0_0.json",
+    "sha256": "6bf871fb030b6041d64ed87e8f09802c21b77aa7d628fe111e21a9beb3e440be"
+  },
+  {
+    "file": "CHEMBL1980825_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL198362_activities_0_0.json",
+    "sha256": "c519b1b3495954988a1c4c25857626b9d1ce0bc1d640b55fcc651f0891451fbc"
+  },
+  {
+    "file": "CHEMBL2023705_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2028019_activities_0_0.json",
+    "sha256": "f9b5377ca30e539d9d8298f49c3340f8c485c764b5fc2cf0f7a4bcf1ba0d3b79"
+  },
+  {
+    "file": "CHEMBL2048484_activities_0_0.json",
+    "sha256": "0f3d8195cd857908f07a723e864b793b87ce99fd455a915b097cedffdc7c882b"
+  },
+  {
+    "file": "CHEMBL2051955_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL206815_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2095212_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2103764_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2103767_activities_0_0.json",
+    "sha256": "a694a32c4c2f648081d03b7f631dca5e8a470b09b691286ad24da508ef023bc6"
+  },
+  {
+    "file": "CHEMBL2103775_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2103790_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2103824_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2103829_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2103836_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2103842_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2103847_activities_0_0.json",
+    "sha256": "e79b1fecf9f106b958704413d83ad6351a089b3bd0596600f55fe62bb3a85071"
+  },
+  {
+    "file": "CHEMBL2103869_activities_0_0.json",
+    "sha256": "25b6972f3666ddbcedee4f895b608537bd0cd2eba6d1c899dbd1414a07d22614"
+  },
+  {
+    "file": "CHEMBL2103877_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2103882_activities_0_0.json",
+    "sha256": "4d1202b6c3d150f5292852490fd5aed89503237935b6e542c7eddf646725197c"
+  },
+  {
+    "file": "CHEMBL2104004_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104023_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104067_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104091_activities_0_0.json",
+    "sha256": "5d76b4917bcfabcfe5b52355c6fed738e3d91706864085a576856dbd8ece404f"
+  },
+  {
+    "file": "CHEMBL2104194_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104211_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104242_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104285_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104398_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104469_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104497_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104498_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104567_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104586_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104590_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104617_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104634_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104656_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104660_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104662_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104740_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104748_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104860_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104862_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104890_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104917_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104994_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2104996_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105074_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105118_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105160_activities_0_0.json",
+    "sha256": "4c5a16dc383d578756dbf3bd0b6eea7d0681b04fd5b88fd1c0a02fbba8fa33c5"
+  },
+  {
+    "file": "CHEMBL2105197_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105210_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105239_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105249_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105348_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105377_activities_0_0.json",
+    "sha256": "11b88e05d3b470fdcb109f822ea4a627e9df7bfc1e77eb5aec8977f06d4ccd83"
+  },
+  {
+    "file": "CHEMBL2105388_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105403_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105429_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105502_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105565_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105602_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105604_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105669_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105683_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105761_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105909_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2105926_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106009_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106110_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106248_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106298_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106341_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106368_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106548_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106601_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106649_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106685_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106813_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106816_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106877_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106965_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106972_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2106981_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107020_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107026_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107045_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107118_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107228_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107301_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107303_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107328_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107361_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107413_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107529_activities_0_0.json",
+    "sha256": "61861ffea711a48464fe6eeebb91b78b8dbee435b31384a06a4b86232d3a0cd0"
+  },
+  {
+    "file": "CHEMBL2107583_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107586_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107614_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107669_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107773_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2107804_activities_0_0.json",
+    "sha256": "3fa065697e94eb97c34b0b750cb0a82e667ad198b9d87d15fd5064b65622e25a"
+  },
+  {
+    "file": "CHEMBL2107822_activities_0_0.json",
+    "sha256": "6f3aeb26c57a9cb324bb501620af317459ebd949b538168d329df3c4381262fa"
+  },
+  {
+    "file": "CHEMBL2110625_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2110627_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2110640_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2110666_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2110731_activities_0_0.json",
+    "sha256": "9047d13ba9e901b47b4b8e37039aa7bfe6e33338180ca51a6c0cfdbf8328d494"
+  },
+  {
+    "file": "CHEMBL2110737_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2110886_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2110936_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2110953_activities_0_0.json",
+    "sha256": "c0e473d002c6633b5ca8db7b761e5f995e3d1cdc091ac9093f19a9085c6f97ad"
+  },
+  {
+    "file": "CHEMBL2110976_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2111156_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2151591_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2159227_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2160007_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2165224_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL220190_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2206292_activities_0_0.json",
+    "sha256": "3a3157a83d3a274cec69a2d11eb05cfcec39cb2b83123c32a6210d84f46f7f33"
+  },
+  {
+    "file": "CHEMBL220808_activities_0_0.json",
+    "sha256": "b91ffb207a49328e74de4f13d3d733b3f1b1453ea6e4c54dced78f7469397da3"
+  },
+  {
+    "file": "CHEMBL2219422_activities_0_0.json",
+    "sha256": "fef75102032bcb7adff3f5769574569ae0bcf4621ffc9f9726f72133808abb96"
+  },
+  {
+    "file": "CHEMBL2221292_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL22242_activities_0_0.json",
+    "sha256": "250ae4a12e774ed540d59cc1c15f5f8b79a3e11c99e8cd3109c4067ce2b197c5"
+  },
+  {
+    "file": "CHEMBL223585_activities_0_0.json",
+    "sha256": "6dcfea01a8609a7928efad1946cc3af9cebd0cc501ab9bfdbb0bf1d57fe99fe0"
+  },
+  {
+    "file": "CHEMBL225072_activities_0_0.json",
+    "sha256": "e4653dc3647738ab53b0f4fa8827d00bef7f61dc674b2ec6bef12017fa3e6b20"
+  },
+  {
+    "file": "CHEMBL225157_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL227875_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2325741_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL232656_activities_0_0.json",
+    "sha256": "aa3bb1a105ce0cfeb7e7ca8bf51c2dc6f59a74b89df6c7b294cffd7dd02635f1"
+  },
+  {
+    "file": "CHEMBL232875_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2368199_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2375142_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2375143_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2387742_activities_0_0.json",
+    "sha256": "d6210fd25d33d89ca3e92e69bd1cfe202f39fdfb18a4ea453b9f394ed33f5c66"
+  },
+  {
+    "file": "CHEMBL24038_activities_0_0.json",
+    "sha256": "3aab27bb4a07f8170d4540eb95ea543f3ef9ac58ac55f4196f251902ed9bb9bc"
+  },
+  {
+    "file": "CHEMBL2441929_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL2443262_activities_0_0.json",
+    "sha256": "ad19ee188c9123dc547a8209a259ca312f0aac76eb4358b43e8bc4e1fe07e146"
+  },
+  {
+    "file": "CHEMBL253582_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL255231_activities_0_0.json",
+    "sha256": "27294dbec21a5a0aabd41aef4ba43fa0260a2b781da76837dfbccaa19a429dd8"
+  },
+  {
+    "file": "CHEMBL260402_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL261932_activities_0_0.json",
+    "sha256": "2d63b3d71be35bcefda69ff860b62ee41fb700266bd648cbdad83170eac85e30"
+  },
+  {
+    "file": "CHEMBL267044_activities_0_0.json",
+    "sha256": "e8216beacb48ad3ad1711f82d2bfb36f4f6a15fbabf6580a0ecd0f5bf2166eae"
+  },
+  {
+    "file": "CHEMBL269446_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL271896_activities_0_0.json",
+    "sha256": "aa46a927e1ccc13e4c93c00483c377af8ef4b2420d7257506a0776d27be61d3c"
+  },
+  {
+    "file": "CHEMBL272621_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL276568_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL279260_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL281724_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL282575_activities_0_0.json",
+    "sha256": "49ca0ddbe46ed1ac41447bd915cea6588cb787d71b6984f7bd65d6c969f818b9"
+  },
+  {
+    "file": "CHEMBL282686_activities_0_0.json",
+    "sha256": "4c32609c071c25a71d69b8cba405bffe37a891c79f67b985647a9c2906115fe4"
+  },
+  {
+    "file": "CHEMBL284121_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL289556_activities_0_0.json",
+    "sha256": "50521b93f76d0f554cab6bdd8f66e6e626266588f5ffa6cf512a6f782b4e088b"
+  },
+  {
+    "file": "CHEMBL29_activities_0_0.json",
+    "sha256": "10df56df2f3974c5c91d9c32b16f830fd921a602173b7a9463ddd7e079c285e3"
+  },
+  {
+    "file": "CHEMBL3039503_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3039507_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3039531_activities_0_0.json",
+    "sha256": "e302666db18a977cb0e11c686901209acae807376820be25ee681f7dc50246b7"
+  },
+  {
+    "file": "CHEMBL3039733_activities_0_0.json",
+    "sha256": "47cd6aa49e2cab48ca7aa0590ce69fb03479139e46565a5c44a6fe38fce08a7e"
+  },
+  {
+    "file": "CHEMBL3137301_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3137306_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3137314_activities_0_0.json",
+    "sha256": "5ef5a95d4cedc2dc6338e0f6458f9806ac844df9bf5a70b4a255e7cad398ee66"
+  },
+  {
+    "file": "CHEMBL3137336_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL318191_activities_0_0.json",
+    "sha256": "9f170c131b4ff8f302ca878dd6bb70f7717b89ac9824c0c939863eac4dd9a4ad"
+  },
+  {
+    "file": "CHEMBL3187812_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL318859_activities_0_0.json",
+    "sha256": "f1ec467506816791e299a8493899b648940a4a7bf0f98a01f8755fa8c4d32934"
+  },
+  {
+    "file": "CHEMBL325695_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL328190_activities_0_0.json",
+    "sha256": "e6ed89d13da5ec9c0eb0281934ed1f3eb6be77e90f2282bd392eb7fc4cb16aa4"
+  },
+  {
+    "file": "CHEMBL32_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3301601_activities_0_0.json",
+    "sha256": "a4c22767c56bdc27870d7ebe6e148affa7b110986edc795de3732d09ef172a9a"
+  },
+  {
+    "file": "CHEMBL331369_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3334567_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL333950_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3341939_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3348932_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL336920_activities_0_0.json",
+    "sha256": "3dbe030753d209870a7acbe31dcd8697bad2201a2991ebb24b78a83a3d35dcb0"
+  },
+  {
+    "file": "CHEMBL3393588_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL341421_activities_0_0.json",
+    "sha256": "e579c2245d12bed111848a5e26b9f3773aac1c5efeda3e201a35fd15c6a511e1"
+  },
+  {
+    "file": "CHEMBL342372_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3426621_activities_0_0.json",
+    "sha256": "fe6772f1d0be25cdce2aac599336001eabce4df9987fab47814ba648981e79a6"
+  },
+  {
+    "file": "CHEMBL3527358_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3544964_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3545035_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3545040_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3545254_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3580737_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL359164_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3608680_activities_0_0.json",
+    "sha256": "b0dcca33e9144e4fc7855756358d65803ccef2c2028eca86dd51ad82ef0c6e2f"
+  },
+  {
+    "file": "CHEMBL3613118_activities_0_0.json",
+    "sha256": "a00c2e87a94913146560a9e303feb31430beb843dfeef7cb3beab2f1260dee94"
+  },
+  {
+    "file": "CHEMBL361812_activities_0_0.json",
+    "sha256": "8bcf67a9ae6c09b14ec0df84f8a46391f274e75a2af5b7e7adbbc50b62d5219b"
+  },
+  {
+    "file": "CHEMBL364713_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3651966_activities_0_0.json",
+    "sha256": "77a4a8154f6b25599c796b1b2cfd29d7cdf03e58aa9190509bc40382d3828f4d"
+  },
+  {
+    "file": "CHEMBL368347_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3703921_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3707394_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL376359_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL377300_activities_0_0.json",
+    "sha256": "1a108d27a768f4723825c73850bf28b03b7a5473555069cdea8180e3e911596c"
+  },
+  {
+    "file": "CHEMBL3786182_activities_0_0.json",
+    "sha256": "d94e2aa31d830e499a9174dbe2e4d01b9ae99f71c02a85103d5d66cbef06d92d"
+  },
+  {
+    "file": "CHEMBL380230_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3889654_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3900409_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3914857_activities_0_0.json",
+    "sha256": "0433f98f6442244e7bb96879d032df5c88c542cd548f03b596cc314b89956207"
+  },
+  {
+    "file": "CHEMBL3916243_activities_0_0.json",
+    "sha256": "ab3ce5f086c0a27e394f04b684397aa0d37f20a617a48a5574abce648b3fe7df"
+  },
+  {
+    "file": "CHEMBL3962292_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3979920_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL398338_activities_0_0.json",
+    "sha256": "f62b156fee70183df02a8d01687a1514738baf672e4a4c10422293609e95ed61"
+  },
+  {
+    "file": "CHEMBL398463_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3989429_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3989445_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3989446_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3989470_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3989477_activities_0_0.json",
+    "sha256": "8a57b69cb224f346d37ee69f501f7b591f9caa5314e35ee4859da75e0ff6d07c"
+  },
+  {
+    "file": "CHEMBL3989489_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3989493_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3989502_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3989548_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3989666_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3989776_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3989812_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3989883_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL3989951_activities_0_0.json",
+    "sha256": "4094d5de2515f1c0e941c1d63836b24b06cda287a6dab527cb03f099847a0d14"
+  },
+  {
+    "file": "CHEMBL39933_activities_0_0.json",
+    "sha256": "811e3cf729b758b9ca49b6de8e1ea762335516bd89e4dd3eada2214ef2d81c35"
+  },
+  {
+    "file": "CHEMBL4060569_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4069349_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4079239_activities_0_0.json",
+    "sha256": "ba71773e38f98edd756b85b46b091f7ae4a35f4c23957d0f786cddc18bc45c6a"
+  },
+  {
+    "file": "CHEMBL4081711_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL409153_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4110551_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4127030_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL416578_activities_0_0.json",
+    "sha256": "51660d30f9528dbd2bc4a51afdd1cd205851624900332d6616fc89463aa38395"
+  },
+  {
+    "file": "CHEMBL4205422_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL424278_activities_0_0.json",
+    "sha256": "e93ddcacfd47d341ad38f08a1011603bf8d28b8db8448fe60df2a57033539e07"
+  },
+  {
+    "file": "CHEMBL426559_activities_0_0.json",
+    "sha256": "e5da1fee773fb2af6b42408e2d1eb668ae93c7bd721580c7efebdcddb98f77a3"
+  },
+  {
+    "file": "CHEMBL4285417_activities_0_0.json",
+    "sha256": "c9695bb0bd6368497ec1062774075be984ea86ebd546a1d464efc7bbb667e0ff"
+  },
+  {
+    "file": "CHEMBL4297266_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297287_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297350_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297370_activities_0_0.json",
+    "sha256": "923d7472deab9b055be9b4ddd960290fdcceb62e07a0100bf618f1b4ae77d799"
+  },
+  {
+    "file": "CHEMBL4297389_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297406_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297435_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297477_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297479_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297484_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297500_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297508_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297517_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297600_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297602_activities_0_0.json",
+    "sha256": "c2b6c75fbcec9c7c47ba87a1f9326a0c1623ad07ad019d12000d20db966b3ad3"
+  },
+  {
+    "file": "CHEMBL4297620_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297621_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4297624_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4298165_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4300558_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4300766_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4303615_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL434492_activities_0_0.json",
+    "sha256": "ca116f0fe26675373cef625155d88a6898544924f7bb53d4952dda6c62bfb52f"
+  },
+  {
+    "file": "CHEMBL440115_activities_0_0.json",
+    "sha256": "d6591e35f5eef3386219671bb5f0ce0baa6c38e9cd6879aebb49f0d74204d75e"
+  },
+  {
+    "file": "CHEMBL441765_activities_0_0.json",
+    "sha256": "dcf0a7c1d3be786033dbde5f3861ea486ddfdc1431e00536a548b4a9bf5a7b71"
+  },
+  {
+    "file": "CHEMBL4438249_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4446357_activities_0_0.json",
+    "sha256": "fdd9d5f231200cdd596e265c711841eeb5771f4c4cd28b1127a6ac5bbc39a4f8"
+  },
+  {
+    "file": "CHEMBL444814_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4459585_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4462530_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL448343_activities_0_0.json",
+    "sha256": "9255153bcfa6c07d64c960ef0b343aae6f013460d20eb8021a0e230df9d7ddaf"
+  },
+  {
+    "file": "CHEMBL455186_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL456029_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4571075_activities_0_0.json",
+    "sha256": "41eeffd96ee2df03572ea0e7ae526899b0e4e56372f9a63a002c03ddeea29be7"
+  },
+  {
+    "file": "CHEMBL4594372_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4594373_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4594376_activities_0_0.json",
+    "sha256": "a2f41a8fb69f3faff6b1e165e98de574ebe7327e7349bfa81a4d4af0c5388c43"
+  },
+  {
+    "file": "CHEMBL4594408_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4594439_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL462394_activities_0_0.json",
+    "sha256": "7a5db2d64d114f8d668a9bde482cbdeb42c79fb3523c3b273c661c7d6ab47eb8"
+  },
+  {
+    "file": "CHEMBL4649457_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4650322_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4650341_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4650343_activities_0_0.json",
+    "sha256": "b1c12c6acbee544a6131e56efbfa8da43abfc20eb914482cc721b2257c1aa1ee"
+  },
+  {
+    "file": "CHEMBL4650367_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4650521_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4650989_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL467084_activities_0_0.json",
+    "sha256": "69651ca56b1b43cd232695d70905a3419ca5b1e6f03b5120685639711c6da76f"
+  },
+  {
+    "file": "CHEMBL467888_activities_0_0.json",
+    "sha256": "b7d7e9bacf47200e3d5b6a7e7bb04ae5299c89bbd33736553d8e06e702566d43"
+  },
+  {
+    "file": "CHEMBL473882_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL475717_activities_0_0.json",
+    "sha256": "96ab1ff96e3e007661dff51c2a3f0f54ea670f875124df21fe993068ae8df1c0"
+  },
+  {
+    "file": "CHEMBL4760665_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4778760_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4792487_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4802153_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL4802226_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL480558_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL485652_activities_0_0.json",
+    "sha256": "ed3d033e49340797783e5f18d27d3868ec21359dde81ab6fb38da5ac040c9ac3"
+  },
+  {
+    "file": "CHEMBL489095_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL489411_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL494_activities_0_0.json",
+    "sha256": "3d8e84de65294cbc8a87be2d28b899a84f9cbb755ff2ca3aa9a15fa8d6f40fcb"
+  },
+  {
+    "file": "CHEMBL495_activities_0_0.json",
+    "sha256": "8a4e86f9acb2681cb3b72cca2f6c420ce8a8d986a25d0587deaf679895cf0d8a"
+  },
+  {
+    "file": "CHEMBL498672_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5087506_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5095072_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5095076_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5095081_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5095095_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5095097_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5095165_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5095206_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5095217_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5095218_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5095230_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5095240_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5095243_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5095251_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5095395_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL514446_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL514800_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL515408_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL515606_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5170587_activities_0_0.json",
+    "sha256": "5181d9fb8dc7990b7da9577669025dcc743ba8ca7b52d6c0921d1a2af4505391"
+  },
+  {
+    "file": "CHEMBL5182222_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL518924_activities_0_0.json",
+    "sha256": "8b9abb4a12b00a49adc6793038aaec07955abad8dd58fd6d073d7996966ff80d"
+  },
+  {
+    "file": "CHEMBL519504_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL529888_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL530_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5314401_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5314424_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5314449_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5314472_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5314494_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5314521_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5314526_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5314583_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5314907_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5314927_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5314950_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5314965_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5315132_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5316158_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL5316159_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL548_activities_0_0.json",
+    "sha256": "45512c385f728d38291cebe9a2a264fcd9713f2b4ce8ed57d096714d4667c0fa"
+  },
+  {
+    "file": "CHEMBL550_activities_0_0.json",
+    "sha256": "ceb5603b0af6c06830f95f97a80b26937c4782f1ce43e1788742f4b6e75ce5a5"
+  },
+  {
+    "file": "CHEMBL562967_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL563251_activities_0_0.json",
+    "sha256": "f8fdbed630c8884d114458d96cb1c13f765629d2d59f562b3487e8167010c20f"
+  },
+  {
+    "file": "CHEMBL577711_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL581_activities_0_0.json",
+    "sha256": "1c233a62ec6af2fbe8b8d8463d25f06c9754144c510ed381b6087d3ab570be9e"
+  },
+  {
+    "file": "CHEMBL582912_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL58323_activities_0_0.json",
+    "sha256": "39dd5cdb192877ceb82a769b237d48a04558fd0d0009ae982a8201dfa0ffdb05"
+  },
+  {
+    "file": "CHEMBL594621_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL601719_activities_0_0.json",
+    "sha256": "6473bf9ed74fd0b6715bde68348054f4646df17ec035814bdb093b30a121b816"
+  },
+  {
+    "file": "CHEMBL602070_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL605846_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL638_activities_0_0.json",
+    "sha256": "6bc70ef5e0a7aef1452ade3feef3b93504d5ccba15663a951c338221f524617d"
+  },
+  {
+    "file": "CHEMBL6622_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL68117_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL70611_activities_0_0.json",
+    "sha256": "ab8d636e482b2dfcfb2fa95ffa71fa98edc48e70332ef11e63e22856ac9e5a67"
+  },
+  {
+    "file": "CHEMBL779_activities_0_0.json",
+    "sha256": "d59bbd01feddfe79a1e7183061005065ca5a089918fe68cfa9647a2290c0450b"
+  },
+  {
+    "file": "CHEMBL783_activities_0_0.json",
+    "sha256": "a32c6ece297e1bbfa82ee932821460cebab0e9e1ea1a4622c136850f3bc98a4c"
+  },
+  {
+    "file": "CHEMBL857_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL8809_activities_0_0.json",
+    "sha256": "c86e99f9266185177c92240d6c41b76f2a46691a8c899779a32f049170837734"
+  },
+  {
+    "file": "CHEMBL88240_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL90564_activities_0_0.json",
+    "sha256": "c300e4d53296ed633d6fca4a6351ce006f2a643deb747d39c830ee9b6a1d83fe"
+  },
+  {
+    "file": "CHEMBL927_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL94739_activities_0_0.json",
+    "sha256": "5325267239b527cda2f64faa1d11afb38f3b622f418d2328d64555f966101603"
+  },
+  {
+    "file": "CHEMBL95636_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL96153_activities_0_0.json",
+    "sha256": "73547356906ce483bb2d8c3446c2a1f02c65fe4965da301ddf83e1bb3f697c13"
+  },
+  {
+    "file": "CHEMBL9960_activities_0_0.json",
+    "sha256": "a12cc644d7c02663e05e355043557137b658b4d80664f313d20a91b9060ef770"
+  },
+  {
+    "file": "CHEMBL996_activities_0_0.json",
+    "sha256": "8150b52dfa9d07be5297169f1bd8238638836545020382afa5cb47e11e1065b2"
+  },
+  {
+    "file": "CHEMBL99_activities_0_0.json",
+    "sha256": "a48fd14c6b6aba18ffddd163d6268d9893dd08c429ce31ccb4b178780557ace3"
+  },
+  {
+    "file": "assay_metadata_0.json",
+    "sha256": "9ee2509aa60da6270c5fa7e0da005885cf9d6feb7ddcc6de4a6817fcaa587f89"
+  },
+  {
+    "file": "assay_metadata_100.json",
+    "sha256": "7637e685d625102215fa8268ed8a705a40f70b023bec2fa58d50f4ed535619b6"
+  },
+  {
+    "file": "assay_metadata_1000.json",
+    "sha256": "050c1b437b10c8f69f5d67ba2b44015ba31a4a659930be32b4b61aabd6c21a08"
+  },
+  {
+    "file": "assay_metadata_1100.json",
+    "sha256": "baeecfa9a45d8095d36e6acf2e332d11ae772053ae5811f2b7688908f1abee8d"
+  },
+  {
+    "file": "assay_metadata_1200.json",
+    "sha256": "ed5c53904d0d8d4e5fa7889cd01fe02736485a8dabb8064a822055d253ff87b1"
+  },
+  {
+    "file": "assay_metadata_200.json",
+    "sha256": "bac7c0e3d854894df447890593303313b8e0c8e4ec6e0a6078401a9fce8f4a99"
+  },
+  {
+    "file": "assay_metadata_300.json",
+    "sha256": "8d6c9b83f3980f43a9e9f3508c9ed56ea4992281cd235d0aa559f35e09f00763"
+  },
+  {
+    "file": "assay_metadata_400.json",
+    "sha256": "4b20318eb191387d59264e6ad14ca5aaec2617503ded2cd898cfc7251926f383"
+  },
+  {
+    "file": "assay_metadata_500.json",
+    "sha256": "de22d242349bd2116d8c91f14909201f587d7b97a688d78b638c7d1af71da773"
+  },
+  {
+    "file": "assay_metadata_600.json",
+    "sha256": "45703b555ecd8b8408696da8793e6c86e1b602b93feadfc4ed7a50f1f20aa892"
+  },
+  {
+    "file": "assay_metadata_700.json",
+    "sha256": "03e7a8a6edb755546c8dcfc1380c88e593adf5e2f0a3f6d96207d484058033db"
+  },
+  {
+    "file": "assay_metadata_800.json",
+    "sha256": "2b802b50b373cbcceb67f83cd7cba5d121b2c33f1ae9494c48701a504d2cfed3"
+  },
+  {
+    "file": "assay_metadata_900.json",
+    "sha256": "28ed5b15d757d81f61419aa5c33264c658de80bbb706d362c9e56d1a75162f95"
+  },
+  {
+    "file": "target_metadata_0.json",
+    "sha256": "45069be1670bea656b9498c63967721c9b68645a85ffa2cc43098f92c3305966"
+  },
+  {
+    "file": "target_metadata_100.json",
+    "sha256": "355541352fcdc22595d09136c51c89eae87a64071093a3b1b3db951ea483bd0d"
+  },
+  {
+    "file": "target_metadata_200.json",
+    "sha256": "895850de27ee1702e267b342cde8d9d63ed33a9fd86c94008ce74ef48b6807c6"
+  },
+  {
+    "file": "target_metadata_300.json",
+    "sha256": "598202bf11b7610634fac35eba2e759869978cb8185dab5df5e952eecad1392f"
+  }
+]
