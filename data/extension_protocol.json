@@ -48,10 +48,11 @@
     "independence_boundary": "source/generated conformers are empirical support points, not asserted independent equilibrium draws"
   },
   "biological_validation": {
-    "discovery_source": "MoleculeACE current Ki tables at commit 7e6de0bd2968c56589c580f2a397f01c531ede26",
-    "discovery_use": "structural candidate discovery only; do not use preaggregated potency or original train/test split as assay validation",
-    "candidate_graph_limit": 128,
-    "selection": "same structural criteria; >=2 distinct fully specified stereoisomers within a Ki source target; SHA256(achiral SMILES plus seed label) order",
+    "discovery_source": "the same 512 outcome-blind 3DCS molecular parents selected for the external benchmark",
+    "discovery_use": "query ChEMBL for same-connectivity molecules and fresh exact Ki measurements; do not use source-preaggregated potency or previous train/test labels",
+    "candidate_graph_limit": 512,
+    "selection": "same fixed 512-parent structural selection and hash order as the external conformer benchmark, before any descriptor outcomes",
+    "acquisition_amendment": "MoleculeACE current 23 Ki tables (commit 7e6de0bd2968c56589c580f2a397f01c531ede26, 40220 source rows) yielded zero within-target stereoisomer graph groups under the frozen structural criteria. Before descriptor or activity-outcome analysis, replace that unavailable candidate source with the existing 512-parent benchmark cohort. Endpoints and eligibility filters are unchanged. Preserve the negative discovery census.",
     "activity_source": "fresh ChEMBL API raw snapshots and original assay/document/target identifiers",
     "activity_filters": {"standard_type":"Ki","standard_relation":"=","standard_units":"nM","assay_type":"B","pchembl_value":"finite and reconstructable from positive standard_value","data_validity_comment":"null","potential_duplicate":"exclude if flagged"},
     "target_filters": {"target_type":"SINGLE PROTEIN","organism":"Homo sapiens","assay_confidence_score":9},
