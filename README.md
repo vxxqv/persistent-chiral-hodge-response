@@ -4,6 +4,8 @@ Research software, selected source data and generated molecular geometries for p
 
 Author: Vivaan Patni (GitHub: vxxqv).
 
+Archived software/data release v0.2.0: [Zenodo DOI 10.5281/zenodo.23741545](https://doi.org/10.5281/zenodo.23741545). The immutable release is tagged `v0.2.0`; the later citation-pointer commit does not alter its scientific code or archived files.
+
 ## Scope
 
 The software computes a reflection-odd triangle cochain, the real persistent Laplacian with its inherited inner product, signed readouts, proper-rigid shape derivatives, odd Gaussian kernel means and covariance-resolvent scores. The extension includes 512 external parents / 5,514 source conformers, and a separately curated biological cohort of 143 same-assay binding comparisons / 103 parents / 65 human targets, with 1,648 generated conformers. Generated geometries are not experimental structures or equilibrium trajectories. Measured ChEMBL binding records are archived separately with their assay and target identities.

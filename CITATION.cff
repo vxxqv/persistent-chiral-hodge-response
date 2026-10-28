@@ -3,6 +3,7 @@ message: "Please cite the archived software and data release."
 type: software
 title: "Persistent Chiral Hodge Response: ensemble geometry and biological evaluation"
 version: 0.2.0
+doi: 10.5281/zenodo.23741545
 date-released: 2026-10-28
 authors:
   - family-names: Patni
