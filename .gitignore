@@ -14,3 +14,9 @@ manuscript/
 *.pdf
 *.zip
 !figures/*.pdf
+results/external/
+research/differential-geometry.md
+figure_exports/
+figure_cache/
+figure_qa/
+replay/
