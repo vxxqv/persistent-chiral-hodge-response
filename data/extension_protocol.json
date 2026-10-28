@@ -1,6 +1,7 @@
 {
-  "version": "1.0",
-  "frozen_before_descriptor_outcomes": true,
+  "version": "1.1",
+  "original_primary_protocol_frozen_before_descriptor_outcomes": true,
+  "biological_cohort_addition_before_biological_descriptor_association": true,
   "branch": "one coherent extension: reflection-odd geometry of conformer measures and target-conditioned biological recognition",
   "selection_seed_label": "pchr-ensemble-20261028:",
   "structural_criteria": {
@@ -48,10 +49,12 @@
     "independence_boundary": "source/generated conformers are empirical support points, not asserted independent equilibrium draws"
   },
   "biological_validation": {
-    "discovery_source": "the same 512 outcome-blind 3DCS molecular parents selected for the external benchmark",
+    "discovery_source": "256 hash-selected constitutional graphs from the original Chiral Cliffs ChEMBL23 supplement; the linked 512-parent 3DCS activity census is retained separately",
     "discovery_use": "query ChEMBL for same-connectivity molecules and fresh exact Ki measurements; do not use source-preaggregated potency or previous train/test labels",
-    "candidate_graph_limit": 512,
-    "selection": "same fixed 512-parent structural selection and hash order as the external conformer benchmark, before any descriptor outcomes",
+    "candidate_graph_limit": 256,
+    "selection": "1177 original Ki/nM rows; 717 satisfy the unchanged 6-32-heavy-atom, single-component, fully assigned tetrahedral stereo and same-graph pair criteria. Select first 256 by SHA256(seed label plus achiral SMILES), yielding 512 original compound IDs; ignore all original potency, cliff and ambiguity labels",
+    "supplement_source_url": "https://chemistry-europe.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fcmdc.201700798&file=cmdc201700798-sup-0001-misc_information.zip",
+    "cohort_addition_timing": "Added after structural qualification of the linked 3DCS cohort yielded 7 same-assay human single-protein parents, and after the independent 3DCS representation benchmark. Before calculating descriptor/activity associations on the Chiral Cliffs cohort. Preserve linked-cohort results and label the acquisition amendment; do not call this externally preregistered.",
     "acquisition_amendment": "MoleculeACE current 23 Ki tables (commit 7e6de0bd2968c56589c580f2a397f01c531ede26, 40220 source rows) yielded zero within-target stereoisomer graph groups under the frozen structural criteria. Before descriptor or activity-outcome analysis, replace that unavailable candidate source with the existing 512-parent benchmark cohort. Endpoints and eligibility filters are unchanged. Preserve the negative discovery census.",
     "activity_source": "fresh ChEMBL API raw snapshots and original assay/document/target identifiers",
     "activity_filters": {"standard_type":"Ki","standard_relation":"=","standard_units":"nM","assay_type":"B","pchembl_value":"finite and reconstructable from positive standard_value","data_validity_comment":"null","potential_duplicate":"exclude if flagged"},
