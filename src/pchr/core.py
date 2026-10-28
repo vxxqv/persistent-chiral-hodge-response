@@ -23,10 +23,19 @@ def rips(x: np.ndarray, radius: float) -> dict[int, list[tuple[int, ...]]]:
     if radius < 0 or not np.isfinite(radius):
         raise ValueError("Radius must be finite and nonnegative")
     d = distances(x)
-    out = {0: [(i,) for i in range(len(x))]}
-    for q in (1, 2, 3):
-        out[q] = [s for s in combinations(range(len(x)), q + 1)
-                  if all(d[i, j] <= radius for i, j in combinations(s, 2))]
+    # Enumerate cliques, avoiding the O(n^4) test over all quadruples in a
+    # sparse molecular neighbourhood graph. Sorted output preserves orientation.
+    neighbours = [set(np.flatnonzero(d[i, i+1:] <= radius) + i + 1)
+                  for i in range(len(x))]
+    out = {0: [(i,) for i in range(len(x))], 1: [], 2: [], 3: []}
+    for i in range(len(x)):
+        for j in sorted(neighbours[i]):
+            out[1].append((i, j))
+            common = neighbours[i] & neighbours[j]
+            for k in sorted(common):
+                out[2].append((i, j, k))
+                out[3].extend((i, j, k, ell)
+                              for ell in sorted(common & neighbours[k]))
     return out
 
 
@@ -121,7 +130,23 @@ def cochains(x: np.ndarray, triangles: list[tuple], atom_features: np.ndarray,
     No CIP labels, optical signs, or atom ranks enter the features.
     The quadruple kernel uses all six squared interatomic distances.
     """
-    if bandwidth <= 0 or length_unit <= 0:
+    values = cochains_jvp(x, triangles, atom_features, np.zeros_like(x), bandwidth, length_unit)
+    return values[0], values[1]
+
+
+def cochains_jvp(x: np.ndarray, triangles: list[tuple], atom_features: np.ndarray,
+                 direction: np.ndarray, bandwidth: float = 2.4,
+                 length_unit: float = 1.0) -> tuple[np.ndarray, ...]:
+    """Values and analytic coordinate directional derivatives on fixed triangles.
+
+    Atomic labels, bandwidth and length unit are held fixed. This derivative
+    does not differentiate a hard filtration event; see scale_average instead.
+    """
+    x = np.asarray(x, dtype=float)
+    direction = np.asarray(direction, dtype=float)
+    if direction.shape != x.shape or not np.isfinite(direction).all():
+        raise ValueError("direction must be finite and match coordinates")
+    if not np.isfinite([bandwidth, length_unit]).all() or bandwidth <= 0 or length_unit <= 0:
         raise ValueError("Bandwidth and length unit must be positive")
     d = distances(x)
     af = np.asarray(atom_features, dtype=float)
@@ -129,27 +154,49 @@ def cochains(x: np.ndarray, triangles: list[tuple], atom_features: np.ndarray,
         raise ValueError("atom_features must have shape n by 3")
     z = af[:, 0] / 8.0
     degree, hydrogens = af[:, 1] / 4.0, af[:, 2] / 4.0
-    radial = np.exp(-d*d / (2 * bandwidth**2)) @ z / max(len(x), 1)
+    delta = x[:, None] - x[None, :]
+    ddelta = direction[:, None] - direction[None, :]
+    sq = d*d
+    dsq = 2 * np.einsum('ijk,ijk->ij', delta, ddelta)
+    kernel = np.exp(-sq / (2 * bandwidth**2))
+    dkernel = -kernel * dsq / (2 * bandwidth**2)
+    radial = kernel @ z / max(len(x), 1)
+    dradial = dkernel @ z / max(len(x), 1)
     fields = np.column_stack((z, degree, hydrogens, radial))
+    dfields = np.column_stack((np.zeros((len(x), 3)), dradial))
     weights = np.column_stack((np.ones(len(x)), z, 1 + degree))
     sources = np.zeros((len(triangles), 3))
     probes = np.zeros((len(triangles), 6))
+    dsources, dprobes = np.zeros_like(sources), np.zeros_like(probes)
     field_pairs = list(combinations(range(4), 2))
     for row, (i, j, k) in enumerate(triangles):
-        tri_sq = d[i,j]**2 + d[i,k]**2 + d[j,k]**2
-        for ell in range(len(x)):
-            if ell in (i, j, k):
-                continue
-            sq = tri_sq + d[i,ell]**2 + d[j,ell]**2 + d[k,ell]**2
-            kernel = np.exp(-sq / (2 * bandwidth**2))
-            volume = np.linalg.det(np.column_stack((x[j]-x[i], x[k]-x[i], x[ell]-x[i])))
-            sources[row] += weights[ell] * kernel * volume / length_unit**3
+        tri_sq = sq[i,j] + sq[i,k] + sq[j,k]
+        dtri_sq = dsq[i,j] + dsq[i,k] + dsq[j,k]
+        tetra_sq = tri_sq + sq[i] + sq[j] + sq[k]
+        dtetra_sq = dtri_sq + dsq[i] + dsq[j] + dsq[k]
+        tetra_kernel = np.exp(-tetra_sq / (2 * bandwidth**2))
+        dtetra_kernel = -tetra_kernel * dtetra_sq / (2 * bandwidth**2)
+        a, b, c = x[j]-x[i], x[k]-x[i], x-x[i]
+        da, db, dc = direction[j]-direction[i], direction[k]-direction[i], direction-direction[i]
+        volume = c @ np.cross(a, b)
+        dvolume = c @ (np.cross(da, b) + np.cross(a, db)) + dc @ np.cross(a, b)
+        # Repeated vertices give exactly zero in the mathematical determinant;
+        # enforce this explicitly rather than retaining roundoff at i,j,k.
+        volume[[i,j,k]] = 0
+        dvolume[[i,j,k]] = 0
+        sources[row] = (tetra_kernel * volume) @ weights / length_unit**3
+        dsources[row] = (dtetra_kernel * volume + tetra_kernel * dvolume) @ weights / length_unit**3
         tri_kernel = np.exp(-tri_sq / (2 * bandwidth**2))
+        dtri_kernel = -tri_kernel * dtri_sq / (2 * bandwidth**2)
         for col, (a, b) in enumerate(field_pairs):
             f, g = fields[:, a], fields[:, b]
-            probes[row,col] = tri_kernel * ((f[j]-f[i])*(g[k]-g[i])
-                                           - (f[k]-f[i])*(g[j]-g[i]))
-    return sources, probes
+            df, dg = dfields[:,a], dfields[:,b]
+            minor = (f[j]-f[i])*(g[k]-g[i]) - (f[k]-f[i])*(g[j]-g[i])
+            dminor = ((df[j]-df[i])*(g[k]-g[i]) + (f[j]-f[i])*(dg[k]-dg[i])
+                      - (df[k]-df[i])*(g[j]-g[i]) - (f[k]-f[i])*(dg[j]-dg[i]))
+            probes[row,col] = tri_kernel * minor
+            dprobes[row,col] = dtri_kernel * minor + tri_kernel * dminor
+    return sources, probes, dsources, dprobes
 
 
 def response(op: PersistentOperator, chi: np.ndarray, probes: np.ndarray,
