@@ -70,6 +70,21 @@ def persistent_operator(x: np.ndarray, r: float, s: float, rcond: float = 1e-10)
     if s < r:
         raise ValueError("Persistent scales require r <= s")
     small, large = rips(x, r), rips(x, s)
+    return persistent_from_complexes(small, large, rcond=rcond, r=r, s=s)
+
+
+def persistent_from_complexes(small: dict, large: dict, rcond: float = 1e-10,
+                             r: float = 0, s: float = 1) -> PersistentOperator:
+    """Construct the same operator for an explicitly supplied simplicial pair."""
+    for q in range(4):
+        if not set(small[q]).issubset(large[q]):
+            raise ValueError("Small complex must be a subcomplex of large")
+        for complex_ in (small, large):
+            if any(tuple(sorted(simplex)) != simplex for simplex in complex_[q]):
+                raise ValueError("Input simplices must use increasing orientation")
+            if q and any(face not in complex_[q-1] for simplex in complex_[q]
+                         for face in combinations(simplex,q)):
+                raise ValueError("Input must be closed under taking faces")
     b2 = boundary(small[1], small[2])
     b3 = boundary(large[2], large[3])
     row_lookup = {t: i for i, t in enumerate(large[2])}
