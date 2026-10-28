@@ -1,0 +1,67 @@
+[
+  {
+    "batch": 40,
+    "molecules": 40,
+    "records": 114
+  },
+  {
+    "batch": 80,
+    "molecules": 40,
+    "records": 54
+  },
+  {
+    "batch": 120,
+    "molecules": 40,
+    "records": 75
+  },
+  {
+    "batch": 0,
+    "molecules": 40,
+    "records": 116
+  },
+  {
+    "batch": 160,
+    "molecules": 40,
+    "records": 84
+  },
+  {
+    "batch": 240,
+    "molecules": 40,
+    "records": 194
+  },
+  {
+    "batch": 280,
+    "molecules": 40,
+    "records": 85
+  },
+  {
+    "batch": 200,
+    "molecules": 40,
+    "records": 132
+  },
+  {
+    "batch": 440,
+    "molecules": 40,
+    "records": 107
+  },
+  {
+    "batch": 400,
+    "molecules": 40,
+    "records": 104
+  },
+  {
+    "batch": 320,
+    "molecules": 40,
+    "records": 78
+  },
+  {
+    "batch": 360,
+    "molecules": 40,
+    "records": 98
+  },
+  {
+    "batch": 480,
+    "molecules": 32,
+    "records": 130
+  }
+]

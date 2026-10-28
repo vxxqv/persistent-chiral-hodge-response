@@ -1,0 +1,2562 @@
+[
+  {
+    "parent": "CHEMBL331382",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5095395",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL927",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4792487",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL783",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 2
+  },
+  {
+    "parent": "CHEMBL2107586",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3545254",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5095097",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4802153",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL130",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 5
+  },
+  {
+    "parent": "CHEMBL5315132",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL14249",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1200592",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL441765",
+    "n_connectivity_molecules": 13,
+    "n_raw_activity_records": 114
+  },
+  {
+    "parent": "CHEMBL2028019",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 92
+  },
+  {
+    "parent": "CHEMBL2159227",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL171679",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4438249",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL121810",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL19215",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 38
+  },
+  {
+    "parent": "CHEMBL467084",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL5170587",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL495",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 19
+  },
+  {
+    "parent": "CHEMBL2110625",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105502",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL282686",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL452867",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1329032",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 2
+  },
+  {
+    "parent": "CHEMBL4650341",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5314526",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL261932",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 13
+  },
+  {
+    "parent": "CHEMBL4650322",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2216870",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL361812",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 9
+  },
+  {
+    "parent": "CHEMBL2387742",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 7
+  },
+  {
+    "parent": "CHEMBL5314401",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104469",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1198855",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3786182",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 5
+  },
+  {
+    "parent": "CHEMBL2105074",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4594376",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 2
+  },
+  {
+    "parent": "CHEMBL2048484",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL1231124",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL14762",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1651913",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2106248",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4594373",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5095206",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4760665",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL515606",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297507",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL281724",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2106368",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5095240",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL462394",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 2
+  },
+  {
+    "parent": "CHEMBL3962292",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2443262",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 6
+  },
+  {
+    "parent": "CHEMBL409153",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1449",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 4
+  },
+  {
+    "parent": "CHEMBL1200848",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105118",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3301601",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 18
+  },
+  {
+    "parent": "CHEMBL88240",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL518924",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL3137301",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105239",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2107614",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5095243",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1980825",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1742483",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4300558",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105565",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1094785",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL2106649",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2107804",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 11
+  },
+  {
+    "parent": "CHEMBL3703921",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2107020",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297484",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2106813",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3613118",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 16
+  },
+  {
+    "parent": "CHEMBL2104656",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL341421",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL2107303",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2051955",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4298165",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL253582",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1201192",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 26
+  },
+  {
+    "parent": "CHEMBL1753",
+    "n_connectivity_molecules": 9,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL2105388",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL269446",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL267044",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 176
+  },
+  {
+    "parent": "CHEMBL582912",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104590",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4649457",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL368347",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4571075",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL2105377",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL1201222",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2221292",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL779",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 4
+  },
+  {
+    "parent": "CHEMBL22242",
+    "n_connectivity_molecules": 7,
+    "n_raw_activity_records": 4
+  },
+  {
+    "parent": "CHEMBL426559",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 14
+  },
+  {
+    "parent": "CHEMBL3889654",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3608680",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 12
+  },
+  {
+    "parent": "CHEMBL1208017",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3348932",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL325695",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4650367",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1201281",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1626",
+    "n_connectivity_molecules": 8,
+    "n_raw_activity_records": 37
+  },
+  {
+    "parent": "CHEMBL498672",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL318859",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 8
+  },
+  {
+    "parent": "CHEMBL1614658",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1235551",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL19611",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 25
+  },
+  {
+    "parent": "CHEMBL1095032",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL434492",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL3989445",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1201302",
+    "n_connectivity_molecules": 13,
+    "n_raw_activity_records": 6
+  },
+  {
+    "parent": "CHEMBL485652",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 9
+  },
+  {
+    "parent": "CHEMBL4863829",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5316159",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3137336",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL225072",
+    "n_connectivity_molecules": 7,
+    "n_raw_activity_records": 25
+  },
+  {
+    "parent": "CHEMBL480558",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3651966",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 6
+  },
+  {
+    "parent": "CHEMBL2106009",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105429",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2206292",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 4
+  },
+  {
+    "parent": "CHEMBL206815",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1808388",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105348",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3979920",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL289556",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 4
+  },
+  {
+    "parent": "CHEMBL3039531",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL317052",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL514446",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1443",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2106758",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3989776",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2107301",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3989446",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2103869",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 2
+  },
+  {
+    "parent": "CHEMBL10188",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 29
+  },
+  {
+    "parent": "CHEMBL1590076",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1079593",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104634",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2375142",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3655081",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104890",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2107228",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL220808",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL473882",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1027",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 11
+  },
+  {
+    "parent": "CHEMBL5314927",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105160",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL14830",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL258501",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL448290",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104617",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4650521",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1201195",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL160629",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3187812",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1929396",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL475717",
+    "n_connectivity_molecules": 7,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL1673408",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3914857",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 6
+  },
+  {
+    "parent": "CHEMBL1232295",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL3916243",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 2
+  },
+  {
+    "parent": "CHEMBL5314950",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104285",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5095081",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2107026",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3545163",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104211",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1080884",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 4
+  },
+  {
+    "parent": "CHEMBL2111156",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2106548",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5314424",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2103836",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4081711",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL857",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1661",
+    "n_connectivity_molecules": 7,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4069349",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL530",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL276568",
+    "n_connectivity_molecules": 7,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL398338",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL3039733",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 5
+  },
+  {
+    "parent": "CHEMBL2096895",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL996",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 6
+  },
+  {
+    "parent": "CHEMBL4085457",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2103790",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104242",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL159660",
+    "n_connectivity_molecules": 7,
+    "n_raw_activity_records": 4
+  },
+  {
+    "parent": "CHEMBL2107361",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2110886",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297500",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4303323",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL605846",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3989666",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3707394",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1040",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL279260",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3527358",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3989477",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL260402",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5314494",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2216863",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3039507",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297389",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104091",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL189475",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL1201379",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4446357",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 32
+  },
+  {
+    "parent": "CHEMBL4297435",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5182222",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104497",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1256919",
+    "n_connectivity_molecules": 9,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297600",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL6622",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL333950",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL440115",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 8
+  },
+  {
+    "parent": "CHEMBL24038",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 2
+  },
+  {
+    "parent": "CHEMBL2104996",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1254025",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL3989429",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1201365",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105197",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5314907",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL32",
+    "n_connectivity_molecules": 7,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2106341",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1243298",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4871106",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2107773",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2106685",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1241590",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1721885",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2103764",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105604",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1601669",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL2106110",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1230732",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2107045",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1812063",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1201274",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 4
+  },
+  {
+    "parent": "CHEMBL4127030",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2103824",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2107583",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1192519",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4802226",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3989548",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL29",
+    "n_connectivity_molecules": 15,
+    "n_raw_activity_records": 7
+  },
+  {
+    "parent": "CHEMBL255231",
+    "n_connectivity_molecules": 8,
+    "n_raw_activity_records": 2
+  },
+  {
+    "parent": "CHEMBL1829335",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 20
+  },
+  {
+    "parent": "CHEMBL3112741",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL550",
+    "n_connectivity_molecules": 8,
+    "n_raw_activity_records": 13
+  },
+  {
+    "parent": "CHEMBL1436",
+    "n_connectivity_molecules": 8,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL328190",
+    "n_connectivity_molecules": 7,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL1290",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL2104740",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL271896",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 4
+  },
+  {
+    "parent": "CHEMBL1236282",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL376359",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL342372",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1346",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 14
+  },
+  {
+    "parent": "CHEMBL5087506",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1091644",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2110737",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2103877",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2165224",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1050",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL2104194",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3989883",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1200661",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL95636",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1511",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297621",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5095095",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL220190",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1201373",
+    "n_connectivity_molecules": 9,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1083659",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 13
+  },
+  {
+    "parent": "CHEMBL2103847",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 2
+  },
+  {
+    "parent": "CHEMBL3989812",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297184",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1733",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL96153",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2441929",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3544964",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL448343",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL4778760",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2107118",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1213351",
+    "n_connectivity_molecules": 9,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL529888",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL514800",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL601719",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 32
+  },
+  {
+    "parent": "CHEMBL4594439",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL563251",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL1422",
+    "n_connectivity_molecules": 7,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL252036",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2110627",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4205422",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL158",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL8809",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 26
+  },
+  {
+    "parent": "CHEMBL1592",
+    "n_connectivity_molecules": 7,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2107328",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5095230",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1201369",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 2
+  },
+  {
+    "parent": "CHEMBL2110936",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL455186",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1201384",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104567",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2151591",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2219422",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL2110953",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL4297370",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 6
+  },
+  {
+    "parent": "CHEMBL494",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 8
+  },
+  {
+    "parent": "CHEMBL1095777",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 17
+  },
+  {
+    "parent": "CHEMBL2105909",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105249",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2095212",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4650989",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2106981",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104662",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2110731",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL2110976",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1604",
+    "n_connectivity_molecules": 7,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL70611",
+    "n_connectivity_molecules": 9,
+    "n_raw_activity_records": 13
+  },
+  {
+    "parent": "CHEMBL4300766",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1764",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2106816",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1214",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 4
+  },
+  {
+    "parent": "CHEMBL2325741",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1201758",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5314965",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1096927",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1543",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL5095217",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1894187",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4462530",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL377300",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL3341939",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3989951",
+    "n_connectivity_molecules": 12,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL227875",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104862",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL109831",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4594408",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL489411",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1277001",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2375143",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL155886",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5095072",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL594621",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1740361",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL2107413",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL9960",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 8
+  },
+  {
+    "parent": "CHEMBL1750",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL602070",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL467888",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 5
+  },
+  {
+    "parent": "CHEMBL444814",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL114325",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3989502",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1946186",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL2104498",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297350",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104994",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1551",
+    "n_connectivity_molecules": 15,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL1237049",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3137306",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3580737",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3989493",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL515408",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5095076",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5314521",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1201391",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104004",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL188462",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL1460",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2106877",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1581",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2160007",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105602",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL99",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 56
+  },
+  {
+    "parent": "CHEMBL2103829",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1522",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 26
+  },
+  {
+    "parent": "CHEMBL2106965",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL39933",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL2110666",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL188361",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL318191",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL331369",
+    "n_connectivity_molecules": 8,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1200666",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2107669",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL181954",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3393588",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1609891",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL2105210",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL90564",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL2103882",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 5
+  },
+  {
+    "parent": "CHEMBL2104748",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1200963",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL282575",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 10
+  },
+  {
+    "parent": "CHEMBL1447",
+    "n_connectivity_molecules": 9,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1201891",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297477",
+    "n_connectivity_molecules": 8,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5314472",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1144",
+    "n_connectivity_molecules": 6,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL1630563",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2106298",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL225157",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297287",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3426621",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL364713",
+    "n_connectivity_molecules": 10,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1619",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL58323",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 13
+  },
+  {
+    "parent": "CHEMBL5095218",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104023",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1908314",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1201395",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL68117",
+    "n_connectivity_molecules": 8,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5095251",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3989489",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2110640",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105761",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL519504",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL223585",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 2
+  },
+  {
+    "parent": "CHEMBL1349",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2106972",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104586",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1042",
+    "n_connectivity_molecules": 9,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104660",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL198362",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 8
+  },
+  {
+    "parent": "CHEMBL2104172",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL638",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 2
+  },
+  {
+    "parent": "CHEMBL577711",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1394756",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 29
+  },
+  {
+    "parent": "CHEMBL4297602",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL1450",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL380230",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1921976",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3545040",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105669",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL359164",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2023705",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4459585",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297508",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105683",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2107822",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 16
+  },
+  {
+    "parent": "CHEMBL272621",
+    "n_connectivity_molecules": 7,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1940832",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL3545035",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL284121",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4303615",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4650343",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 12
+  },
+  {
+    "parent": "CHEMBL581",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 2
+  },
+  {
+    "parent": "CHEMBL2368199",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4060569",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297620",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105926",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5095165",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3137314",
+    "n_connectivity_molecules": 7,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL4297266",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297538",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1921847",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 16
+  },
+  {
+    "parent": "CHEMBL1412041",
+    "n_connectivity_molecules": 12,
+    "n_raw_activity_records": 14
+  },
+  {
+    "parent": "CHEMBL424278",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL94739",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 3
+  },
+  {
+    "parent": "CHEMBL1229211",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 9
+  },
+  {
+    "parent": "CHEMBL4249337",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4285417",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL398463",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL232875",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2105403",
+    "n_connectivity_molecules": 11,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3900409",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4110551",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104860",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297479",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL456029",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2106601",
+    "n_connectivity_molecules": 4,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297615",
+    "n_connectivity_molecules": 0,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2107529",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 2
+  },
+  {
+    "parent": "CHEMBL548",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 39
+  },
+  {
+    "parent": "CHEMBL416578",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 4
+  },
+  {
+    "parent": "CHEMBL5316158",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5314449",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL232656",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL1624",
+    "n_connectivity_molecules": 8,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL562967",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3989470",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL489095",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1232667",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL3039503",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL336920",
+    "n_connectivity_molecules": 5,
+    "n_raw_activity_records": 47
+  },
+  {
+    "parent": "CHEMBL2103767",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 1
+  },
+  {
+    "parent": "CHEMBL4297624",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2103842",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL3334567",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1059",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 5
+  },
+  {
+    "parent": "CHEMBL1614637",
+    "n_connectivity_molecules": 8,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL5314583",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL127",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104067",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1171272",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4297517",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL1488165",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2103775",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4594372",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104917",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL2104398",
+    "n_connectivity_molecules": 2,
+    "n_raw_activity_records": 0
+  },
+  {
+    "parent": "CHEMBL4079239",
+    "n_connectivity_molecules": 3,
+    "n_raw_activity_records": 22
+  },
+  {
+    "parent": "CHEMBL1730",
+    "n_connectivity_molecules": 12,
+    "n_raw_activity_records": 5
+  },
+  {
+    "parent": "CHEMBL4297406",
+    "n_connectivity_molecules": 1,
+    "n_raw_activity_records": 0
+  }
+]
