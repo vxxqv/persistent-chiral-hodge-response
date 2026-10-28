@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+.venv/
+*.token
+*.env
+manuscript/
+*.tex
+*.bib
+*.docx
+*.pdf
+*.zip
+!figures/*.pdf
