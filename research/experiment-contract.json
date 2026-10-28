@@ -1,0 +1,28 @@
+{
+  "claim_id": "C_MOLECULAR_PARITY_AND_RESPONSE",
+  "status": "fixed before generation and response outcomes",
+  "coefficient_domain": "real chain spaces with orthonormal oriented simplex bases",
+  "molecules": "24 names fixed in generate_data.PANEL; no outcome-selected omissions",
+  "conformers_per_molecule": 8,
+  "seeds": "ETKDGv3: 271828 + panel index; experiment RNG: PCG64 314159",
+  "radii_angstrom": [2.2, 2.6, 3.0],
+  "persistence_gap_angstrom": 0.6,
+  "bandwidth_angstrom": 2.4,
+  "tau": [0.1, 0.3, 1.0],
+  "length_unit_angstrom": 1.0,
+  "nullspace_relative_tolerance": 1e-10,
+  "parity_absolute_tolerance": 1e-8,
+  "primary_assertions": [
+    "Mirror odd sources/responses/signed pools and equal even energies/spectra",
+    "Permutation and proper-isometry laws on each first conformer at radius 2.6 and gap 0.6",
+    "Projected planar coordinates give zero determinant sources",
+    "Compare persistent response direction with raw source and same-scale response",
+    "Report all conformer variability and localisation comparisons, whether favourable or not"
+  ],
+  "non_claims": [
+    "not an affinity, optical-rotation, ECD, toxicity, or efficacy prediction",
+    "no completeness, global stability, or independently reviewed novelty guarantee",
+    "generated conformers are not biological replicates",
+    "mirror separation is a symmetry check, not biological validation"
+  ]
+}
