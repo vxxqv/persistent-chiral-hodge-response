@@ -1,0 +1,152 @@
+{
+  "input_file": "e34616c9456ed6d038a9.json",
+  "input_sha256": "b3ddf0729ebfb362441089f32de2e0a8223de14de2c86d07b74247f9c7ba3a33",
+  "parent_key": "e0acb9bd6ad66d7a",
+  "smiles": "C[C@H](Oc1ccc(Cl)cc1C1CCCCC1)C(=O)O",
+  "conformer_id": 0,
+  "n_atoms": 19,
+  "shape_dimension": 51,
+  "torsion_dimension": 4,
+  "axes": [
+    {
+      "parent": 1,
+      "child": 2,
+      "moving": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "depth": 1
+    },
+    {
+      "parent": 1,
+      "child": 16,
+      "moving": [
+        16,
+        17,
+        18
+      ],
+      "depth": 1
+    },
+    {
+      "parent": 2,
+      "child": 3,
+      "moving": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "depth": 2
+    },
+    {
+      "parent": 9,
+      "child": 10,
+      "moving": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "depth": 4
+    }
+  ],
+  "status": "completed",
+  "mass_metric_eigenvalues": [
+    32.98074848613784,
+    61.432420733362505,
+    123.9567986322455,
+    191.78727687671415
+  ],
+  "representations": {
+    "source": {
+      "baseline_norm": 0.001598245420692896,
+      "normalization_at_floor": false,
+      "singular_values": [
+        0.31962650602905135,
+        0.05503978628001258,
+        0.03891992078583704,
+        0.012782283541244997
+      ],
+      "ranks": {
+        "1e-06": 4,
+        "1e-08": 4,
+        "1e-10": 4
+      },
+      "induced_metric_eigenvalues": [
+        9.07228213271833e-05,
+        0.0008549836598206078,
+        0.0017136143867976005,
+        0.03528704058067921
+      ]
+    },
+    "same_scale": {
+      "baseline_norm": 0.001023821056280088,
+      "normalization_at_floor": false,
+      "singular_values": [
+        0.19550607853877025,
+        0.025802487386707422,
+        0.017268512239279738,
+        0.007904179431528598
+      ],
+      "ranks": {
+        "1e-06": 4,
+        "1e-08": 4,
+        "1e-10": 4
+      },
+      "induced_metric_eigenvalues": [
+        3.526181503456953e-05,
+        0.00016913500877804592,
+        0.00037594956623001046,
+        0.011736031456244588
+      ]
+    },
+    "persistent": {
+      "baseline_norm": 0.0010225188536079155,
+      "normalization_at_floor": false,
+      "singular_values": [
+        0.19510477893116385,
+        0.021641339798846172,
+        0.0184684562013175,
+        0.006140812292893027
+      ],
+      "ranks": {
+        "1e-06": 4,
+        "1e-08": 4,
+        "1e-10": 4
+      },
+      "induced_metric_eigenvalues": [
+        2.12260131041761e-05,
+        0.00019313860211893442,
+        0.0002650134208610884,
+        0.011693016553664245
+      ]
+    }
+  },
+  "constraint_rank": 47,
+  "constraint_infinitesimal_shape_nullity": 4,
+  "constraint_velocity_max_residual": 1.5715936235492423e-15,
+  "filtration_margin_angstrom": 0.04222250185830312
+}

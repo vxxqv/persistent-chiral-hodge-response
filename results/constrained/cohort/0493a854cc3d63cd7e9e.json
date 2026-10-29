@@ -1,0 +1,163 @@
+{
+  "input_file": "0493a854cc3d63cd7e9e.json",
+  "input_sha256": "f45e2ce883058f9ab1206f6baddce3845c667a5e77d63b6620602b7991a03107",
+  "parent_key": "ecd9f7b7de27c7f5",
+  "smiles": "Nc1ncc(-c2cc(N3CC[C@H](F)C3)nc(N3CCC3)n2)cc1OC(F)F",
+  "conformer_id": 0,
+  "n_atoms": 27,
+  "shape_dimension": 75,
+  "torsion_dimension": 5,
+  "axes": [
+    {
+      "parent": 22,
+      "child": 23,
+      "moving": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "depth": 2
+    },
+    {
+      "parent": 23,
+      "child": 24,
+      "moving": [
+        24,
+        25,
+        26
+      ],
+      "depth": 3
+    },
+    {
+      "parent": 4,
+      "child": 5,
+      "moving": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "depth": 4
+    },
+    {
+      "parent": 7,
+      "child": 8,
+      "moving": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "depth": 7
+    },
+    {
+      "parent": 15,
+      "child": 16,
+      "moving": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "depth": 7
+    }
+  ],
+  "status": "completed",
+  "mass_metric_eigenvalues": [
+    26.944005623716784,
+    39.256279132745654,
+    68.1817968493815,
+    81.46598135223074,
+    316.99774879120855
+  ],
+  "representations": {
+    "source": {
+      "baseline_norm": 0.0013677802931864975,
+      "normalization_at_floor": false,
+      "singular_values": [
+        0.1319271607843537,
+        0.02849295121549723,
+        0.01817176479087328,
+        0.0016084283524195405,
+        0.0001096455896467046
+      ],
+      "ranks": {
+        "1e-06": 5,
+        "1e-08": 5,
+        "1e-10": 5
+      },
+      "induced_metric_eigenvalues": [
+        6.824584912971277e-09,
+        1.4685674555773214e-06,
+        0.00018744594616708625,
+        0.00046061165439067363,
+        0.005176058403610115
+      ]
+    },
+    "same_scale": {
+      "baseline_norm": 0.0004642755714416279,
+      "normalization_at_floor": false,
+      "singular_values": [
+        0.1446465626301304,
+        0.031386196312550324,
+        0.023650228716341874,
+        0.00212808441627749,
+        0.0006891493701242712
+      ],
+      "ranks": {
+        "1e-06": 5,
+        "1e-08": 5,
+        "1e-10": 5
+      },
+      "induced_metric_eigenvalues": [
+        2.69426640249153e-07,
+        2.570082308757622e-06,
+        0.0003173145959465344,
+        0.0005589875301274561,
+        0.006229253455935073
+      ]
+    },
+    "persistent": {
+      "baseline_norm": 0.00046302477908280747,
+      "normalization_at_floor": false,
+      "singular_values": [
+        0.1450488317491492,
+        0.0314170076894578,
+        0.02372974815310373,
+        0.002126918805090079,
+        0.0006631737361564409
+      ],
+      "ranks": {
+        "1e-06": 5,
+        "1e-08": 5,
+        "1e-10": 5
+      },
+      "induced_metric_eigenvalues": [
+        2.4943846997003997e-07,
+        2.5673427461781626e-06,
+        0.0003195215693162712,
+        0.0005600779738686654,
+        0.006263771767351501
+      ]
+    }
+  },
+  "constraint_rank": 70,
+  "constraint_infinitesimal_shape_nullity": 5,
+  "constraint_velocity_max_residual": 8.837577736646348e-16,
+  "filtration_margin_angstrom": 0.0020870665385528397
+}

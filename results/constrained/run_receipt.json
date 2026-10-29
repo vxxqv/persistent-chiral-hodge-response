@@ -1,0 +1,10 @@
+{
+  "phase": "all",
+  "elapsed_seconds": 3.081235647201538,
+  "protocol_sha256": "98207d6f13cce804a243631279615a564184d7fbb92abb576dff2980e4f983a5",
+  "versions": {
+    "numpy": "2.5.4",
+    "gudhi": "3.13.0",
+    "rdkit": "2026.09.1"
+  }
+}

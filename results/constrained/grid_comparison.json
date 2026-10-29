@@ -1,0 +1,15 @@
+{
+  "bottleneck_distances_kcal_mol": {
+    "a": {
+      "0": 66.23624988822559,
+      "1": 48380.57203961142,
+      "2": 1331.7359677022905
+    },
+    "b": {
+      "0": 107.72861584022746,
+      "1": 26700.689370986773,
+      "2": 9144.378601628327
+    }
+  },
+  "interpretation": "resolution sensitivity, not a continuum error bound"
+}

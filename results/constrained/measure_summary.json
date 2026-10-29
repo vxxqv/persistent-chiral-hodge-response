@@ -1,0 +1,92 @@
+{
+  "shared_fine_uniform_rms": 0.0007683831226626407,
+  "interpretation": "finite quadrature of three explicitly defined reduced-family measures; no molecular equilibrium claim",
+  "grids": {
+    "33": {
+      "a": {
+        "odd_norm_squared": [
+          0.22745732202605115,
+          0.279282708386662,
+          0.27928720583613464
+        ],
+        "effective_grid_sizes": [
+          1089.0000000000136,
+          27.112252215013523,
+          27.052895477583974
+        ],
+        "mean_relative_energy": [
+          698.866274173615,
+          0.6481577159487634,
+          0.6471059286360042
+        ],
+        "weights_total_variation_angle_vs_volume": 0.0027507100919416244
+      },
+      "b": {
+        "odd_norm_squared": [
+          0.4221594406964632,
+          0.4785394454626039,
+          0.4785672416127205
+        ],
+        "effective_grid_sizes": [
+          1089.0000000000136,
+          31.21920480481516,
+          31.06088607939555
+        ],
+        "mean_relative_energy": [
+          975.2355536049969,
+          0.6520906097102646,
+          0.6489645171022338
+        ],
+        "weights_total_variation_angle_vs_volume": 0.006136883384844109
+      },
+      "odd_measure_distance_squared": [
+        1.2078731574748622,
+        1.1993966989546672,
+        1.1990983274711462
+      ]
+    },
+    "65": {
+      "a": {
+        "odd_norm_squared": [
+          0.22743035886693885,
+          0.27928406300985736,
+          0.27928860690704643
+        ],
+        "effective_grid_sizes": [
+          4225.000000000141,
+          106.57609184184167,
+          106.33647553247914
+        ],
+        "mean_relative_energy": [
+          685.2706086146878,
+          0.6489860230148687,
+          0.6479208458381719
+        ],
+        "weights_total_variation_angle_vs_volume": 0.0026982683838387665
+      },
+      "b": {
+        "odd_norm_squared": [
+          0.42217226555730053,
+          0.47853893935415814,
+          0.478566763547534
+        ],
+        "effective_grid_sizes": [
+          4225.000000000141,
+          121.99769010939761,
+          121.36555874865378
+        ],
+        "mean_relative_energy": [
+          961.4935029324344,
+          0.6523698703608067,
+          0.6492249005879371
+        ],
+        "weights_total_variation_angle_vs_volume": 0.006102859639680626
+      },
+      "odd_measure_distance_squared": [
+        1.207831218748689,
+        1.1993916419036115,
+        1.1990929868069413
+      ]
+    }
+  }
+}
