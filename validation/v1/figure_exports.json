@@ -1,0 +1,703 @@
+{
+  "Figure_01_Molecular_reflection": {
+    "pdf_size_mm": [
+      178.0,
+      132.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [
+      "2.6, 3.2"
+    ],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [
+      {
+        "first": "\u03bb",
+        "second": "2",
+        "intersection_pt": [
+          27.604747772216797,
+          271.1200256347656,
+          32.313297271728516,
+          274.90423583984375
+        ]
+      }
+    ],
+    "embedded_3d_raster_layers": 2,
+    "png_pixels": [
+      4204,
+      3118
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "a696e1c4fc6c0e155a8e5592eda3eb8b7cd9cd921542899c3262628eae620625",
+      "pdf": "902e06f9d58abc8fe34c5f2dfc4b0145ab757898bd12025552a94defebf8efd4",
+      "svg": "f63833e957f7f1fe5773ae1a4172c9a5b671b96828d4cc09527bb8b07bf4322f"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "a7c3d4083a6a690c13834b584740dfbcf66a52fcdff58754a0275cf2cecbc42c",
+    "small_text_resolution": "Expected mathematical scale subscript of the persistent Laplacian; retained in the audit."
+  },
+  "Figure_02_Molecular_filtration": {
+    "pdf_size_mm": [
+      178.0,
+      140.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [
+      {
+        "first": "\u03bb",
+        "second": "2",
+        "intersection_pt": [
+          282.8197021484375,
+          318.0259094238281,
+          287.5282897949219,
+          321.81011962890625
+        ]
+      }
+    ],
+    "embedded_3d_raster_layers": 4,
+    "png_pixels": [
+      4204,
+      3307
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "f980a46151e8bf2072dfa1b7dc05fe393f3e8ee5a02907788a683bd24fd20e35",
+      "pdf": "a5eb614b17f6ffcc7fdd359c09145f55938231baad367f6db5d72ea17a733670",
+      "svg": "d788d4da06e755ecf420919ac1cb48a6290feaf5d7d45910e04b25de0b88a678"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "e7d2fa69f33822d6a66c7e26ac08c49c2617c3e5208513e0fe86e41f690e0bf8"
+  },
+  "Figure_03_Persistent_filling": {
+    "pdf_size_mm": [
+      178.0,
+      135.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 4,
+    "png_pixels": [
+      4204,
+      3188
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "84a6234475f2fbafb2cd568fffe08b40e60003a6537a41004c0bae34998cd0e8",
+      "pdf": "83c0640653a7a13b506a56050b4e26fc0989a5de344b23d5162b5c3167aea7a5",
+      "svg": "85f9497004513a4b634cd340307c7d4aba3251e2d07274da5a0b572f9f47beb9"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "95550ef688285edfdcc95bdbdad90485f9df3c7b693914a10671c79221a2393f"
+  },
+  "Figure_04_Source_propagation": {
+    "pdf_size_mm": [
+      178.0,
+      138.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 3,
+    "png_pixels": [
+      4204,
+      3259
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "34a83132c644baff261d01e9d902b6c248ac9aaa56e58a17bfb0f72f6250ddeb",
+      "pdf": "a6d472ca534fc40df2fd7b803c01ce011de61a5b59785bf7e7dc78efe6a0b375",
+      "svg": "28ce2bc5dcec5ab286e682378933c3ce8b8c11f482095708d59dfe4d115e2770"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "4aec0ccf4df137e415c68a7d1da0829912c7f1b3d242305d6c89c6894b875b02"
+  },
+  "Figure_05_Atom_localization": {
+    "pdf_size_mm": [
+      178.0,
+      150.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 5,
+    "png_pixels": [
+      4204,
+      3543
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "6ff3a286b294cf57dd220146e1871b5b7efb466059e083f73daf3a3d9ab5d844",
+      "pdf": "2a34d210d5504478fd4ce97b339643a41e0545805e129e9cfaa2368c9ac7adaa",
+      "svg": "161ef49cc80aa62a88fb8c769d209ea080eb3465082355c57df813da02bf1b58"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "f6ed269d02a1a08bf630e3842b4e44b02f8633e7307e9ca03c0831f4002bcd8d"
+  },
+  "Figure_06_Conformer_comparison": {
+    "pdf_size_mm": [
+      178.0,
+      180.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 1,
+    "png_pixels": [
+      4204,
+      4251
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "b8629c7ac5d9e10eed737767d8461f6dc02594711a8b63f406e7df2ce6b0d0d1",
+      "pdf": "beddf9f03cbb23a266edb1d267b90805edb75af87501642b92651c3ca66187ee",
+      "svg": "c03392d6f694c9ba3ae6799f4e06cbb3267525c97b5d4eea14da6a669d729009"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "5c382ebd786a0aa73cd22077be51bdc5295cb0f8b1d32b4d62bef93414ea7155"
+  },
+  "Figure_07_Parameter_landscape": {
+    "pdf_size_mm": [
+      178.0,
+      135.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 2,
+    "png_pixels": [
+      4204,
+      3188
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "816e83752f2cb5bf6e4d33999fb9e436ea1a9369a84646d30b5e8ba2f8cf56e4",
+      "pdf": "c600b9cf2454f3d4fa0e38663f40c7744f0d638d933071ce538b7cfea94fc03b",
+      "svg": "8cd4b6b1f9e9b17cee4295685362f645bdf58114984fece6d08acc56c7193a5e"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "e7938d5fa24cd361eb4e689a7ad0d4a3f54a34e1824ef427e6e7bfe5ed7c0bb6"
+  },
+  "Figure_08_Filtration_calculus": {
+    "pdf_size_mm": [
+      178.0,
+      135.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 1,
+    "png_pixels": [
+      4204,
+      3188
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "f3fd20290560a50294283949e0353421bf56e335d53403c35e3c93c40d5eaa03",
+      "pdf": "1c26ced23d2a0d94c0f70d7d3e5b79bf16db00ed28e9d67e332c1f5547dd0d66",
+      "svg": "4a9724713556a5a2afe53adfa1a412a37d2f1423f2c69d41c8eb64763cb3d113"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "90c85f40a9ada82f750e9783264dbed95901fde810ccb4b59f99e1ee4409995b"
+  },
+  "Figure_09_Intrinsic_geometry": {
+    "pdf_size_mm": [
+      178.0,
+      140.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 1,
+    "png_pixels": [
+      4204,
+      3307
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "046ab8aaf03659dad46d178de260513605f3fb957e436283d4845d0c1e04dfa2",
+      "pdf": "7bd82890d76d5cf5570ea55ad9697063f435271bc02e198c420871e6e4937363",
+      "svg": "597e676df0c59444ad56b11827741fdf86c95debc3cb95d6ebfb432e482a8745"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "c4d2931b30fbb636cf9513bebce72d577a15ed841e260cde7d2494b6e3b8e592"
+  },
+  "Figure_10_External_ensembles": {
+    "pdf_size_mm": [
+      178.0,
+      156.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 1,
+    "png_pixels": [
+      4204,
+      3685
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "0c83b5038e8d6f42b96fe6a876b8c56be8a7b86179c57562e229dc7efb156879",
+      "pdf": "9138d9b3135d3b28fb925a24e519ca5fc95f3f749b11d10a64a2fd511ca788b9",
+      "svg": "70a4fb96ca2c50b2800bcfd0a1bb4b4a8682579015d391b10a03c130249a7d39"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "bd69700f1a7ae85bf8d013087b1c590b2297289e1b6d3803d34f2e5daa02910b"
+  },
+  "Figure_11_Parity_geometry": {
+    "pdf_size_mm": [
+      178.0,
+      160.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 3,
+    "png_pixels": [
+      4204,
+      3779
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "cd5078c5ef0921274ab62685707eef71f32f917ee46ac8d575bf17147d6ce04e",
+      "pdf": "8090782a4f33776894393722a87e8ec9e7048fc798bc6fdfcebbfe9c6e74c0e5",
+      "svg": "2fdd7b0febf38cbb8c01faf63983654a1ad5ba4fa89d80099c3a277065e0c429"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "3940c0cb16ffe121bffb5302959423fd3aca42a51df3404a4c8bd97979bead91"
+  },
+  "Figure_12_Finite_support_limits": {
+    "pdf_size_mm": [
+      178.0,
+      146.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 1,
+    "png_pixels": [
+      4204,
+      3448
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "b9c4cf64c9896fa70d2ae2c52009d3977296722d0798e66a477716a97b1fed86",
+      "pdf": "33822c80d2d02f01bd461b01ad5bd54bd76dd7416279e6feb247e57a4c93ef88",
+      "svg": "b1a2f24ffe66617775637c5913f65741cda2594ca8bd1edbca86285523577149"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "51462148e6fb7907100b0d55b7e3a899d75cc482451b803f7f857f6734f7d332"
+  },
+  "Figure_13_Ensemble_calculus": {
+    "pdf_size_mm": [
+      178.0,
+      154.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 2,
+    "png_pixels": [
+      4204,
+      3637
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "89d92001c05be2ca33737b149add837223704b3362edbc395fc0f7b38b59b576",
+      "pdf": "232e15eabbbe704f55e3737334420544b711a5af0cdcd1faf490b859d14b4a9a",
+      "svg": "0081619a447904748a71442001162565f34a88205f29fcf1938119474d593399"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "67fa0664f74efb069ac9babca9384b12af74463d76e76dd902eca275e19ae590"
+  },
+  "Figure_14_Biological_recognition": {
+    "pdf_size_mm": [
+      178.0,
+      202.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 2,
+    "png_pixels": [
+      4204,
+      4771
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "7a22acdccf00f6513240c9a97f4b54b92550c1265bf5f6e779ac7fce1935bb14",
+      "pdf": "a71f6ae13709eb2920506e043fd8a28ef8c519541b4cb395dcca4d701b8e40c9",
+      "svg": "48f4d4d53cf0e28f2dbe842581328ca5f5ab7d976434b1e6a4866fb97bac3a11"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "2d4888ee1202e521c87930589e5902be07d91e2cde93e66e569300c3370ca7b7"
+  },
+  "Figure_15_Kernel_shape_metric": {
+    "pdf_size_mm": [
+      178.0,
+      198.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 4,
+    "png_pixels": [
+      4204,
+      4677
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "f78a5d688a963ce2987dc2323e940014fe066c8289f7aa366bc8df8749cdc5d6",
+      "pdf": "aa687854b684973d44befbd56e7061c0f509dad07e5f7033a161500b9c5cd2dd",
+      "svg": "0a67753fbd7a16a896371a66ed5aad4be500501ee098c2408aebb4238da0216a"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "0ec70f3aa4bbe8b4e826983ee0a0f6432a6978558912adaa62fea5f1bb60385a"
+  },
+  "Figure_16_Second_order_obstruction": {
+    "pdf_size_mm": [
+      178.0,
+      135.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 1,
+    "png_pixels": [
+      4204,
+      3188
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "6ac23ae7589bd761dfea857d7834a38ce0ea825a1967ad53ac7e12fa37a7884b",
+      "pdf": "daa028739f80738c89c035060252b83f3417a0b3558f93ba97d9da0e3ff3325f",
+      "svg": "5d8a17d26493a8acd36c44e6fd07a47ce22af0fa2b47b2341c582a7978c8ef22"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "1163c8e939b85e905e786cc0665d204f5872b07bfa481e1dc4ae50749a001be1"
+  },
+  "Figure_17_Realizable_sensitivity": {
+    "pdf_size_mm": [
+      178.0,
+      152.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 1,
+    "png_pixels": [
+      4204,
+      3590
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "81e4a0714ac8c088c3b256d530e944d0d50cf8f347bb555499e95996da5fafe7",
+      "pdf": "ec70e226548dfad2f6102004ab0993bd1e2cbe547ec6cb0fd2df5653c170fd40",
+      "svg": "dbc5f1fda68994f2e8bc64654cb35383eeb107fff4124568f5c749afe3d929ed"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "e0e73d83bb28d177712cbc2a0cdceffb1b23d4a59a65374d3f373fdff2d332a9"
+  },
+  "Figure_18_Periodic_energy_domains": {
+    "pdf_size_mm": [
+      178.0,
+      156.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 3,
+    "png_pixels": [
+      4204,
+      3685
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "454bd53f2b6b24cfed882d9fcd09736bee94f436ca7bd9c6b16fa110bd6ee824",
+      "pdf": "2e75c4eb82c718096564472ebf81a202242e1289185d5507838b915e617ba8e1",
+      "svg": "fda933c4981352fe4ddb2b16920bbb1d229ed9cc8bddd3f616c00c3c8c01d6a0"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "5150799c386eb20b4ac98333a86f314c30b07e2d8e30dae5f51823a3bf34eaee"
+  },
+  "Figure_19_Persistence_and_measure": {
+    "pdf_size_mm": [
+      178.0,
+      160.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 0,
+    "png_pixels": [
+      4204,
+      3779
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "c0802eb1a34f13d74c5a5c696550f9efc58956612fb1a74b33767f52e2fffb4f",
+      "pdf": "2aa76254100243315c16486b7185e4dd79f6216d86dc1f4c578e13fa5190c48f",
+      "svg": "a3bbf4bfb3d1953ef0c65b74d4870a24bcb9e2785e261ec0b7adca0f4b774df9"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "39539719e1e2791da518dcac2079ec6a06d622c8a779211f6c1213ff34451934"
+  },
+  "Figure_20_Molecular_vector_fields": {
+    "pdf_size_mm": [
+      178.0,
+      151.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 4,
+    "png_pixels": [
+      4204,
+      3566
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "6c4aacc00db6fea4ca6f06d7d3c04b396d347e5dd96c6aac3787829c77ca9feb",
+      "pdf": "7ab6ca3518f64242800c1a5bb72b96b1a5736540cf604a9d6c086b723f3a2184",
+      "svg": "f26675f6182ecc05fd4fc34352598eab6a6324eb314f0acef5d2b1806c93c93a"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "33122769d29ddb7992e4586ad55c318954c4a742aca7623ed62b9a34be91922d"
+  },
+  "Figure_21_Reduced_Hamiltonian_motion": {
+    "pdf_size_mm": [
+      178.0,
+      147.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 0,
+    "png_pixels": [
+      4204,
+      3472
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "5516eef2d397807286b4ec9313510426b4b4355401cbd8d902b62f5c9456fd38",
+      "pdf": "6da5d295cc8bdfb6aaa921b32532d844cd91237d1d7e3112017faa35a1af87fa",
+      "svg": "ff6e08b87f305dc206dc725ec099638607dcd7070aa14b34f4e4e39f5327f952"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "bc6cb987ede5232dd5d9994e704be6514f10fc5ada0fc63c432baf8062396b26"
+  },
+  "Figure_22_Quantum_rotor_analysis": {
+    "pdf_size_mm": [
+      178.0,
+      151.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 3,
+    "png_pixels": [
+      4204,
+      3566
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "a4a7a4d7c2a70d343e9457af7962038855ec4e1ddd99a7156ffaef323f6a2cb7",
+      "pdf": "22c98e9a8e853d89188901387ad4150baf98c4864ae686e81754cdb005b64ed3",
+      "svg": "448dc74dec20244166e74beafc44b02e8fd92dcafb626c2e37ab137b23064ded"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "64ec6b7905b24774c837694ceea5b5ad9aef4fa8f5c922a591410599eba4ac00"
+  },
+  "Figure_23_Protein_closure_topology": {
+    "pdf_size_mm": [
+      178.0,
+      154.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 3,
+    "png_pixels": [
+      4204,
+      3637
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "08feb3b78cb1de0db7f925cdf0cef2d0703ed15f4acb0f04a7d3ef1ddcefeeed",
+      "pdf": "cfcaba5ecbcecfd0febdab69dfef722ee75d41b5074d37fcf81d635f34dc90d4",
+      "svg": "acd4a8931149fb535b0df0002b8d1e61194405ba91c04f187da7fb927880ee16"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "e39777f7218f934903989b4501b6484c53c1afb05b95bf7454cba5175f19e0a8"
+  },
+  "Figure_24_Quantum_braid_invariants": {
+    "pdf_size_mm": [
+      178.0,
+      142.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 0,
+    "png_pixels": [
+      4204,
+      3354
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "5da8749f56c92c27652338c9e34e5232e4e247a3b32efe5774ed649be16c5f9f",
+      "pdf": "25994baa341f0c3e4bd6494a5c02b60ecf461f1711244b2f495f91125cfc46ba",
+      "svg": "df1c6353305acdc31522baeab7be131e6a49ed7370765bc4167edc69d91056d0"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "cf96029ff139b129b99559e1c60ee9d89dadb63a467baac541956d951342ac9c"
+  },
+  "Figure_S01_Full_molecular_atlas": {
+    "pdf_size_mm": [
+      178.0,
+      225.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 25,
+    "png_pixels": [
+      4204,
+      5314
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "ff7ed05b6b23ec484bd2e2e03e5f6b16635c3ecd7736cc6f6519e5ab5fadc868",
+      "pdf": "acd1c9918a1548259aeadbffaa90ae4dc873a6c565731559b068ff29bde3808f",
+      "svg": "1a924183d152f23186ae42591e556bb2465efc78742b39c5183744e429fbdb28"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "02479b75ba722a1e69a09f127cae9366bcc8ceed54f2ae6f8f1a744fb4a59da1"
+  },
+  "Figure_S02_Localization_and_alignment": {
+    "pdf_size_mm": [
+      178.0,
+      160.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 0,
+    "png_pixels": [
+      4204,
+      3779
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "7895703f24546c81a473fbad77e73fc130583afd476d9169b81ac8d1648c3b54",
+      "pdf": "95c6300896a6ee1e98b9315a37e99d4c514c5b3a18897cf0590bea79a1f072dc",
+      "svg": "2dfc2adeec4dca9310bf0f0b044255892c7457704cea6017a9f6ceaa151fd9e9"
+    },
+    "visual_review": "Original exports/accessibility inspected in prior figure review; current manuscript placement inspected 2026-10-29",
+    "source_sha256": "b9c0d2b4b45e7d12cd4b62f8109eecca80484daf73af012538e14d7dc1bb4c14"
+  }
+}

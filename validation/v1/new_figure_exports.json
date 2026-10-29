@@ -1,0 +1,236 @@
+{
+  "Figure_16_Second_order_obstruction": {
+    "pdf_size_mm": [
+      178.0,
+      135.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 1,
+    "png_pixels": [
+      4204,
+      3188
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "6ac23ae7589bd761dfea857d7834a38ce0ea825a1967ad53ac7e12fa37a7884b",
+      "pdf": "daa028739f80738c89c035060252b83f3417a0b3558f93ba97d9da0e3ff3325f",
+      "svg": "5d8a17d26493a8acd36c44e6fd07a47ce22af0fa2b47b2341c582a7978c8ef22"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "1163c8e939b85e905e786cc0665d204f5872b07bfa481e1dc4ae50749a001be1"
+  },
+  "Figure_17_Realizable_sensitivity": {
+    "pdf_size_mm": [
+      178.0,
+      152.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 1,
+    "png_pixels": [
+      4204,
+      3590
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "81e4a0714ac8c088c3b256d530e944d0d50cf8f347bb555499e95996da5fafe7",
+      "pdf": "ec70e226548dfad2f6102004ab0993bd1e2cbe547ec6cb0fd2df5653c170fd40",
+      "svg": "dbc5f1fda68994f2e8bc64654cb35383eeb107fff4124568f5c749afe3d929ed"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "e0e73d83bb28d177712cbc2a0cdceffb1b23d4a59a65374d3f373fdff2d332a9"
+  },
+  "Figure_18_Periodic_energy_domains": {
+    "pdf_size_mm": [
+      178.0,
+      156.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 3,
+    "png_pixels": [
+      4204,
+      3685
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "454bd53f2b6b24cfed882d9fcd09736bee94f436ca7bd9c6b16fa110bd6ee824",
+      "pdf": "2e75c4eb82c718096564472ebf81a202242e1289185d5507838b915e617ba8e1",
+      "svg": "fda933c4981352fe4ddb2b16920bbb1d229ed9cc8bddd3f616c00c3c8c01d6a0"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "5150799c386eb20b4ac98333a86f314c30b07e2d8e30dae5f51823a3bf34eaee"
+  },
+  "Figure_19_Persistence_and_measure": {
+    "pdf_size_mm": [
+      178.0,
+      160.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 0,
+    "png_pixels": [
+      4204,
+      3779
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "c0802eb1a34f13d74c5a5c696550f9efc58956612fb1a74b33767f52e2fffb4f",
+      "pdf": "2aa76254100243315c16486b7185e4dd79f6216d86dc1f4c578e13fa5190c48f",
+      "svg": "a3bbf4bfb3d1953ef0c65b74d4870a24bcb9e2785e261ec0b7adca0f4b774df9"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "39539719e1e2791da518dcac2079ec6a06d622c8a779211f6c1213ff34451934"
+  },
+  "Figure_20_Molecular_vector_fields": {
+    "pdf_size_mm": [
+      178.0,
+      151.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 4,
+    "png_pixels": [
+      4204,
+      3566
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "6c4aacc00db6fea4ca6f06d7d3c04b396d347e5dd96c6aac3787829c77ca9feb",
+      "pdf": "7ab6ca3518f64242800c1a5bb72b96b1a5736540cf604a9d6c086b723f3a2184",
+      "svg": "f26675f6182ecc05fd4fc34352598eab6a6324eb314f0acef5d2b1806c93c93a"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "33122769d29ddb7992e4586ad55c318954c4a742aca7623ed62b9a34be91922d"
+  },
+  "Figure_21_Reduced_Hamiltonian_motion": {
+    "pdf_size_mm": [
+      178.0,
+      147.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 0,
+    "png_pixels": [
+      4204,
+      3472
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "5516eef2d397807286b4ec9313510426b4b4355401cbd8d902b62f5c9456fd38",
+      "pdf": "6da5d295cc8bdfb6aaa921b32532d844cd91237d1d7e3112017faa35a1af87fa",
+      "svg": "ff6e08b87f305dc206dc725ec099638607dcd7070aa14b34f4e4e39f5327f952"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "bc6cb987ede5232dd5d9994e704be6514f10fc5ada0fc63c432baf8062396b26"
+  },
+  "Figure_22_Quantum_rotor_analysis": {
+    "pdf_size_mm": [
+      178.0,
+      151.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 3,
+    "png_pixels": [
+      4204,
+      3566
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "a4a7a4d7c2a70d343e9457af7962038855ec4e1ddd99a7156ffaef323f6a2cb7",
+      "pdf": "22c98e9a8e853d89188901387ad4150baf98c4864ae686e81754cdb005b64ed3",
+      "svg": "448dc74dec20244166e74beafc44b02e8fd92dcafb626c2e37ab137b23064ded"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "64ec6b7905b24774c837694ceea5b5ad9aef4fa8f5c922a591410599eba4ac00"
+  },
+  "Figure_23_Protein_closure_topology": {
+    "pdf_size_mm": [
+      178.0,
+      154.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 3,
+    "png_pixels": [
+      4204,
+      3637
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "08feb3b78cb1de0db7f925cdf0cef2d0703ed15f4acb0f04a7d3ef1ddcefeeed",
+      "pdf": "cfcaba5ecbcecfd0febdab69dfef722ee75d41b5074d37fcf81d635f34dc90d4",
+      "svg": "acd4a8931149fb535b0df0002b8d1e61194405ba91c04f187da7fb927880ee16"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "e39777f7218f934903989b4501b6484c53c1afb05b95bf7454cba5175f19e0a8"
+  },
+  "Figure_24_Quantum_braid_invariants": {
+    "pdf_size_mm": [
+      178.0,
+      142.0
+    ],
+    "outside_text": [],
+    "small_ordinary_text": [],
+    "unexplained_text_collisions": [],
+    "expected_math_glyph_boxes": [],
+    "embedded_3d_raster_layers": 0,
+    "png_pixels": [
+      4204,
+      3354
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "formats_sha256": {
+      "png": "5da8749f56c92c27652338c9e34e5232e4e247a3b32efe5774ed649be16c5f9f",
+      "pdf": "25994baa341f0c3e4bd6494a5c02b60ecf461f1711244b2f495f91125cfc46ba",
+      "svg": "df1c6353305acdc31522baeab7be131e6a49ed7370765bc4167edc69d91056d0"
+    },
+    "visual_review": "PNG/PDF/SVG exports, grayscale and deuteranopia simulation inspected 2026-10-29",
+    "source_sha256": "cf96029ff139b129b99559e1c60ee9d89dadb63a467baac541956d951342ac9c"
+  }
+}

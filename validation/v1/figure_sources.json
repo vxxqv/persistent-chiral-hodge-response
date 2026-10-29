@@ -1,0 +1,38 @@
+{
+  "figure_sets": 26,
+  "source_records": 26,
+  "source_checks": {
+    "final_figure_sources_original.txt": "All 17 figure source sets passed: original identities, external paired rows, parent-weighted parity, exact divergence, analytic jets, same-assay cases and shape metric.",
+    "final_figure_sources_extension.txt": "All 9 extension figure source sets passed: constraint stress, 206 torsional ranks, full grids and diagrams, fields, trajectories, quantum models, 192 closures and exact Jones coefficients."
+  },
+  "source_sha256": {
+    "Figure_01_Molecular_reflection.json": "a7c3d4083a6a690c13834b584740dfbcf66a52fcdff58754a0275cf2cecbc42c",
+    "Figure_02_Molecular_filtration.json": "e7d2fa69f33822d6a66c7e26ac08c49c2617c3e5208513e0fe86e41f690e0bf8",
+    "Figure_03_Persistent_filling.json": "95550ef688285edfdcc95bdbdad90485f9df3c7b693914a10671c79221a2393f",
+    "Figure_04_Source_propagation.json": "4aec0ccf4df137e415c68a7d1da0829912c7f1b3d242305d6c89c6894b875b02",
+    "Figure_05_Atom_localization.json": "f6ed269d02a1a08bf630e3842b4e44b02f8633e7307e9ca03c0831f4002bcd8d",
+    "Figure_06_Conformer_comparison.json": "5c382ebd786a0aa73cd22077be51bdc5295cb0f8b1d32b4d62bef93414ea7155",
+    "Figure_07_Parameter_landscape.json": "e7938d5fa24cd361eb4e689a7ad0d4a3f54a34e1824ef427e6e7bfe5ed7c0bb6",
+    "Figure_08_Filtration_calculus.json": "90c85f40a9ada82f750e9783264dbed95901fde810ccb4b59f99e1ee4409995b",
+    "Figure_09_Intrinsic_geometry.json": "c4d2931b30fbb636cf9513bebce72d577a15ed841e260cde7d2494b6e3b8e592",
+    "Figure_10_External_ensembles.json": "bd69700f1a7ae85bf8d013087b1c590b2297289e1b6d3803d34f2e5daa02910b",
+    "Figure_11_Parity_geometry.json": "3940c0cb16ffe121bffb5302959423fd3aca42a51df3404a4c8bd97979bead91",
+    "Figure_12_Finite_support_limits.json": "51462148e6fb7907100b0d55b7e3a899d75cc482451b803f7f857f6734f7d332",
+    "Figure_13_Ensemble_calculus.json": "67fa0664f74efb069ac9babca9384b12af74463d76e76dd902eca275e19ae590",
+    "Figure_14_Biological_recognition.json": "2d4888ee1202e521c87930589e5902be07d91e2cde93e66e569300c3370ca7b7",
+    "Figure_15_Kernel_shape_metric.json": "0ec70f3aa4bbe8b4e826983ee0a0f6432a6978558912adaa62fea5f1bb60385a",
+    "Figure_16_Second_order_obstruction.json": "1163c8e939b85e905e786cc0665d204f5872b07bfa481e1dc4ae50749a001be1",
+    "Figure_17_Realizable_sensitivity.json": "e0e73d83bb28d177712cbc2a0cdceffb1b23d4a59a65374d3f373fdff2d332a9",
+    "Figure_18_Periodic_energy_domains.json": "5150799c386eb20b4ac98333a86f314c30b07e2d8e30dae5f51823a3bf34eaee",
+    "Figure_19_Persistence_and_measure.json": "39539719e1e2791da518dcac2079ec6a06d622c8a779211f6c1213ff34451934",
+    "Figure_20_Molecular_vector_fields.json": "33122769d29ddb7992e4586ad55c318954c4a742aca7623ed62b9a34be91922d",
+    "Figure_21_Reduced_Hamiltonian_motion.json": "bc6cb987ede5232dd5d9994e704be6514f10fc5ada0fc63c432baf8062396b26",
+    "Figure_22_Quantum_rotor_analysis.json": "64ec6b7905b24774c837694ceea5b5ad9aef4fa8f5c922a591410599eba4ac00",
+    "Figure_23_Protein_closure_topology.json": "e39777f7218f934903989b4501b6484c53c1afb05b95bf7454cba5175f19e0a8",
+    "Figure_24_Quantum_braid_invariants.json": "cf96029ff139b129b99559e1c60ee9d89dadb63a467baac541956d951342ac9c",
+    "Figure_S01_Full_molecular_atlas.json": "02479b75ba722a1e69a09f127cae9366bcc8ceed54f2ae6f8f1a744fb4a59da1",
+    "Figure_S02_Localization_and_alignment.json": "b9c0d2b4b45e7d12cd4b62f8109eecca80484daf73af012538e14d7dc1bb4c14"
+  },
+  "bounds_and_collisions": "No painted text outside the vector export and no unexplained text intersections detected",
+  "scope": "Source agreement and visual/export review, not independent peer review or proof certification"
+}
