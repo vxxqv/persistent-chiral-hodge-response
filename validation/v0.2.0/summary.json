@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "author": "Vivaan Patni",
+  "tests": "..........................................                               [100%]\n42 passed in 5.50s",
+  "external_replay": {
+    "parents": 512,
+    "conformers": 5514,
+    "recomputed_descriptors": true,
+    "maximum_component_error": 0.0,
+    "primary_difference": -0.042500325706898455,
+    "bootstrap95": [
+      -0.05234111587163074,
+      -0.032598810310314426
+    ],
+    "all_separation_metrics_match": true,
+    "selected_embeddings_sha256": "ae3d2b84720530cc6d6d634dedbc1bdeab29fa82478f8cf25ebba52621847ed7"
+  },
+  "biological_curation_pairs_match": true,
+  "biological_associations_match": true,
+  "figure_sets": 17,
+  "figure_sources": "All 17 figure source sets passed: original identities, external paired rows, parent-weighted parity, exact divergence, analytic jets, same-assay cases and shape metric.",
+  "figure_layout": "No text outside figure bounds or intersecting labels detected; all six new figure triplets and accessibility simulations visually reviewed.",
+  "limits": "Self-review and implementation checks, not independent peer review or a guarantee of universal mathematical correctness."
+}

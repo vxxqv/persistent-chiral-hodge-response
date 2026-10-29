@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "Please cite the archived software and data release."
 type: software
-title: "Persistent Chiral Hodge Response: ensemble geometry and biological evaluation"
-version: 0.2.0
-doi: 10.5281/zenodo.23741545
-date-released: 2026-10-28
+title: "Persistent Chiral Hodge Response: constrained molecular geometry, quantum models and biological evaluation"
+version: 1.0.0
+doi: 10.5281/zenodo.23770661
+date-released: 2026-10-29
 authors:
   - family-names: Patni
     given-names: Vivaan
@@ -12,4 +12,4 @@ authors:
     affiliation: Independent Researcher
 repository-code: "https://github.com/vxxqv/persistent-chiral-hodge-response"
 license: MIT
-abstract: "Reproducible persistent Hodge responses, reflection-odd kernel geometry, conformer benchmark and strictly same-assay ChEMBL analysis. Software is MIT; third-party data retain the licenses documented in data/LICENSES.md."
+abstract: "Reproducible persistent Hodge responses, reflection-odd kernel geometry, constrained torsional derivatives, molecular velocity fields and rotational holonomy, effective quantum rotor models, exact braid fixtures and closure-dependent experimental protein diagnostics, together with external conformer and same-assay ChEMBL analyses. The DOI identifies release 1.0.0. Software is MIT; third-party data retain the licenses documented in data/LICENSES.md."

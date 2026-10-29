@@ -4,12 +4,12 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "persistent-chiral-hodge-response"
-version = "0.2.0"
+version = "1.0.0"
 description = "Orientation-covariant chiral sources and persistent Hodge responses"
 authors = [{name = "Vivaan Patni"}]
 requires-python = ">=3.12"
 license = {text = "MIT"}
-dependencies = ["numpy>=2.0", "scipy>=1.14", "rdkit>=2025.3", "matplotlib>=3.9", "sympy>=1.13", "gudhi>=3.10", "pandas>=2.2"]
+dependencies = ["numpy>=2.0", "scipy>=1.14", "rdkit>=2025.3", "matplotlib>=3.9", "sympy>=1.13", "gudhi>=3.10", "pandas>=2.2", "biopython>=1.88"]
 
 [project.optional-dependencies]
 test = ["pytest>=8", "scikit-learn>=1.6"]

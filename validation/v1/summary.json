@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "author": "Vivaan Patni",
+  "date": "2026-10-29",
+  "scientific_code_and_figure_commit": "a3d9b5d5da2898d88ab3692d2c2b725ab7bedf4b",
+  "implementation_tests": ".......................................................                  [100%]\n55 passed in 4.78s",
+  "constrained_replay": {
+    "status": "passed",
+    "json_records_compared": 214,
+    "npz_arrays_compared": 40,
+    "maximum_array_absolute_error": 0.0,
+    "input_files_checked_before_and_after": 208,
+    "protocol_sha256": "98207d6f13cce804a243631279615a564184d7fbb92abb576dff2980e4f983a5",
+    "coverage": "all206 first-conformer derivatives and both isomer33/65 grids, all three weight rules, periodic diagrams and local checks"
+  },
+  "quantum_fields_proteins_replay": {
+    "status": "passed",
+    "json_records_compared": 19,
+    "npz_arrays_compared": 116,
+    "maximum_non_eigenvector_array_absolute_error": 0.0,
+    "maximum_phase_aligned_eigenvector_error": 2.4532694666933987e-18,
+    "coverage": {
+      "quantum_models": 6,
+      "generalized_eigenproblems": 36,
+      "molecular_trajectories": 4,
+      "curvature_grids": 2,
+      "holonomy_loops": 8,
+      "protein_closures": 192,
+      "additional_projections": 576
+    }
+  },
+  "quantum_input_files_checked_before_and_after": 246,
+  "figure_sets": 26,
+  "figure_source_checks": {
+    "final_figure_sources_original.txt": "All 17 figure source sets passed: original identities, external paired rows, parent-weighted parity, exact divergence, analytic jets, same-assay cases and shape metric.",
+    "final_figure_sources_extension.txt": "All 9 extension figure source sets passed: constraint stress, 206 torsional ranks, full grids and diagrams, fields, trajectories, quantum models, 192 closures and exact Jones coefficients."
+  },
+  "historical_validation": "validation/v0.2.0/summary.json retains earlier full external and biological replay checks",
+  "scope": "Implementation and finite replay validation with sequential self-review; not independent peer review, a universal mathematical guarantee or a physical-model validation",
+  "retained_limits": [
+    "No general external discrimination advantage for propagation",
+    "No established same-assay binding association advantage",
+    "High-energy persistence is not grid-converged",
+    "Effective rotor spectra are not basis/grid-converged",
+    "Experimental protein crossing predicates are floating-point and closure-dependent"
+  ]
+}

@@ -14,3 +14,4 @@ pymupdf==2.0
 pytest==9.2.0
 scikit-learn==1.9.1
 pyarrow==26.0.0
+biopython==1.88
