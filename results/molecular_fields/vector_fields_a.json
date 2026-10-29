@@ -1,0 +1,26 @@
+{
+  "energy_gradient_checks": [
+    {
+      "axis": 0,
+      "analytic_energy_gradient": 5.835123752175389e-05,
+      "finite_difference": 5.835296690293034e-05,
+      "absolute_error": 1.7293811764506023e-09
+    },
+    {
+      "axis": 1,
+      "analytic_energy_gradient": 0.00017574831410126224,
+      "finite_difference": 0.00017574564026290315,
+      "absolute_error": 2.6738383590845394e-09
+    }
+  ],
+  "time_unit_fs": 48.88821293410056,
+  "initial_total_energy_kcal_mol": 0.5,
+  "maximum_energy_absolute_drift_kcal_mol": 3.469446951953614e-13,
+  "integration_tolerance_max_state_difference": 3.135269821541442e-13,
+  "maximum_rotation_orthogonality_error": 3.921782459267918e-15,
+  "curvature_norm_range": [
+    0.0005124467756822721,
+    0.028780089640901705
+  ],
+  "scope": "reduced constrained Hamiltonian model with empirical potential and zero-angular-momentum reconstruction; not full molecular dynamics or an experimental trajectory"
+}

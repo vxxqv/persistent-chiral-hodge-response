@@ -1,0 +1,42 @@
+{
+  "retrieved_date": "2026-10-29",
+  "records": [
+    {
+      "pdb": "1J85",
+      "url": "https://files.rcsb.org/download/1J85.cif",
+      "file": "1J85.cif",
+      "sha256": "5295ac6641bf0b13d632df42150688c9c04a7f3090d7969c8c2ad218ca29adc4"
+    },
+    {
+      "pdb": "1J85",
+      "url": "https://data.rcsb.org/rest/v1/core/entry/1J85",
+      "file": "1J85.json",
+      "sha256": "93f7556fccdb0ac0dbbb50f0666407f16e5819ff4f7a390e3f3c799e4886b280"
+    },
+    {
+      "pdb": "2EFV",
+      "url": "https://files.rcsb.org/download/2EFV.cif",
+      "file": "2EFV.cif",
+      "sha256": "c70e95697593efcc35fb2bb9690b92e31cada360d0c6c8f50751ef49f04d7da3"
+    },
+    {
+      "pdb": "2EFV",
+      "url": "https://data.rcsb.org/rest/v1/core/entry/2EFV",
+      "file": "2EFV.json",
+      "sha256": "9fa00e3d47e61a66db5d0371a89991f97c24b7de37bbd8d245f4728b34dab793"
+    },
+    {
+      "pdb": "1UBQ",
+      "url": "https://files.rcsb.org/download/1UBQ.cif",
+      "file": "1UBQ.cif",
+      "sha256": "da349974b04d3eaae03c07ee9123d289cbc569323fc80384b3203840f34f2726"
+    },
+    {
+      "pdb": "1UBQ",
+      "url": "https://data.rcsb.org/rest/v1/core/entry/1UBQ",
+      "file": "1UBQ.json",
+      "sha256": "2f3c88fbf9f7a570ea41b921762e890143f4dce2580d26e01a85383cce2e0758"
+    }
+  ],
+  "license": "wwPDB data CC0; scientific publications retain their own copyrights"
+}

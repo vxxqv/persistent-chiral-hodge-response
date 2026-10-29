@@ -1,0 +1,36 @@
+{
+  "proteins": {
+    "1J85": {
+      "status": "completed",
+      "n_residues": 156,
+      "determinant_counts": {
+        "3": 57,
+        "9": 1,
+        "1": 2,
+        "5": 4
+      },
+      "failed_closures": 0
+    },
+    "2EFV": {
+      "status": "completed",
+      "n_residues": 82,
+      "determinant_counts": {
+        "1": 14,
+        "3": 50
+      },
+      "failed_closures": 0
+    },
+    "1UBQ": {
+      "status": "completed",
+      "n_residues": 76,
+      "determinant_counts": {
+        "1": 63,
+        "3": 1
+      },
+      "failed_closures": 0
+    }
+  },
+  "protocol_sha256": "27225e0e2c4a90cd931fe45adfaa916aa4320d6171249f3acb8625d8c956ed30",
+  "directions": 64,
+  "sampling": "deterministic Fibonacci directions, descriptive frequencies, no random-sample confidence interval"
+}

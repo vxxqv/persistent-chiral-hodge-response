@@ -1,0 +1,41 @@
+{
+  "status": "passed",
+  "method": "fixed-step classical RK4 in q and velocity, independently organized from canonical DOP853 q and momentum",
+  "validation_amendment": "additional numerical diagnostic after the primary trajectories; no physical parameters or reported endpoints changed",
+  "cases": {
+    "a": [
+      {
+        "step": 0.2,
+        "endpoint_canonical_error": 3.1861114943001134e-06,
+        "maximum_energy_error": 2.6926151364126127e-08
+      },
+      {
+        "step": 0.1,
+        "endpoint_canonical_error": 1.8945921841263255e-07,
+        "maximum_energy_error": 1.1486340212307766e-09
+      },
+      {
+        "step": 0.05,
+        "endpoint_canonical_error": 1.1543989706091087e-08,
+        "maximum_energy_error": 5.6990079322361e-11
+      }
+    ],
+    "b": [
+      {
+        "step": 0.2,
+        "endpoint_canonical_error": 2.2180899361350593e-06,
+        "maximum_energy_error": 8.23667672955608e-09
+      },
+      {
+        "step": 0.1,
+        "endpoint_canonical_error": 1.3774335076595338e-07,
+        "maximum_energy_error": 3.7055741808345033e-10
+      },
+      {
+        "step": 0.05,
+        "endpoint_canonical_error": 8.580138436368734e-09,
+        "maximum_energy_error": 1.887467959704736e-11
+      }
+    ]
+  }
+}

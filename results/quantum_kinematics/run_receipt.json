@@ -1,0 +1,26 @@
+{
+  "protocol_sha256": "27225e0e2c4a90cd931fe45adfaa916aa4320d6171249f3acb8625d8c956ed30",
+  "grid_sizes": [
+    33,
+    65,
+    129
+  ],
+  "fourier_cutoffs": [
+    3,
+    5,
+    7,
+    9,
+    12,
+    15
+  ],
+  "kinematics_loop_sizes": [
+    0.2,
+    0.1,
+    0.05,
+    0.025
+  ],
+  "kappa": 0.04819838150547478,
+  "numerical_models": 6,
+  "eigenproblems": 36,
+  "boundary": "No claim of continuum or physical accuracy without the reported convergence evidence"
+}

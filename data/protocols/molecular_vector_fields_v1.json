@@ -1,0 +1,9 @@
+{
+  "version":"1.0", "frozen_date":"2026-10-29",
+  "purpose":"Advanced vector fields and reduced Hamiltonian kinematics on the existing two-torsion biological case",
+  "cases":"Both first archived conformers of parent81dbd5f36b7abada; same S-N and S-aryl axes",
+  "fields":"Torsional coordinate velocities, their mass-horizontal lifts, mechanical connection curvature; horizontal-lift Lie bracket is vertical",
+  "curvature_grid":"25x25 angles2*pi*j/25 over the periodic domain; fixed body section, retain all vector components and norm",
+  "trajectory":{"initial_q":[0,0],"initial_velocity":"positive q1 direction normalized to kinetic energy0.5kcal/mol; q2dot0","time_interval_dimensionless":[0,20],"samples":401,"integrator":"DOP853 rtol1e-10 atol1e-12 max_step0.05; repeat rtol1e-8 atol1e-10 for convergence","hamiltonian":"0.5 p^T g^-1 p+MMFF94s E(q), all other internal coordinates frozen","gradient":"unconstrained force-field CalcGrad after fixed-heavy hydrogen optimization; chain through exact bridge velocities; verify against energy finite differences","rotation":"Rdot=R hat(-A_i qdot_i), zero total angular momentum","time_unit":"sqrt(atomic_mass_unit Angstrom^2/(1kcal/mol per molecule)), reported in femtoseconds","interpretation":"deterministic reduced force-field model, no solvent, thermostat, receptor, full molecular dynamics or measured biological trajectory claim"},
+  "checks":["analytic connection derivatives vs differences","coordinate Hessian symmetry implies commuting chart fields","horizontal Lie-bracket curvature and small-loop sign","energy conservation and integration-tolerance sensitivity","proper rotation residual and angular momentum cancellation"]
+}

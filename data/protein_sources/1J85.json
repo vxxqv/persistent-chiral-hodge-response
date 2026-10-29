@@ -1,0 +1,588 @@
+{
+  "audit_author": [
+    {
+      "name": "Lim, K.",
+      "pdbx_ordinal": 1
+    },
+    {
+      "name": "Zhang, H.",
+      "pdbx_ordinal": 2
+    },
+    {
+      "name": "Toedt, J.",
+      "pdbx_ordinal": 3
+    },
+    {
+      "name": "Tempcyzk, A.",
+      "pdbx_ordinal": 4
+    },
+    {
+      "name": "Krajewski, W.",
+      "pdbx_ordinal": 5
+    },
+    {
+      "name": "Howard, A.",
+      "pdbx_ordinal": 6
+    },
+    {
+      "name": "Eisenstein, E.",
+      "pdbx_ordinal": 7
+    },
+    {
+      "name": "Herzberg, O.",
+      "pdbx_ordinal": 8
+    },
+    {
+      "name": "Structure 2 Function Project (S2F)",
+      "pdbx_ordinal": 9
+    }
+  ],
+  "cell": {
+    "Z_PDB": 8,
+    "angle_alpha": 90.0,
+    "angle_beta": 90.0,
+    "angle_gamma": 90.0,
+    "length_a": 40.37,
+    "length_b": 40.37,
+    "length_c": 165.82
+  },
+  "citation": [
+    {
+      "country": "US",
+      "id": "primary",
+      "journal_abbrev": "Proteins",
+      "journal_id_ASTM": "PSFGEY",
+      "journal_id_CSD": "0867",
+      "journal_id_ISSN": "0887-3585",
+      "journal_volume": "51",
+      "page_first": "56",
+      "page_last": "67",
+      "pdbx_database_id_DOI": "10.1002/prot.10323",
+      "pdbx_database_id_PubMed": 12596263,
+      "rcsb_authors": [
+        "Lim, K.",
+        "Zhang, H.",
+        "Tempcyzk, A.",
+        "Krajewski, W.",
+        "Bonander, N.",
+        "Toedt, J.",
+        "Howard, A.",
+        "Eisenstein, E.",
+        "Herzberg, O."
+      ],
+      "rcsb_is_primary": "Y",
+      "rcsb_journal_abbrev": "Proteins",
+      "title": "Structure of the YibK methyltransferase from Haemophilus influenzae \n (HI0766): A cofactor bound at a site formed by a knot",
+      "year": 2003
+    }
+  ],
+  "database_2": [
+    {
+      "database_code": "1J85",
+      "database_id": "PDB",
+      "pdbx_DOI": "10.2210/pdb1j85/pdb",
+      "pdbx_database_accession": "pdb_00001j85"
+    },
+    {
+      "database_code": "RCSB013479",
+      "database_id": "RCSB"
+    },
+    {
+      "database_code": "D_1000013479",
+      "database_id": "WWPDB"
+    }
+  ],
+  "diffrn": [
+    {
+      "ambient_temp": 100.0,
+      "crystal_id": "1",
+      "id": "1"
+    }
+  ],
+  "diffrn_detector": [
+    {
+      "detector": "CCD",
+      "diffrn_id": "1",
+      "pdbx_collection_date": "2000-01-27T00:00:00.000+00:00",
+      "type": "MARRESEARCH"
+    }
+  ],
+  "diffrn_radiation": [
+    {
+      "diffrn_id": "1",
+      "pdbx_diffrn_protocol": "SINGLE WAVELENGTH",
+      "pdbx_monochromatic_or_laue_m_l": "M",
+      "pdbx_scattering_type": "x-ray",
+      "wavelength_id": "1"
+    }
+  ],
+  "diffrn_source": [
+    {
+      "diffrn_id": "1",
+      "pdbx_synchrotron_beamline": "17-ID",
+      "pdbx_synchrotron_site": "APS",
+      "pdbx_wavelength_list": "1.0",
+      "source": "SYNCHROTRON",
+      "type": "APS BEAMLINE 17-ID"
+    }
+  ],
+  "entry": {
+    "id": "1J85"
+  },
+  "exptl": [
+    {
+      "crystals_number": 1,
+      "method": "X-RAY DIFFRACTION"
+    }
+  ],
+  "exptl_crystal": [
+    {
+      "density_Matthews": 1.83,
+      "density_percent_sol": 32.87,
+      "id": "1"
+    }
+  ],
+  "exptl_crystal_grow": [
+    {
+      "crystal_id": "1",
+      "method": "VAPOR DIFFUSION, HANGING DROP",
+      "pH": 4.6,
+      "pdbx_details": "protein solution (12.5 mg/ml) in 50mM Tris-HCl pH7.5, 0.1mM EDTA, 0.1mM DTT; crystallization condition - 20 % polyethylene glycol monomethylether 2000, 0.1 M Na Acetate, 0.2 M Ammonium acetate, 3 % ethylene glycol, pH 4.6, VAPOR DIFFUSION, HANGING DROP, temperature 295K",
+      "temp": 295.0
+    }
+  ],
+  "pdbx_SG_project": [
+    {
+      "full_name_of_center": "Structure 2 Function Project",
+      "id": 1,
+      "initial_of_center": "S2F"
+    }
+  ],
+  "pdbx_audit_revision_category": [
+    {
+      "category": "chem_comp_atom",
+      "data_content_type": "Structure model",
+      "ordinal": 1,
+      "revision_ordinal": 4
+    },
+    {
+      "category": "chem_comp_bond",
+      "data_content_type": "Structure model",
+      "ordinal": 2,
+      "revision_ordinal": 4
+    },
+    {
+      "category": "database_2",
+      "data_content_type": "Structure model",
+      "ordinal": 3,
+      "revision_ordinal": 4
+    }
+  ],
+  "pdbx_audit_revision_details": [
+    {
+      "data_content_type": "Structure model",
+      "ordinal": 1,
+      "provider": "repository",
+      "revision_ordinal": 1,
+      "type": "Initial release"
+    }
+  ],
+  "pdbx_audit_revision_group": [
+    {
+      "data_content_type": "Structure model",
+      "group": "Version format compliance",
+      "ordinal": 1,
+      "revision_ordinal": 2
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Derived calculations",
+      "ordinal": 2,
+      "revision_ordinal": 3
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Source and taxonomy",
+      "ordinal": 3,
+      "revision_ordinal": 3
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Version format compliance",
+      "ordinal": 4,
+      "revision_ordinal": 3
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Data collection",
+      "ordinal": 5,
+      "revision_ordinal": 4
+    },
+    {
+      "data_content_type": "Structure model",
+      "group": "Database references",
+      "ordinal": 6,
+      "revision_ordinal": 4
+    }
+  ],
+  "pdbx_audit_revision_history": [
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 0,
+      "ordinal": 1,
+      "revision_date": "2003-02-25T00:00:00.000+00:00"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 1,
+      "ordinal": 2,
+      "revision_date": "2008-04-27T00:00:00.000+00:00"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 2,
+      "ordinal": 3,
+      "revision_date": "2011-07-13T00:00:00.000+00:00"
+    },
+    {
+      "data_content_type": "Structure model",
+      "major_revision": 1,
+      "minor_revision": 3,
+      "ordinal": 4,
+      "revision_date": "2024-02-07T00:00:00.000+00:00"
+    }
+  ],
+  "pdbx_audit_revision_item": [
+    {
+      "data_content_type": "Structure model",
+      "item": "_database_2.pdbx_DOI",
+      "ordinal": 1,
+      "revision_ordinal": 4
+    },
+    {
+      "data_content_type": "Structure model",
+      "item": "_database_2.pdbx_database_accession",
+      "ordinal": 2,
+      "revision_ordinal": 4
+    }
+  ],
+  "pdbx_database_related": [
+    {
+      "content_type": "unspecified",
+      "db_id": "HI0766",
+      "db_name": "TargetDB"
+    }
+  ],
+  "pdbx_database_status": {
+    "SG_entry": "Y",
+    "deposit_site": "RCSB",
+    "pdb_format_compatible": "Y",
+    "process_site": "RCSB",
+    "recvd_initial_deposition_date": "2001-05-20T00:00:00.000+00:00",
+    "status_code": "REL",
+    "status_code_sf": "REL"
+  },
+  "pdbx_vrpt_summary": {
+    "attempted_validation_steps": "molprobity,validation-pack,xtriage,eds,validation_schema,percentiles,writexml,writecif,writepdf",
+    "ligands_for_buster_report": "N",
+    "report_creation_date": "2026-03-08T12:25:00.000+00:00"
+  },
+  "pdbx_vrpt_summary_diffraction": [
+    {
+      "B_factor_type": "FULL",
+      "CCP4_version": "9.0.010 (Gargrove)",
+      "DCC_R": 0.1995,
+      "DCC_Rfree": 0.2658,
+      "EDS_R": 0.2023,
+      "EDS_res_high": 2.0,
+      "EDS_res_low": 20.0,
+      "Fo_Fc_correlation": 0.948,
+      "I_over_sigma": "6.53(1.98A)",
+      "Padilla_Yeates_L2_mean": 0.326,
+      "Padilla_Yeates_L_mean": 0.489,
+      "Wilson_B_aniso": "[26.567,26.567,19.839,0.000,0.000,0.000]",
+      "Wilson_B_estimate": 24.101,
+      "acentric_outliers": 1,
+      "bulk_solvent_b": 43.325,
+      "bulk_solvent_k": 0.331,
+      "centric_outliers": 1,
+      "data_anisotropy": 0.277,
+      "data_completeness": 95.32,
+      "density_fitness_version": "1.0.12",
+      "exp_method": "x-ray",
+      "num_miller_indices": 9671,
+      "number_reflns_R_free": 1057,
+      "percent_RSRZ_outliers": 3.21,
+      "percent_free_reflections": 10.93,
+      "trans_NCS_details": "The largest off-origin peak in the Patterson function is 9.34% of the height of the origin peak. No significant pseudotranslation is detected."
+    }
+  ],
+  "pdbx_vrpt_summary_geometry": [
+    {
+      "angles_RMSZ": 1.22,
+      "bonds_RMSZ": 0.99,
+      "clashscore": 15.37,
+      "num_H_reduce": 1277,
+      "num_angles_RMSZ": 1738,
+      "num_bonds_RMSZ": 1289,
+      "percent_ramachandran_outliers": 0.0,
+      "percent_rotamer_outliers": 6.57
+    }
+  ],
+  "rcsb_accession_info": {
+    "deposit_date": "2001-05-20T00:00:00.000+00:00",
+    "has_released_experimental_data": "Y",
+    "initial_release_date": "2003-02-25T00:00:00.000+00:00",
+    "major_revision": 1,
+    "minor_revision": 3,
+    "revision_date": "2024-02-07T00:00:00.000+00:00",
+    "status_code": "REL"
+  },
+  "rcsb_entry_container_identifiers": {
+    "assembly_ids": [
+      "1"
+    ],
+    "entity_ids": [
+      "1",
+      "2"
+    ],
+    "entry_id": "1J85",
+    "model_ids": [
+      1
+    ],
+    "polymer_entity_ids": [
+      "1"
+    ],
+    "pubmed_id": 12596263,
+    "rcsb_id": "1J85"
+  },
+  "rcsb_entry_info": {
+    "assembly_count": 1,
+    "branched_entity_count": 0,
+    "cis_peptide_count": 1,
+    "deposited_atom_count": 1384,
+    "deposited_branched_entity_instance_count": 0,
+    "deposited_deuterated_water_count": 0,
+    "deposited_hydrogen_atom_count": 0,
+    "deposited_model_count": 1,
+    "deposited_modeled_polymer_monomer_count": 156,
+    "deposited_nonpolymer_entity_instance_count": 0,
+    "deposited_polymer_entity_instance_count": 1,
+    "deposited_polymer_monomer_count": 160,
+    "deposited_solvent_atom_count": 124,
+    "deposited_unmodeled_polymer_monomer_count": 4,
+    "diffrn_radiation_wavelength_maximum": 1.0,
+    "diffrn_radiation_wavelength_minimum": 1.0,
+    "disulfide_bond_count": 0,
+    "entity_count": 2,
+    "experimental_method": "X-ray",
+    "experimental_method_count": 1,
+    "inter_mol_covalent_bond_count": 0,
+    "inter_mol_metalic_bond_count": 0,
+    "molecular_weight": 18.43,
+    "na_polymer_entity_types": "Other",
+    "nonpolymer_entity_count": 0,
+    "polymer_composition": "homomeric protein",
+    "polymer_entity_count": 1,
+    "polymer_entity_count_DNA": 0,
+    "polymer_entity_count_RNA": 0,
+    "polymer_entity_count_nucleic_acid": 0,
+    "polymer_entity_count_nucleic_acid_hybrid": 0,
+    "polymer_entity_count_protein": 1,
+    "polymer_entity_taxonomy_count": 1,
+    "polymer_molecular_weight_maximum": 18.43,
+    "polymer_molecular_weight_minimum": 18.43,
+    "polymer_monomer_count_maximum": 160,
+    "polymer_monomer_count_minimum": 160,
+    "resolution_combined": [
+      2.0
+    ],
+    "selected_polymer_entity_types": "Protein (only)",
+    "software_programs_combined": [
+      "CNS",
+      "DENZO",
+      "DM",
+      "MLPHARE",
+      "SCALEPACK",
+      "SOLVE"
+    ],
+    "solvent_entity_count": 1,
+    "structure_determination_methodology": "experimental",
+    "structure_determination_methodology_priority": 10,
+    "diffrn_resolution_high": {
+      "provenance_source": "Depositor assigned",
+      "value": 2.0
+    }
+  },
+  "rcsb_primary_citation": {
+    "country": "US",
+    "id": "primary",
+    "journal_abbrev": "Proteins",
+    "journal_id_ASTM": "PSFGEY",
+    "journal_id_CSD": "0867",
+    "journal_id_ISSN": "0887-3585",
+    "journal_volume": "51",
+    "page_first": "56",
+    "page_last": "67",
+    "pdbx_database_id_DOI": "10.1002/prot.10323",
+    "pdbx_database_id_PubMed": 12596263,
+    "rcsb_ORCID_identifiers": [
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?"
+    ],
+    "rcsb_authors": [
+      "Lim, K.",
+      "Zhang, H.",
+      "Tempcyzk, A.",
+      "Krajewski, W.",
+      "Bonander, N.",
+      "Toedt, J.",
+      "Howard, A.",
+      "Eisenstein, E.",
+      "Herzberg, O."
+    ],
+    "rcsb_journal_abbrev": "Proteins",
+    "title": "Structure of the YibK methyltransferase from Haemophilus influenzae \n (HI0766): A cofactor bound at a site formed by a knot",
+    "year": 2003
+  },
+  "refine": [
+    {
+      "B_iso_mean": 30.0,
+      "ls_R_factor_R_free": 0.263,
+      "ls_R_factor_R_work": 0.195,
+      "ls_d_res_high": 2.0,
+      "ls_d_res_low": 20.0,
+      "ls_number_reflns_R_free": 1036,
+      "ls_number_reflns_all": 9558,
+      "ls_number_reflns_obs": 9326,
+      "ls_percent_reflns_R_free": 11.1,
+      "pdbx_R_Free_selection_details": "random",
+      "pdbx_diffrn_id": [
+        "1"
+      ],
+      "pdbx_ls_cross_valid_method": "THROUGHOUT",
+      "pdbx_ls_sigma_F": 2.0,
+      "pdbx_method_to_determine_struct": "MIR",
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "pdbx_stereochemistry_target_values": "Engh & Huber"
+    }
+  ],
+  "refine_hist": [
+    {
+      "cycle_id": "LAST",
+      "d_res_high": 2.0,
+      "d_res_low": 20.0,
+      "number_atoms_solvent": 124,
+      "number_atoms_total": 1384,
+      "pdbx_number_atoms_ligand": 0,
+      "pdbx_number_atoms_nucleic_acid": 0,
+      "pdbx_number_atoms_protein": 1260,
+      "pdbx_refine_id": "X-RAY DIFFRACTION"
+    }
+  ],
+  "refine_ls_restr": [
+    {
+      "dev_ideal": 0.018,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "c_bond_d"
+    },
+    {
+      "dev_ideal": 1.9,
+      "pdbx_refine_id": "X-RAY DIFFRACTION",
+      "type": "c_angle_deg"
+    }
+  ],
+  "reflns": [
+    {
+      "B_iso_Wilson_estimate": 21.0,
+      "d_resolution_high": 2.0,
+      "d_resolution_low": 50.0,
+      "number_all": 9754,
+      "number_obs": 9754,
+      "observed_criterion_sigma_F": 0.0,
+      "observed_criterion_sigma_I": 0.0,
+      "pdbx_Rmerge_I_obs": 0.058,
+      "pdbx_diffrn_id": [
+        "1"
+      ],
+      "pdbx_netI_over_sigmaI": 14.0,
+      "pdbx_ordinal": 1,
+      "pdbx_redundancy": 10.9,
+      "percent_possible_obs": 98.1
+    }
+  ],
+  "reflns_shell": [
+    {
+      "Rmerge_I_obs": 0.134,
+      "d_res_high": 2.0,
+      "d_res_low": 2.09,
+      "number_unique_all": 1190,
+      "pdbx_Rsym_value": 0.134,
+      "pdbx_diffrn_id": [
+        "1"
+      ],
+      "pdbx_ordinal": 1,
+      "pdbx_redundancy": 8.7,
+      "percent_possible_all": 99.8
+    }
+  ],
+  "software": [
+    {
+      "classification": "data reduction",
+      "name": "DENZO",
+      "pdbx_ordinal": 1
+    },
+    {
+      "classification": "data scaling",
+      "name": "SCALEPACK",
+      "pdbx_ordinal": 2
+    },
+    {
+      "classification": "phasing",
+      "name": "SOLVE",
+      "pdbx_ordinal": 3
+    },
+    {
+      "classification": "phasing",
+      "name": "MLPHARE",
+      "pdbx_ordinal": 4
+    },
+    {
+      "classification": "model building",
+      "name": "DM",
+      "pdbx_ordinal": 5
+    },
+    {
+      "classification": "refinement",
+      "name": "CNS",
+      "pdbx_ordinal": 6
+    },
+    {
+      "classification": "phasing",
+      "name": "DM",
+      "pdbx_ordinal": 7
+    }
+  ],
+  "struct": {
+    "title": "Structure of YibK from Haemophilus influenzae (HI0766), a truncated sequence homolog of tRNA (guanosine-2'-O-) methyltransferase (SpoU)"
+  },
+  "struct_keywords": {
+    "pdbx_keywords": "TRANSFERASE",
+    "text": "methyltransferase, structural genomics, hypothetical protein, Structure 2 Function Project, S2F, TRANSFERASE"
+  },
+  "symmetry": {
+    "Int_Tables_number": 92,
+    "space_group_name_H_M": "P 41 21 2"
+  },
+  "rcsb_id": "1J85"
+}

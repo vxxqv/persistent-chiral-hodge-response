@@ -1,0 +1,12 @@
+{
+  "three_strand_trefoil_positive_stabilization": "A**(-4) + A**(-12) - 1/A**16",
+  "three_strand_trefoil_negative_stabilization": "A**(-4) + A**(-12) - 1/A**16",
+  "three_strand_figure_eight_word": "A**8 - A**4 + 1 - 1/A**4 + A**(-8)",
+  "root_order5_braid_relation_error": 2.603703785810335e-16,
+  "root_order5_unitarity_errors": [
+    2.482534153247273e-16,
+    2.482534153247273e-16
+  ],
+  "root_order5_noncommutativity": 1.7989074399478677,
+  "ordinary_trace_is_not_Jones_Markov_trace": true
+}
